@@ -7,7 +7,7 @@ const Navbar = ({ filterHandler }) => {
   return (
     <nav className='navbarWrapper'>
       <span className='logoWrapper'>
-        <img className='logoImage' src={logo} alt='Logo' />
+        {/* <img className='logoImage' src={logo} alt='Logo' /> */}
       </span>
       <div className='linksAndSearchWrapper'>
         <div className='searchWrapper'></div>

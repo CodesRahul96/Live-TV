@@ -1,7 +1,7 @@
 .navbarWrapper {
     display: flex;
     width: 100%;
-    border-bottom: 2px solid white;
+    /* border-bottom: 2px solid white; */
     align-items: center;
 }
 

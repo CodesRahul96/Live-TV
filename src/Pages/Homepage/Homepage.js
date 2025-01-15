@@ -85,7 +85,7 @@ const Homepage = () => {
                     }}
                     className='channelListItem'
                   >
-                    Serial
+                    Entertainment
                   </li>
                 </Focusable>
                 <Focusable
@@ -99,7 +99,7 @@ const Homepage = () => {
                     }}
                     className='channelListItem'
                   >
-                    Marathi
+                    Regional
                   </li>
                 </Focusable>
                 <Focusable
