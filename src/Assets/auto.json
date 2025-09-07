@@ -1,32 +1,5 @@
 [
     {
-        "id": "",
-        "title": "join@Billa_tv",
-        "logo_url": "usus",
-        "stream_url": "https://cdn.videas.fr/v-medias/s5/hlsv1/98/5f/985ff528-2486-41a4-a077-21c4228b2da0/1080p.m3u8",
-        "license_url": "",
-        "user_agent": "",
-        "cookie": ""
-    },
-    {
-        "id": "ts840",
-        "title": "Shirdi Sai Baba",
-        "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png",
-        "stream_url": "https://freelivtv.xyz/app/tplayu.m3u8?id=840",
-        "license_url": "",
-        "user_agent": "",
-        "cookie": ""
-    },
-    {
-        "id": "ts842",
-        "title": "Somnath Temple",
-        "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png",
-        "stream_url": "https://freelivtv.xyz/app/tplayu.m3u8?id=842",
-        "license_url": "",
-        "user_agent": "",
-        "cookie": ""
-    },
-    {
         "id": "ts121",
         "title": "Tata Play Fitness",
         "logo_url": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png",
