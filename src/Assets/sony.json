@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "SONY HD",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_HD.png",
     "stream_url": "https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8",
     "license_url": "",
     "user_agent": "",
@@ -11,7 +11,7 @@
   {
     "id": "2",
     "title": "SONY SAB HD",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_SAB_HD.png",
     "stream_url": "https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8",
     "license_url": "",
     "user_agent": "",
@@ -20,7 +20,7 @@
   {
     "id": "3",
     "title": "SONY PAL",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_Pal.png",
     "stream_url": "https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8",
     "license_url": "",
     "user_agent": "",
@@ -29,7 +29,7 @@
   {
     "id": "4",
     "title": "SONY PIX HD",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_Pix_HD.png",
     "stream_url": "https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8",
     "license_url": "",
     "user_agent": "",
@@ -38,7 +38,7 @@
   {
     "id": "5",
     "title": "SONY MAX",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_Max_SD.png",
     "stream_url": "https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8",
     "license_url": "",
     "user_agent": "",
@@ -47,7 +47,7 @@
   {
     "id": "6",
     "title": "SONY MAX HD",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_Max_HD.png",
     "stream_url": "https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8",
     "license_url": "",
     "user_agent": "",
@@ -56,7 +56,7 @@
   {
     "id": "7",
     "title": "SONY MAX2",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
     "stream_url": "https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
     "license_url": "",
     "user_agent": "",
@@ -65,7 +65,7 @@
   {
     "id": "8",
     "title": "SONY WAH",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_Wah.png",
     "stream_url": "https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8",
     "license_url": "",
     "user_agent": "",
@@ -164,7 +164,7 @@
   {
     "id": "19",
     "title": "SONY BBC EARTH HD",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_BBC_Earth_HD.png",
     "stream_url": "https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8",
     "license_url": "",
     "user_agent": "",
@@ -173,7 +173,7 @@
   {
     "id": "20",
     "title": "SONY YAY!",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_Yay_Hindi.png",
     "stream_url": "https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
     "license_url": "",
     "user_agent": "",
@@ -182,7 +182,7 @@
   {
     "id": "21",
     "title": "SONY MARATHI",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_Marathi_SD.png",
     "stream_url": "https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8",
     "license_url": "",
     "user_agent": "",
@@ -191,7 +191,7 @@
   {
     "id": "22",
     "title": "SONY AATH",
-    "logo_url": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
+    "logo_url": "https://sonypicturesnetworks.com/images/logos/Sony_aath.png",
     "stream_url": "https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
     "license_url": "",
     "user_agent": "",
