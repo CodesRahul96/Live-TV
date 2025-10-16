@@ -1,40 +1,68 @@
-#EXTM3U
 
-
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-HD-USA.png" group-title="HINDI | INDIA", SONY TV USA FHD [IN]
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483931
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY.png" group-title="HINDI | INDIA", SONY TV FHD [IN]
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483930
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY.png" group-title="HINDI | INDIA", SONY TV HD [IN]
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483928
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY.png" group-title="HINDI | INDIA", SONY TV FHD (BK) [IN]
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483929
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-SAB.png" group-title="HINDI | INDIA", SONY SAB FHD [IN]
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483937
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-SAB.png" group-title="HINDI | INDIA", SONY SAB HD [IN]
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483936
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-WAH.png" group-title="HINDI | INDIA", SONY WAH [IN]
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483973
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-PIX.png" group-title="HINDI | INDIA", SONY PIX FHD [IN]
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483971
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX.png" group-title="HINDI | INDIA", SONY MAX FHD [IN]
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483932
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX.png" group-title="HINDI | INDIA", SONY MAX FHD (BK) [IN]
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483933
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX-2.png" group-title="HINDI | INDIA", SONY MAX 2 [IN]
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483935
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic.png" group-title="IND |  MARATHI",IN-MAR | SONIC
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380860&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cithra-copy.png" group-title="IND |  MARATHI",IN-MAR | ZEE CHITRA MANDIR
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380859&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Shemaroo-MarathiBana.png" group-title="IND |  MARATHI",IN-MAR | SHEEMAROO MARATHIBANA
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380856&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun.png" group-title="IND |  MARATHI",IN-MAR | SUN TV
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380855&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/9X-Jhakaas.png" group-title="IND |  MARATHI",IN-MAR | 9X JHAKAAS
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380854&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sangeet-Marathi.png" group-title="IND |  MARATHI",IN-MAR | SANGEET MARATHI
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380853&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Saam-TV.png" group-title="IND |  MARATHI",IN-MAR | C NEWS
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380852&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Media-9.png" group-title="IND |  MARATHI",IN-MAR | TV9 MARATHI
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380851&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tas.png" group-title="IND |  MARATHI",IN-MAR | ZEE 24 TAAS
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380850&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Fakt-Marathi.png" group-title="IND |  MARATHI",IN-MAR | FAKT MARATHI
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380846&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sony-Marathi.png" group-title="IND |  MARATHI",IN-MAR | SONY MARATHI
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380842&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Sahyadri.png" group-title="IND |  MARATHI",IN-MAR | DD SAHYADRI
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380840&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Yuva.png" group-title="IND |  MARATHI",IN-MAR | ZEE YUVA
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380837&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Goa-247.png" group-title="IND |  MARATHI",IN-MAR | IN GOA 24X7
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380835&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jai-Maharashtra.png" group-title="IND |  MARATHI",IN-MAR | JAI MAHARASHTRA
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380834&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Media-9.png" group-title="IND |  MARATHI",IN-MAR | MEDIA 9
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380832&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-State-Maharashtra-Goa.png" group-title="IND |  MARATHI",IN-MAR | NEWS STATE MAHARASHTRA GOA
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380831&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/RDX-Goa.png" group-title="IND |  MARATHI",IN-MAR | RDX GOA
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380829&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic.png" group-title="IND |  MARATHI",IN-MAR | SONIC NICKELODEON
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380828&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-18-Lokmat.png" group-title="IND |  MARATHI",IN-MAR | NEWS18 LOKMAT
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380822&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Marathi-SD.png" group-title="IND |  MARATHI",IN-MAR | COLORS MARATHI SD
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380821&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Loksahi.png" group-title="IND |  MARATHI",IN-MAR | LOKSHAHI
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380820&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ABP-Majha.png" group-title="IND |  MARATHI",IN-MAR | ABP MAJHA
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380819&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Talkies.png" group-title="IND |  MARATHI",IN-MAR | ZEE TALKIES FHD
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380818&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Marathi.png" group-title="IND |  MARATHI",IN-MAR | ZEE MARATHI HD
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380816&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Paravah.png" group-title="IND |  MARATHI",IN-MAR | STAR PRAVAH FHD
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380815&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="IND |  MARATHI",*** WELLCOME ***
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=380811&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IND |  MARATHI",IN-MAR | COLORS MARATHI HD
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=383175&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IND |  MARATHI",IN-MAR | COLORS MARATHI FHD
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=383174&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IND |  MARATHI",IN-MAR | STAR PRAVAH HD
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=383034&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IND |  MARATHI",IN-MAR | ZEE MARATHI
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=383033&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IND |  MARATHI",IN-MAR | LOKSHAHI NEWS
+https://freelivtv.xyz/proxy/m3u8.php?url=https://restream-bay.vercel.app/?id=382296&e=.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-MAX-2.png" group-title="HINDI | INDIA", SONY MAX 2 HD [IN]
 http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1483934
 
