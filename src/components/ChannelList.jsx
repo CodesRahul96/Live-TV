@@ -1,13 +1,30 @@
 import React from 'react';
-import { Play, Monitor } from 'lucide-react';
+import { Play, Monitor, Search } from 'lucide-react';
 
 export const ChannelList = ({ channels, currentChannel, onSelectChannel, categories, activeCategory, onSelectCategory }) => {
-  const filteredChannels = activeCategory === 'All' 
-    ? channels 
-    : channels.filter(c => c.category === activeCategory);
+  const [searchQuery, setSearchQuery] = React.useState('');
+
+  const filteredChannels = channels.filter(channel => {
+    const matchesCategory = activeCategory === 'All' || channel.category === activeCategory;
+    const matchesSearch = channel.name.toLowerCase().includes(searchQuery.toLowerCase());
+    return matchesCategory && matchesSearch;
+  });
 
   return (
     <div className="h-full flex flex-col bg-dark-card/50 backdrop-blur-md border-r border-white/5">
+      {/* Search Bar */}
+      <div className="p-4 pb-0">
+        <div className="relative">
+          <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-white/40" size={18} />
+          <input
+            type="text"
+            placeholder="Search channels..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="w-full bg-white/5 border border-white/10 rounded-xl pl-10 pr-4 py-2.5 text-sm text-white placeholder:text-white/40 focus:outline-none focus:border-primary-500/50 focus:bg-white/10 transition-all"
+          />
+        </div>
+      </div>
       {/* Categories */}
       <div className="p-4 border-b border-white/5 overflow-x-auto no-scrollbar">
         <div className="flex gap-2">

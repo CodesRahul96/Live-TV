@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import Hls from 'hls.js';
 import { Play, Pause, Volume2, VolumeX, Maximize, Minimize, Loader2 } from 'lucide-react';
 
-export const CustomPlayer = ({ src, poster, title }) => {
+export const CustomPlayer = ({ src, poster, title, onError }) => {
   const videoRef = useRef(null);
   const containerRef = useRef(null);
   const [isPlaying, setIsPlaying] = useState(false);
@@ -45,6 +45,7 @@ export const CustomPlayer = ({ src, poster, title }) => {
                     break;
                 default:
                     hls.destroy();
+                    if (onError) onError(data);
                     break;
             }
         }
@@ -73,17 +74,23 @@ export const CustomPlayer = ({ src, poster, title }) => {
     const onPause = () => setIsPlaying(false);
     const onWaiting = () => setIsLoading(true);
     const onPlaying = () => setIsLoading(false);
+    const onErrorEvent = (e) => {
+        console.error("Video error:", e);
+        if (onError) onError(e);
+    };
 
     video.addEventListener('play', onPlay);
     video.addEventListener('pause', onPause);
     video.addEventListener('waiting', onWaiting);
     video.addEventListener('playing', onPlaying);
+    video.addEventListener('error', onErrorEvent);
 
     return () => {
       video.removeEventListener('play', onPlay);
       video.removeEventListener('pause', onPause);
       video.removeEventListener('waiting', onWaiting);
       video.removeEventListener('playing', onPlaying);
+      video.removeEventListener('error', onErrorEvent);
     };
   }, []);
 
