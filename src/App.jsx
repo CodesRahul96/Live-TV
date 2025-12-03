@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Layout } from './components/Layout';
 import { ChannelList } from './components/ChannelList';
-import { VideoPlayer } from './components/VideoPlayer';
+import { CustomPlayer } from './components/CustomPlayer';
 import { RefreshCw } from 'lucide-react';
 import playlistContent from './assets/playlist.txt?raw';
 
@@ -41,12 +41,8 @@ function App() {
           if (nameMatch) tempChannel.name = nameMatch[1].trim();
           tempChannel.id = `local-${newChannels.length}`;
         } else if (line.startsWith('http')) {
-          // Use proxy for development to avoid CORS/Mixed Content
+          // Use URL directly from playlist
           let src = line;
-          if (import.meta.env.DEV) {
-             src = line.replace(/http:\/\/agh2019\.xyz(:80)?/, '/xtream');
-             console.log(`Transformed URL: ${line} -> ${src}`);
-          }
           
           // Force HLS format if not present
           if (!src.endsWith('.m3u8')) {
@@ -59,6 +55,18 @@ function App() {
         }
       }
       
+
+      
+      // Add a test channel for verification
+      newChannels.unshift({
+        id: 'test-channel',
+        name: 'TEST CHANNEL (Big Buck Bunny)',
+        category: 'Debug',
+        logo: 'https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg',
+        src: 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8',
+        type: 'application/x-mpegURL'
+      });
+
       setChannelList(newChannels);
       const cats = ['All', ...new Set(newChannels.map(c => c.category).filter(Boolean))];
       setCategoriesList(cats);
@@ -133,12 +141,11 @@ function App() {
         <div className="flex-1 relative w-full h-full">
           {currentChannel ? (
             <>
-              <VideoPlayer 
+              <CustomPlayer 
                 key={currentChannel.id}
                 src={currentChannel.src}
-                type={currentChannel.type}
-                drm={currentChannel.drm}
                 poster={currentChannel.logo}
+                title={currentChannel.name}
               />
               
               {/* Overlay Info */}

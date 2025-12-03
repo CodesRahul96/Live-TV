@@ -43,8 +43,24 @@
     }
   }
 }
-
 @layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
   .glass-panel {
     @apply bg-dark-card/70 backdrop-blur-lg border border-white/10 shadow-xl;
   }
@@ -52,6 +68,12 @@
   .text-gradient {
     @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-400 to-purple-500;
   }
+}
+
+/* Vidstack Customization */
+media-player {
+  --media-brand: #0ea5e9; /* primary-500 */
+  --media-focus-ring-color: #38bdf8;
 }
 
 /* Base styles can be added directly or via @layer base */
