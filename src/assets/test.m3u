@@ -1,1 +1,244 @@
-test
+[
+  {
+    "name": "SONY HD",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY HD.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SAB HD",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SAB HD.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY MARATHI",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY MARATHI.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY PAL",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY PAL.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY AATH",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY AATH.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY YAY",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY YAY.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY MAX HD",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY MAX HD.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY MAX",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY MAX.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY WAH",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY WAH.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY MAX2",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY MAX2.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY PIX HD",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY PIX HD.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY TEN 1 HD",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY TEN 1 HD.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY TEN 1",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY TEN 1.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY TEN 2 HD",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY TEN 2 HD.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY TEN 2",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY TEN 2.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY TEN 3 HD",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY TEN 3 HD.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY TEN 3",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY TEN 3.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY TEN 4 HD",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY TEN 4 HD.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY TEN 4",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY TEN 4.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY TEN 5 HD",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "SONY TEN 5",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY TEN 5.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  },
+  {
+    "name": "BBC EARTH",
+    "url": "https://sl.vodep39240327.workers.dev/channel/BBC EARTH.m3u8",
+    "logoUrl": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+    "group": "VT | Sony Liv",
+    "headers": {
+      "Origin": "https://www.sonyliv.com",
+      "Referer": "https://www.sonyliv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+    }
+  }
+]
