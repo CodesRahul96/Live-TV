@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png" group-title="-",&Xplor HD - Rs 4.00
+http://66.102.120.18:8000/play/a012/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="-",&flix HD - Rs 19.00
+http://66.102.120.18:8000/play/a022/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="-",&pictures HD - Rs 19.00
+http://66.102.120.18:8000/play/a01t/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="-",&tv HD - Rs 19.00
+http://66.102.120.18:8000/play/a01u/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",AXN
+http://66.102.120.18:8000/play/a06i/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="-",Al Jazeera English HD
+http://66.102.120.18:8000/play/a03j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Animal Planet HD  - Rs 5.00
+http://66.102.120.18:8000/play/a001/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="-",B4U Movies - Free
+http://66.102.120.18:8000/play/a01w/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",BBC News
+http://66.102.120.18:8000/play/a074/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",CNN International
+http://66.102.120.18:8000/play/a03h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",COLORS CINIPLEX HD
+http://66.102.120.18:8000/play/a06z/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Cartoon Network - Rs 4.75
+http://66.102.120.18:8000/play/a00t/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Cartoon Network HD+ - Rs 7.00
+http://66.102.120.18:8000/play/a017/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="-",Colors Cineplex Bollywood - Rs 0.10
+http://66.102.120.18:8000/play/a01a/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="-",Colors HD - Rs 19.00
+http://66.102.120.18:8000/play/a00a/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="-",Colors Infinity HD - Rs 15.0
+http://66.102.120.18:8000/play/a014/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",DW English HD
+http://66.102.120.18:8000/play/a03i/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery.png" group-title="-",Discovery HD - Rs 8.00
+http://66.102.120.18:8000/play/a01k/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery.png" group-title="-",Discovery Kids - Rs 3.50
+http://66.102.120.18:8000/play/a00k/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="-",Discovery Science - Rs 1.00
+http://66.102.120.18:8000/play/a01l/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="-",Discovery Turbo - Rs 1.00
+http://66.102.120.18:8000/play/a016/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="-",Disney Channel HD - Rs 17.00
+http://66.102.120.18:8000/play/a013/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="-",Disney International HD
+http://66.102.120.18:8000/play/a078/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="-",Disney Junior - Rs 4.00
+http://66.102.120.18:8000/play/a004/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Disney
+http://66.102.120.18:8000/play/a070/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",EXP ENTERTAINMENT
+http://66.102.120.18:8000/play/a054/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="-",Eurosport HD - Rs 6.00
+http://66.102.120.18:8000/play/a01g/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",FILMAX
+http://66.102.120.18:8000/play/a04c/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="-",History TV18 HD - Rs 7.00
+http://66.102.120.18:8000/play/a01q/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" group-title="-",Investigation Discovery - Rs 1.00
+http://66.102.120.18:8000/play/a01h/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",MINIMAX 2
+http://66.102.120.18:8000/play/a04o/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="-",NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://66.102.120.18:8000/play/a01f/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="-",Nat Geo Wild HD - Rs 8.00
+http://66.102.120.18:8000/play/a01d/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Nick  - Rs 6.00
+http://66.102.120.18:8000/play/a00w/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Nick Jr. - Rs 1.00
+http://66.102.120.18:8000/play/a00m/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Planet Fun HD
+http://66.102.120.18:8000/play/a02k/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Pogo - Rs 4.75
+http://66.102.120.18:8000/play/a00l/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Public News
+http://66.102.120.18:8000/play/a03u/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",RUBIX HD
+http://66.102.120.18:8000/play/a042/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Romedy Now - Rs 5.00
+http://66.102.120.18:8000/play/a01j/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",SET HD - Rs 19.00
+http://66.102.120.18:8000/play/a005/index.m3u8
+#EXTINF:-1  tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="-",SONY BBC EARTH HD - Rs 19.00
+http://66.102.120.18:8000/play/a01r/index.m3u8
+#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="-",SONY MAX - Rs 19.00
+http://66.102.120.18:8000/play/a00u/index.m3u8
+#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="-",SONY MAX 2 - Rs 1.00
+http://66.102.120.18:8000/play/a00h/index.m3u8
+#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="-",SONY MAX HD
+http://66.102.120.18:8000/play/a071/index.m3u8
+#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="-",SONY PIX HD - Rs 19.00
+http://66.102.120.18:8000/play/a01z/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",SONY SPORTS TEN 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a00e/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="-",SONY SPORTS TEN 2 HD - Rs 19.00
+http://66.102.120.18:8000/play/a01y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",SONY SPORTS TEN 3 Hindi HD
+http://66.102.120.18:8000/play/a00z/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",SONY SPORTS TEN 5 Hindi HD
+http://66.102.120.18:8000/play/a010/index.m3u8
+#EXTINF:-1  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="-",SONY YAY! - Rs 4.00
+http://66.102.120.18:8000/play/a00s/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="-",STAR GOLD HD - Rs 19.00
+http://66.102.120.18:8000/play/a00f/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="-",STAR Movies HD - Rs 19.00
+http://66.102.120.18:8000/play/a021/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="-",STAR Movies Select HD - Rs 19.00
+http://66.102.120.18:8000/play/a020/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="-",STAR Plus HD - Rs 22.00
+http://66.102.120.18:8000/play/a008/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",STAR SPORTS S1 HD
+http://66.102.120.18:8000/play/a06x/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",STAR SPORTS S2 HD
+http://66.102.120.18:8000/play/a06y/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="-",STAR Sports 1 Hindi HD
+http://66.102.120.18:8000/play/a072/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",STAR Sports2 Hindi HD
+http://66.102.120.18:8000/play/a00v/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Sab TV
+http://66.102.120.18:8000/play/a035/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",See TV
+http://66.102.120.18:8000/play/a03y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Set Entertainment
+http://66.102.120.18:8000/play/a05r/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Sonic - Rs 1.00
+http://66.102.120.18:8000/play/a00p/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="-",Star Gold 2 - Rs 3.00
+http://66.102.120.18:8000/play/a00g/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="-",Star Gold 2 HD
+http://66.102.120.18:8000/play/a077/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="-",Star Gold Romance - Rs 2.00
+http://66.102.120.18:8000/play/a00r/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="-",Star Gold Select HD - Rs 8.00
+http://66.102.120.18:8000/play/a01s/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="-",Star Gold Thrills - Rs 2.00
+http://66.102.120.18:8000/play/a00c/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Star News Asia
+http://66.102.120.18:8000/play/a03z/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="-",Star Sports 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a009/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title="-",Star Sports 1 Hindi - Rs 19.00
+http://66.102.120.18:8000/play/a00i/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",TEN SPORTS
+http://66.102.120.18:8000/play/a018/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="-",TLC HD - Rs 3.00
+http://66.102.120.18:8000/play/a01c/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="-",Travelxp HD
+http://66.102.120.18:8000/play/a075/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="-",Zee Anmol Cinema - Rs 0.10
+http://66.102.120.18:8000/play/a01v/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="-",Zee Bollywood - Rs 3.00
+http://66.102.120.18:8000/play/a00n/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Zee Cafe HD
+http://66.102.120.18:8000/play/a076/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="-",Zee Cinema HD
+http://66.102.120.18:8000/play/a06w/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="-",Zee Classic - Rs 0.10
+http://66.102.120.18:8000/play/a006/index.m3u8
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="-",Zee TV HD - Rs 19.00
+http://66.102.120.18:8000/play/a00y/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",Zoom - Rs 0.50
+http://66.102.120.18:8000/play/a015/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="-",iFilm English
+http://66.102.120.18:8000/play/a06n/index.m3u8
