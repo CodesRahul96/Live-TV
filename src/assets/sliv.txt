@@ -1,0 +1,96 @@
+
+#EXTINF:-1 tvg-id="sliv_291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Entertainment",SET HD
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_291|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_471" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Entertainment",Sony SAB HD
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_471|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_sony-sab" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Sony Entertainment",Sony Sab
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_sony-sab|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_1146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony Entertainment",Sony Marathi
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_1146|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_474" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Entertainment",Sony Pal
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_474|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_697" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Entertainment",Sony Aath
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_697|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_kal" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="Sony Entertainment",Sony KAL
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_kal|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_872" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sony Kids",Sony Yay
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_872|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Sony Movies",Sony MAX HD
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_476|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_289" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Sony Movies",Sony MAX
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_289|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_483" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Movies",Sony MAX2
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_483|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_1393" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Movies",Sony WAH
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_1393|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Movies",Sony PIX HD
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_762|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_821" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Sony Infotainment",Sony BBC Earth HD
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_821|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_514" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sony Sports",Sony Sports Ten 1
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_514|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_523" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sony Sports",Sony Sports Ten 2
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_523|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_524" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sony Sports",Sony Sports Ten 3
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_524|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_1775" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sony Sports",Sony Sports Ten 4
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_1775|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_525" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony Sports",Sony Sports Ten 5
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_525|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_162" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sony Sports",Sony Sports Ten 1 HD
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_162|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_891" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sony Sports",Sony Sports Ten 2 HD
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_891|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_892" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sony Sports",Sony Sports Ten 3 HD
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_892|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_1773" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sony Sports",Sony Sports Ten 4 HD
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_1773|User-Agent=Denver1769
+
+
+#EXTINF:-1 tvg-id="sliv_155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Sony Sports",Sony Sports Ten 5 HD
+https://play.denver1769.fun/Play/sliv/Test00/index.m3u8?id=sliv_155|User-Agent=Denver1769
+
