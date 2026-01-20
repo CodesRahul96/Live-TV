@@ -1,0 +1,487 @@
+
+#EXTINF:-1 tvg-id="510907" tvg-name="UTSAV PLUS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",UTSAV PLUS
+#EXTINF:-1 tvg-id="276904" tvg-name="ZEE CLASSICS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE CLASSICS
+#EXTINF:-1 tvg-id="276905" tvg-name="ZEE ACTION" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE ACTION
+#EXTINF:-1 tvg-id="276906" tvg-name="ZEE TV ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE TV ᴴᴰ
+#EXTINF:-1 tvg-id="276907" tvg-name="ZEE CINEMA ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE CINEMA ᴴᴰ
+#EXTINF:-1 tvg-id="276908" tvg-name="ZING" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZING
+#EXTINF:-1 tvg-id="276909" tvg-name="STAR BHARAT ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",STAR BHARAT ᴴᴰ
+#EXTINF:-1 tvg-id="276910" tvg-name="STAR GOLD ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",STAR GOLD ᴴᴰ
+#EXTINF:-1 tvg-id="276911" tvg-name="STAR GOLD SELECT ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",STAR GOLD SELECT ᴴᴰ
+#EXTINF:-1 tvg-id="276912" tvg-name="STAR PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",STAR PLUS ᴴᴰ
+#EXTINF:-1 tvg-id="276913" tvg-name="STAR UTSAV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",STAR UTSAV
+#EXTINF:-1 tvg-id="276914" tvg-name="STAR UTSAV MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",STAR UTSAV MOVIES
+#EXTINF:-1 tvg-id="276915" tvg-name="SONY ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SONY ᴴᴰ
+#EXTINF:-1 tvg-id="276916" tvg-name="SONY MAX ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SONY MAX ᴴᴰ
+#EXTINF:-1 tvg-id="276917" tvg-name="SONY MAX 2" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SONY MAX 2
+#EXTINF:-1 tvg-id="276918" tvg-name="SONY PIX ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SONY PIX ᴴᴰ
+#EXTINF:-1 tvg-id="276919" tvg-name="SONY BBC EARTH ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SONY BBC EARTH ᴴᴰ
+#EXTINF:-1 tvg-id="276920" tvg-name="SONY SAB ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SONY SAB ᴴᴰ
+#EXTINF:-1 tvg-id="276921" tvg-name="SONY PAL" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SONY PAL
+#EXTINF:-1 tvg-id="276922" tvg-name="SONY WAH" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SONY WAH
+#EXTINF:-1 tvg-id="276923" tvg-name="SONY YAY" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SONY YAY
+#EXTINF:-1 tvg-id="276924" tvg-name="B4U MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",B4U MOVIES
+#EXTINF:-1 tvg-id="276925" tvg-name="COLORS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",COLORS ᴴᴰ
+#EXTINF:-1 tvg-id="276926" tvg-name="9X JALWA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",9X JALWA
+#EXTINF:-1 tvg-id="276927" tvg-name="AAJ TAK ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",AAJ TAK ᴴᴰ
+#EXTINF:-1 tvg-id="276928" tvg-name="AAJ TAK TEZ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",AAJ TAK TEZ
+#EXTINF:-1 tvg-id="276929" tvg-name="ZOOM TV ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZOOM TV ᴴᴰ
+#EXTINF:-1 tvg-id="276930" tvg-name="AASTHA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",AASTHA
+#EXTINF:-1 tvg-id="276931" tvg-name="AASTHA BHAJAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",AASTHA BHAJAN
+#EXTINF:-1 tvg-id="276932" tvg-name="ABP NEWS India" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ABP NEWS India
+#EXTINF:-1 tvg-id="276933" tvg-name="AND PICTURES ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",AND PICTURES ᴴᴰ
+#EXTINF:-1 tvg-id="276934" tvg-name="& TV ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",& TV ᴴᴰ
+#EXTINF:-1 tvg-id="276935" tvg-name="ANIMAL PLANET ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ANIMAL PLANET ᴴᴰ
+#EXTINF:-1 tvg-id="276936" tvg-name="ARIHANT" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ARIHANT
+#EXTINF:-1 tvg-id="276937" tvg-name="BABY TV ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",BABY TV ᴴᴰ
+#EXTINF:-1 tvg-id="276938" tvg-name="BIG MAGIC ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",BIG MAGIC ᴴᴰ
+#EXTINF:-1 tvg-id="276940" tvg-name="CINEPLEX ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",CINEPLEX ᴴᴰ
+#EXTINF:-1 tvg-id="276942" tvg-name="DD NATIONAL ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DD NATIONAL ᴴᴰ
+#EXTINF:-1 tvg-id="276943" tvg-name="DD RAJASTHAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DD RAJASTHAN
+#EXTINF:-1 tvg-id="276944" tvg-name="DD BHARATI" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DD BHARATI
+#EXTINF:-1 tvg-id="276945" tvg-name="DD BIHAR" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DD BIHAR
+#EXTINF:-1 tvg-id="276946" tvg-name="DD India" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DD India
+#EXTINF:-1 tvg-id="276947" tvg-name="DD NEWS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DD NEWS ᴴᴰ
+#EXTINF:-1 tvg-id="276948" tvg-name="DD SPORTS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DD SPORTS
+#EXTINF:-1 tvg-id="276950" tvg-name="DD URDU" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DD URDU
+#EXTINF:-1 tvg-id="276952" tvg-name="DD BHARTI" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DD BHARTI
+#EXTINF:-1 tvg-id="276953" tvg-name="DISCOVERY WORLD ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DISCOVERY WORLD ᴴᴰ
+#EXTINF:-1 tvg-id="276954" tvg-name="E 24" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",E 24
+#EXTINF:-1 tvg-id="276955" tvg-name="ENTER 10 MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ENTER 10 MOVIES
+#EXTINF:-1 tvg-id="276956" tvg-name="EPIC ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",EPIC ᴴᴰ
+#EXTINF:-1 tvg-id="276957" tvg-name="FOX LIFE ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",FOX LIFE ᴴᴰ
+#EXTINF:-1 tvg-id="276958" tvg-name="HISTORY TV18 ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",HISTORY TV18 ᴴᴰ
+#EXTINF:-1 tvg-id="276964" tvg-name="LIVING FOODZ ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",LIVING FOODZ ᴴᴰ
+#EXTINF:-1 tvg-id="276965" tvg-name="MINIPLEX ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",MINIPLEX ᴴᴰ
+#EXTINF:-1 tvg-id="276966" tvg-name="MOVIES ACTIVE" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",MOVIES ACTIVE
+#EXTINF:-1 tvg-id="276967" tvg-name="MTV BEATS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",MTV BEATS ᴴᴰ
+#EXTINF:-1 tvg-id="276968" tvg-name="MTV PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",MTV PLUS ᴴᴰ
+#EXTINF:-1 tvg-id="276969" tvg-name="MUSIC India" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",MUSIC India
+#EXTINF:-1 tvg-id="276970" tvg-name="NAT GEO WILD ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NAT GEO WILD ᴴᴰ
+#EXTINF:-1 tvg-id="276971" tvg-name="NATIONAL GEOGRAPHIC ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NATIONAL GEOGRAPHIC ᴴᴰ
+#EXTINF:-1 tvg-id="276972" tvg-name="NEWS 18 ASSAM" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NEWS 18 ASSAM
+#EXTINF:-1 tvg-id="276974" tvg-name="NEWS 18 India" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NEWS 18 India
+#EXTINF:-1 tvg-id="276975" tvg-name="NEWS 18 RAJASTHAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NEWS 18 RAJASTHAN
+#EXTINF:-1 tvg-id="276976" tvg-name="NEWS NATION" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NEWS NATION
+#EXTINF:-1 tvg-id="276978" tvg-name="REPUBLIC TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",REPUBLIC TV
+#EXTINF:-1 tvg-id="276979" tvg-name="NICK PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NICK PLUS ᴴᴰ
+#EXTINF:-1 tvg-id="276980" tvg-name="PARAS TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",PARAS TV
+#EXTINF:-1 tvg-id="276981" tvg-name="PEACE OF MIND ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",PEACE OF MIND ᴴᴰ
+#EXTINF:-1 tvg-id="276982" tvg-name="MAHA MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",MAHA MOVIES
+#EXTINF:-1 tvg-id="276984" tvg-name="TATA SKY THEATRE FHD" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",TATA SKY THEATRE FHD
+#EXTINF:-1 tvg-id="276985" tvg-name="UTV ACTION" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",UTV ACTION
+#EXTINF:-1 tvg-id="276986" tvg-name="UTV ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",UTV ᴴᴰ
+#EXTINF:-1 tvg-id="276987" tvg-name="VEDIC TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",VEDIC TV
+#EXTINF:-1 tvg-id="276989" tvg-name="ZEE ANMOL" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE ANMOL
+#EXTINF:-1 tvg-id="276990" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE ANMOL CINEMA
+#EXTINF:-1 tvg-id="276991" tvg-name="ZEE HINDUSTAN NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE HINDUSTAN NEWS
+#EXTINF:-1 tvg-id="276992" tvg-name="ZEE NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE NEWS
+#EXTINF:-1 tvg-id="276993" tvg-name="ZEE NEWS BIHAR" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE NEWS BIHAR
+#EXTINF:-1 tvg-id="276994" tvg-name="ZEE NEWS MP/CHATTISGARH" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE NEWS MP/CHATTISGARH
+#EXTINF:-1 tvg-id="276995" tvg-name="ZEE NEWS UP" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE NEWS UP
+#EXTINF:-1 tvg-id="276996" tvg-name="ZEE RAJASTHAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE RAJASTHAN
+#EXTINF:-1 tvg-id="276997" tvg-name="POGO KIDS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",POGO KIDS
+#EXTINF:-1 tvg-id="276998" tvg-name="CINEMA TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",CINEMA TV
+#EXTINF:-1 tvg-id="276999" tvg-name="GANGA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",GANGA
+#EXTINF:-1 tvg-id="277000" tvg-name="DISH CINE ACTIVE" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DISH CINE ACTIVE
+#EXTINF:-1 tvg-id="277001" tvg-name="EVERGREEN CLASSIC" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",EVERGREEN CLASSIC
+#EXTINF:-1 tvg-id="277002" tvg-name="DISNEY ˢᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DISNEY ˢᴰ
+#EXTINF:-1 tvg-id="277003" tvg-name="CNBC TV18 NEWS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",CNBC TV18 NEWS ᴴᴰ
+#EXTINF:-1 tvg-id="277004" tvg-name="TIMES NOW ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",TIMES NOW ᴴᴰ
+#EXTINF:-1 tvg-id="277005" tvg-name="NICK PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NICK PLUS ᴴᴰ
+#EXTINF:-1 tvg-id="277006" tvg-name="MNX ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",MNX ᴴᴰ
+#EXTINF:-1 tvg-id="277007" tvg-name="MOVIES NOW ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",MOVIES NOW ᴴᴰ
+#EXTINF:-1 tvg-id="277008" tvg-name="MN PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",MN PLUS ᴴᴰ
+#EXTINF:-1 tvg-id="277009" tvg-name="DISNEY INTERNATIONAL ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DISNEY INTERNATIONAL ᴴᴰ
+#EXTINF:-1 tvg-id="277010" tvg-name="|HI|TATA PLAY VEDIC MATHS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",|HI|TATA PLAY VEDIC MATHS
+#EXTINF:-1 tvg-id="277011" tvg-name="CN PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",CN PLUS ᴴᴰ
+#EXTINF:-1 tvg-id="277012" tvg-name="BINDAS MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",BINDAS MOVIES
+#EXTINF:-1 tvg-id="277013" tvg-name="UTV MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",UTV MOVIES
+#EXTINF:-1 tvg-id="277014" tvg-name="ISHWAR TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ISHWAR TV
+#EXTINF:-1 tvg-id="277015" tvg-name="CARTOON NETWORK" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",CARTOON NETWORK
+#EXTINF:-1 tvg-id="277016" tvg-name="REPUBLIC BHARAT" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",REPUBLIC BHARAT
+#EXTINF:-1 tvg-id="277017" tvg-name="B4U MUSIC" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",B4U MUSIC
+#EXTINF:-1 tvg-id="277018" tvg-name="India NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",India NEWS
+#EXTINF:-1 tvg-id="277019" tvg-name="India TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",India TV
+#EXTINF:-1 tvg-id="277020" tvg-name="DANGAL" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DANGAL
+#EXTINF:-1 tvg-id="277021" tvg-name="MASTII" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",MASTII
+#EXTINF:-1 tvg-id="277022" tvg-name="NDTV India" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NDTV India
+#EXTINF:-1 tvg-id="277023" tvg-name="India NEWS MP" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",India NEWS MP
+#EXTINF:-1 tvg-id="277024" tvg-name="India NEWS UP" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",India NEWS UP
+#EXTINF:-1 tvg-id="277025" tvg-name="India NEWS HARYANA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",India NEWS HARYANA
+#EXTINF:-1 tvg-id="277027" tvg-name="India NEWS RAJASTHAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",India NEWS RAJASTHAN
+#EXTINF:-1 tvg-id="277028" tvg-name="SUDARSHAN NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SUDARSHAN NEWS
+#EXTINF:-1 tvg-id="277038" tvg-name="NDTV GOOD TIMES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NDTV GOOD TIMES
+#EXTINF:-1 tvg-id="277039" tvg-name="OM SHANTI" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",OM SHANTI
+#EXTINF:-1 tvg-id="277040" tvg-name="IBC 24" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",IBC 24
+#EXTINF:-1 tvg-id="277041" tvg-name="NEWS 24" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NEWS 24
+#EXTINF:-1 tvg-id="277042" tvg-name="SHUBH TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SHUBH TV
+#EXTINF:-1 tvg-id="277043" tvg-name="CHANNEL WIN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",CHANNEL WIN
+#EXTINF:-1 tvg-id="277044" tvg-name="RAMDHENU" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",RAMDHENU
+#EXTINF:-1 tvg-id="277045" tvg-name="RENGONI" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",RENGONI
+#EXTINF:-1 tvg-id="277046" tvg-name="FOOD FOOD ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",FOOD FOOD ᴴᴰ
+#EXTINF:-1 tvg-id="277047" tvg-name="DILLI AAJ TAKK" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DILLI AAJ TAKK
+#EXTINF:-1 tvg-id="277048" tvg-name="PRAG NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",PRAG NEWS
+#EXTINF:-1 tvg-id="277049" tvg-name="TARANG Music" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",TARANG Music
+#EXTINF:-1 tvg-id="277050" tvg-name="NEWS 18 LIVE" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NEWS 18 LIVE
+#EXTINF:-1 tvg-id="277051" tvg-name="NDTV PROFIT" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NDTV PROFIT
+#EXTINF:-1 tvg-id="277052" tvg-name="NDTV 24x7" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",NDTV 24x7
+#EXTINF:-1 tvg-id="277053" tvg-name="India TODAY" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",India TODAY
+#EXTINF:-1 tvg-id="277054" tvg-name="9X MUSIC" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",9X MUSIC
+#EXTINF:-1 tvg-id="277055" tvg-name="E NEWS 24" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",E NEWS 24
+#EXTINF:-1 tvg-id="277056" tvg-name="ZEE BUSINESS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE BUSINESS
+#EXTINF:-1 tvg-id="277057" tvg-name="SANSKAR TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SANSKAR TV
+#EXTINF:-1 tvg-id="277058" tvg-name="SATSANG TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SATSANG TV
+#EXTINF:-1 tvg-id="277059" tvg-name="DISCOVERY KIDS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="277060" tvg-name="CHANNEL WIN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",CHANNEL WIN
+#EXTINF:-1 tvg-id="277061" tvg-name="STAR GOLD 2" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",STAR GOLD 2
+#EXTINF:-1 tvg-id="277062" tvg-name="AND EXPLORER ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",AND EXPLORER ᴴᴰ
+#EXTINF:-1 tvg-id="277064" tvg-name="MIRROR NOW" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",MIRROR NOW
+#EXTINF:-1 tvg-id="277066" tvg-name="ZEE YUVA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE YUVA
+#EXTINF:-1 tvg-id="277067" tvg-name="PRARTHANA BHAWAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",PRARTHANA BHAWAN
+#EXTINF:-1 tvg-id="277068" tvg-name="RAJASTHAN PATRIKA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",RAJASTHAN PATRIKA
+#EXTINF:-1 tvg-id="277069" tvg-name="REPUBLIC NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",REPUBLIC NEWS
+#EXTINF:-1 tvg-id="277070" tvg-name="IDN LOKMAT" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",IDN LOKMAT
+#EXTINF:-1 tvg-id="277071" tvg-name="ZEE NEWS MP" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE NEWS MP
+#EXTINF:-1 tvg-id="277072" tvg-name="DIVYA TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",DIVYA TV
+#EXTINF:-1 tvg-id="277073" tvg-name="TARANG TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",TARANG TV
+#EXTINF:-1 tvg-id="277074" tvg-name="ALANKAR TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ALANKAR TV
+#EXTINF:-1 tvg-id="277075" tvg-name="TARANG MUSIC" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",TARANG MUSIC
+#EXTINF:-1 tvg-id="277076" tvg-name="SARTHAK TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",SARTHAK TV
+#EXTINF:-1 tvg-id="277077" tvg-name="ZEE KALINGA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="India",ZEE KALINGA
+#EXTINF:-1 tvg-id="277340" tvg-name="CHANNEL S" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",CHANNEL S
+#EXTINF:-1 tvg-id="277341" tvg-name="TV UK" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",TV UK
+#EXTINF:-1 tvg-id="277342" tvg-name="NTV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",NTV
+#EXTINF:-1 tvg-id="277343" tvg-name="ATN BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ATN BANGLA
+#EXTINF:-1 tvg-id="277344" tvg-name="ION TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ION TV
+#EXTINF:-1 tvg-id="277345" tvg-name="TV ONE" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",TV ONE
+#EXTINF:-1 tvg-id="277346" tvg-name="COLORS BANGLA ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",COLORS BANGLA ᴴᴰ
+#EXTINF:-1 tvg-id="277347" tvg-name="ZEE 24 GHANTA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ZEE 24 GHANTA
+#EXTINF:-1 tvg-id="277348" tvg-name="JALSHA MOVIES" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",JALSHA MOVIES
+#EXTINF:-1 tvg-id="277349" tvg-name="STAR JALSHA+" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",STAR JALSHA+
+#EXTINF:-1 tvg-id="277350" tvg-name="AAKAASH BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",AAKAASH BANGLA
+#EXTINF:-1 tvg-id="277351" tvg-name="NAGORIK TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",NAGORIK TV
+#EXTINF:-1 tvg-id="277352" tvg-name="ABP ANANDA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ABP ANANDA
+#EXTINF:-1 tvg-id="277353" tvg-name="ATN BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ATN BANGLA
+#EXTINF:-1 tvg-id="277354" tvg-name="ATN NEWS" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ATN NEWS
+#EXTINF:-1 tvg-id="277355" tvg-name="BANGLA ETV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",BANGLA ETV
+#EXTINF:-1 tvg-id="277356" tvg-name="BIJOY TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",BIJOY TV
+#EXTINF:-1 tvg-id="277357" tvg-name="ATN ISLAMIC TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ATN ISLAMIC TV
+#EXTINF:-1 tvg-id="277358" tvg-name="BOISHAKHI TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",BOISHAKHI TV
+#EXTINF:-1 tvg-id="277359" tvg-name="BTV WORLD" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",BTV WORLD
+#EXTINF:-1 tvg-id="277360" tvg-name="BTV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",BTV
+#EXTINF:-1 tvg-id="277361" tvg-name="CHANNEL 9" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",CHANNEL 9
+#EXTINF:-1 tvg-id="277362" tvg-name="CHANNEL I" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",CHANNEL I
+#EXTINF:-1 tvg-id="277363" tvg-name="CHANNEL S" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",CHANNEL S
+#EXTINF:-1 tvg-id="277364" tvg-name="COLORS BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",COLORS BANGLA
+#EXTINF:-1 tvg-id="277365" tvg-name="DBC NEWS" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",DBC NEWS
+#EXTINF:-1 tvg-id="277366" tvg-name="DD BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",DD BANGLA
+#EXTINF:-1 tvg-id="277367" tvg-name="DESH TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",DESH TV
+#EXTINF:-1 tvg-id="277368" tvg-name="DESHE BIDESHE TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",DESHE BIDESHE TV
+#EXTINF:-1 tvg-id="277369" tvg-name="DESHI TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",DESHI TV
+#EXTINF:-1 tvg-id="277370" tvg-name="DHOOM MUSIC" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",DHOOM MUSIC
+#EXTINF:-1 tvg-id="277371" tvg-name="EKATTOR TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",EKATTOR TV
+#EXTINF:-1 tvg-id="277372" tvg-name="ETV BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ETV BANGLA
+#EXTINF:-1 tvg-id="277373" tvg-name="GAAN BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",GAAN BANGLA
+#EXTINF:-1 tvg-id="277374" tvg-name="INDEPENDENT TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",INDEPENDENT TV
+#EXTINF:-1 tvg-id="277375" tvg-name="iTV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",iTV
+#EXTINF:-1 tvg-id="277376" tvg-name="MASRANGA TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",MASRANGA TV
+#EXTINF:-1 tvg-id="277377" tvg-name="MILLENNIUM TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",MILLENNIUM TV
+#EXTINF:-1 tvg-id="277378" tvg-name="MOHONA TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",MOHONA TV
+#EXTINF:-1 tvg-id="277379" tvg-name="MOVIE BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",MOVIE BANGLA
+#EXTINF:-1 tvg-id="277380" tvg-name="NEWS TIME" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",NEWS TIME
+#EXTINF:-1 tvg-id="277381" tvg-name="NRB TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",NRB TV
+#EXTINF:-1 tvg-id="277382" tvg-name="NTV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",NTV
+#EXTINF:-1 tvg-id="277383" tvg-name="R PLUS" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",R PLUS
+#EXTINF:-1 tvg-id="277384" tvg-name="RTV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",RTV
+#EXTINF:-1 tvg-id="277385" tvg-name="RUPOSHI BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",RUPOSHI BANGLA
+#EXTINF:-1 tvg-id="277386" tvg-name="SANGEET BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",SANGEET BANGLA
+#EXTINF:-1 tvg-id="277387" tvg-name="SATV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",SATV
+#EXTINF:-1 tvg-id="277388" tvg-name="KTV BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",KTV BANGLA
+#EXTINF:-1 tvg-id="277389" tvg-name="SOMOY NEWS TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",SOMOY NEWS TV
+#EXTINF:-1 tvg-id="277390" tvg-name="SONY AATH" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",SONY AATH
+#EXTINF:-1 tvg-id="277391" tvg-name="STAR JHALSA MOVIES" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",STAR JHALSA MOVIES
+#EXTINF:-1 tvg-id="277392" tvg-name="BONGO MOVIES" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",BONGO MOVIES
+#EXTINF:-1 tvg-id="277393" tvg-name="TIME TELEVISION" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",TIME TELEVISION
+#EXTINF:-1 tvg-id="277394" tvg-name="TV ASIA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",TV ASIA
+#EXTINF:-1 tvg-id="277395" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-id="277396" tvg-name="ATN BANGLA USA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ATN BANGLA USA
+#EXTINF:-1 tvg-id="277397" tvg-name="DEEPTO TV ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",DEEPTO TV ᴴᴰ
+#EXTINF:-1 tvg-id="277398" tvg-name="NEWS 24 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",NEWS 24 ᴴᴰ
+#EXTINF:-1 tvg-id="277399" tvg-name="ZEE BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ZEE BANGLA
+#EXTINF:-1 tvg-id="277400" tvg-name="JAMUNA TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",JAMUNA TV
+#EXTINF:-1 tvg-id="277401" tvg-name="RTV MUSIC" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",RTV MUSIC
+#EXTINF:-1 tvg-id="277402" tvg-name="ZEE BANGLA ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ZEE BANGLA ᴴᴰ
+#EXTINF:-1 tvg-id="277403" tvg-name="JONMOBHUMI TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",JONMOBHUMI TV
+#EXTINF:-1 tvg-id="277404" tvg-name="MADANI TV BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",MADANI TV BANGLA
+#EXTINF:-1 tvg-id="277405" tvg-name="STAR JALSHA ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",STAR JALSHA ᴴᴰ
+#EXTINF:-1 tvg-id="277406" tvg-name="NANDAN TV ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",NANDAN TV ᴴᴰ
+#EXTINF:-1 tvg-id="277408" tvg-name="ANANDA TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ANANDA TV
+#EXTINF:-1 tvg-id="277409" tvg-name="JHANKAR TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",JHANKAR TV
+#EXTINF:-1 tvg-id="277410" tvg-name="MUSIC FATAFATI" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",MUSIC FATAFATI
+#EXTINF:-1 tvg-id="277411" tvg-name="NAN TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",NAN TV
+#EXTINF:-1 tvg-id="277412" tvg-name="FAMILY TV" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",FAMILY TV
+#EXTINF:-1 tvg-id="277413" tvg-name="NRB CONNECT" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",NRB CONNECT
+#EXTINF:-1 tvg-id="277414" tvg-name="ONKAR ONLY TRUTH" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ONKAR ONLY TRUTH
+#EXTINF:-1 tvg-id="277415" tvg-name="DISCOVERY ᴴᴰ BENGALI" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",DISCOVERY ᴴᴰ BENGALI
+#EXTINF:-1 tvg-id="277416" tvg-name="SUN BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",SUN BANGLA
+#EXTINF:-1 tvg-id="277417" tvg-name="TBN 24" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",TBN 24
+#EXTINF:-1 tvg-id="277418" tvg-name="iTV UK" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",iTV UK
+#EXTINF:-1 tvg-id="277419" tvg-name="ENTER 10 BANGLA" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",ENTER 10 BANGLA
+#EXTINF:-1 tvg-id="277420" tvg-name="CHANNEL TT" tvg-logo="https://png.pngtree.com/png-clipart/20211116/original/pngtree-round-country-flag-bangladesh-png-image_6930260.png" group-title="Bengali",CHANNEL TT
+#EXTINF:-1 tvg-id="306175" tvg-name="COLORS ODIA" tvg-logo="" group-title="India",COLORS ODIA
+#EXTINF:-1 tvg-id="306176" tvg-name="STAR KIRAN" tvg-logo="" group-title="India",STAR KIRAN
+#EXTINF:-1 tvg-id="306177" tvg-name="KALINGA TV" tvg-logo="" group-title="India",KALINGA TV
+#EXTINF:-1 tvg-id="306178" tvg-name="ZEE SARTHAK TV" tvg-logo="" group-title="India",ZEE SARTHAK TV
+#EXTINF:-1 tvg-id="306179" tvg-name="SIDDARTH GOLD" tvg-logo="" group-title="India",SIDDARTH GOLD
+#EXTINF:-1 tvg-id="306180" tvg-name="SIDDARTH TV" tvg-logo="" group-title="India",SIDDARTH TV
+#EXTINF:-1 tvg-id="306181" tvg-name="ARGUS NEWS" tvg-logo="" group-title="India",ARGUS NEWS
+#EXTINF:-1 tvg-id="306182" tvg-name="PRAMEYA NEWS 7" tvg-logo="" group-title="India",PRAMEYA NEWS 7
+#EXTINF:-1 tvg-id="306183" tvg-name="TARANG MUSIC" tvg-logo="" group-title="India",TARANG MUSIC
+#EXTINF:-1 tvg-id="306184" tvg-name="ALANKAR TV" tvg-logo="" group-title="India",ALANKAR TV
+#EXTINF:-1 tvg-id="306185" tvg-name="TARANG TV" tvg-logo="" group-title="India",TARANG TV
+#EXTINF:-1 tvg-id="306186" tvg-name="ODISHA TV" tvg-logo="" group-title="India",ODISHA TV
+#EXTINF:-1 tvg-id="277250" tvg-name="KTV India" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",KTV India
+#EXTINF:-1 tvg-id="277251" tvg-name="CHARDIKLA TIMES TV" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",CHARDIKLA TIMES TV
+#EXTINF:-1 tvg-id="277252" tvg-name="DD PUNJABI" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",DD PUNJABI
+#EXTINF:-1 tvg-id="277253" tvg-name="HUNGAMA AMRITVANI ᴴᴰ" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",HUNGAMA AMRITVANI ᴴᴰ
+#EXTINF:-1 tvg-id="277254" tvg-name="India NEWS PUNJAB" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",India NEWS PUNJAB
+#EXTINF:-1 tvg-id="277255" tvg-name="MANORANJAN MOVIES" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",MANORANJAN MOVIES
+#EXTINF:-1 tvg-id="277256" tvg-name="MANORANJAN TV" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",MANORANJAN TV
+#EXTINF:-1 tvg-id="277257" tvg-name="MH1 MUSIC" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",MH1 MUSIC
+#EXTINF:-1 tvg-id="277258" tvg-name="MH1 NEWS" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",MH1 NEWS
+#EXTINF:-1 tvg-id="277259" tvg-name="MH1 SHRADDHA" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",MH1 SHRADDHA
+#EXTINF:-1 tvg-id="277260" tvg-name="NEWS 18 PUNJAB HARYANA" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",NEWS 18 PUNJAB HARYANA
+#EXTINF:-1 tvg-id="277261" tvg-name="PITAARA TV" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",PITAARA TV
+#EXTINF:-1 tvg-id="277262" tvg-name="PRIME ASIA ᴴᴰ" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",PRIME ASIA ᴴᴰ
+#EXTINF:-1 tvg-id="277263" tvg-name="PTC CHAKDE" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",PTC CHAKDE
+#EXTINF:-1 tvg-id="277264" tvg-name="PTC NEWS" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",PTC NEWS
+#EXTINF:-1 tvg-id="277265" tvg-name="PTC PUNJABI" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",PTC PUNJABI
+#EXTINF:-1 tvg-id="277266" tvg-name="SANJHA TV ᴴᴰ" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",SANJHA TV ᴴᴰ
+#EXTINF:-1 tvg-id="277267" tvg-name="SSTV ᴴᴰ" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",SSTV ᴴᴰ
+#EXTINF:-1 tvg-id="277268" tvg-name="ZEE PUNJAB HARYANA ᴴᴰ" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",ZEE PUNJAB HARYANA ᴴᴰ
+#EXTINF:-1 tvg-id="277269" tvg-name="ZEE PUNJABI" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",ZEE PUNJABI
+#EXTINF:-1 tvg-id="277270" tvg-name="MAHA" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",MAHA
+#EXTINF:-1 tvg-id="277271" tvg-name="TATA SKY PUNJAB DE RANG" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",TATA SKY PUNJAB DE RANG
+#EXTINF:-1 tvg-id="277272" tvg-name="FATEH TV" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",FATEH TV
+#EXTINF:-1 tvg-id="277273" tvg-name="JUS ONE" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",JUS ONE
+#EXTINF:-1 tvg-id="277274" tvg-name="BRIT ASIA" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",BRIT ASIA
+#EXTINF:-1 tvg-id="277275" tvg-name="CHARDIKALAH TIMES TV" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",CHARDIKALAH TIMES TV
+#EXTINF:-1 tvg-id="277276" tvg-name="AIKAM TV ᴴᴰ" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",AIKAM TV ᴴᴰ
+#EXTINF:-1 tvg-id="277277" tvg-name="DESI CHANNEL" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",DESI CHANNEL
+#EXTINF:-1 tvg-id="277278" tvg-name="PCHS TV ᴴᴰ" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",PCHS TV ᴴᴰ
+#EXTINF:-1 tvg-id="277279" tvg-name="LIVING India NEWS" tvg-logo="https://c0.klipartz.com/pngpicture/124/18/gratis-png-gobierno-de-punjab-pakistan-gobierno-de-punjab-India.png" group-title="Panjabi",LIVING India NEWS
+#EXTINF:-1 tvg-id="598758" tvg-name="SUN TV ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",SUN TV ᴴᴰ
+#EXTINF:-1 tvg-id="598757" tvg-name="ZEE TAMIL ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",ZEE TAMIL ᴴᴰ
+#EXTINF:-1 tvg-id="598756" tvg-name="KALAIGNAR TV ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",KALAIGNAR TV ᴴᴰ
+#EXTINF:-1 tvg-id="277078" tvg-name="ADHTIYA TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",ADHTIYA TV
+#EXTINF:-1 tvg-id="277079" tvg-name="ANGEL TV ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",ANGEL TV ᴴᴰ
+#EXTINF:-1 tvg-id="277080" tvg-name="CAPTAIN NEWS" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",CAPTAIN NEWS
+#EXTINF:-1 tvg-id="277081" tvg-name="COLORS TAMIL ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",COLORS TAMIL ᴴᴰ
+#EXTINF:-1 tvg-id="277082" tvg-name="DD PODHIGAI" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",DD PODHIGAI
+#EXTINF:-1 tvg-id="277083" tvg-name="DISCOVERY WORLD ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",DISCOVERY WORLD ᴴᴰ
+#EXTINF:-1 tvg-id="277084" tvg-name="FOX LIFE ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",FOX LIFE ᴴᴰ
+#EXTINF:-1 tvg-id="277085" tvg-name="HISTORY TV18 ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",HISTORY TV18 ᴴᴰ
+#EXTINF:-1 tvg-id="277086" tvg-name="JAYA TV ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",JAYA TV ᴴᴰ
+#EXTINF:-1 tvg-id="277087" tvg-name="KTV ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",KTV ᴴᴰ
+#EXTINF:-1 tvg-id="277088" tvg-name="NAT GEO WILD ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",NAT GEO WILD ᴴᴰ
+#EXTINF:-1 tvg-id="277089" tvg-name="NATIONAL GEOGRAPHIC ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",NATIONAL GEOGRAPHIC ᴴᴰ
+#EXTINF:-1 tvg-id="277090" tvg-name="NEWS 18 TAMIL NADU" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",NEWS 18 TAMIL NADU
+#EXTINF:-1 tvg-id="277091" tvg-name="RAJ MUSIX" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",RAJ MUSIX
+#EXTINF:-1 tvg-id="277092" tvg-name="RAJ TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",RAJ TV
+#EXTINF:-1 tvg-id="277093" tvg-name="SONY BBC EARTH ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",SONY BBC EARTH ᴴᴰ
+#EXTINF:-1 tvg-id="277094" tvg-name="STAR VIJAY ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",STAR VIJAY ᴴᴰ
+#EXTINF:-1 tvg-id="277095" tvg-name="SUN LIFE" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",SUN LIFE
+#EXTINF:-1 tvg-id="277096" tvg-name="SUN MUSIC ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",SUN MUSIC ᴴᴰ
+#EXTINF:-1 tvg-id="277097" tvg-name="SUN NEWS" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",SUN NEWS
+#EXTINF:-1 tvg-id="277098" tvg-name="SUN TV ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",SUN TV ᴴᴰ
+#EXTINF:-1 tvg-id="277099" tvg-name="TATA SKY TAMIL CINEMA" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",TATA SKY TAMIL CINEMA
+#EXTINF:-1 tvg-id="277100" tvg-name="VASANTH TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",VASANTH TV
+#EXTINF:-1 tvg-id="277101" tvg-name="VIJAY SUPER ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",VIJAY SUPER ᴴᴰ
+#EXTINF:-1 tvg-id="277102" tvg-name="ZEE TAMIL FHD" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",ZEE TAMIL FHD
+#EXTINF:-1 tvg-id="277103" tvg-name="IBC BAKTHI" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",IBC BAKTHI
+#EXTINF:-1 tvg-id="277104" tvg-name="IBC TAMIL" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",IBC TAMIL
+#EXTINF:-1 tvg-id="277105" tvg-name="IBC COMEDY" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",IBC COMEDY
+#EXTINF:-1 tvg-id="277106" tvg-name="TVI ᴴᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",TVI ᴴᴰ
+#EXTINF:-1 tvg-id="277107" tvg-name="FLOWERS TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",FLOWERS TV
+#EXTINF:-1 tvg-id="277108" tvg-name="JAYA PLUS" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",JAYA PLUS
+#EXTINF:-1 tvg-id="277109" tvg-name="JAYA MAX" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",JAYA MAX
+#EXTINF:-1 tvg-id="277110" tvg-name="DD SAPTAGIRI" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",DD SAPTAGIRI
+#EXTINF:-1 tvg-id="277111" tvg-name="CHUTTI TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",CHUTTI TV
+#EXTINF:-1 tvg-id="277112" tvg-name="DISCOVERY KIDS TAMIL" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",DISCOVERY KIDS TAMIL
+#EXTINF:-1 tvg-id="277113" tvg-name="PUTHUYUGAM" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",PUTHUYUGAM
+#EXTINF:-1 tvg-id="277114" tvg-name="THANTHI TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",THANTHI TV
+#EXTINF:-1 tvg-id="277115" tvg-name="SONY YAY" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",SONY YAY
+#EXTINF:-1 tvg-id="277116" tvg-name="ZEE TAMIL ˢᴰ" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",ZEE TAMIL ˢᴰ
+#EXTINF:-1 tvg-id="277117" tvg-name="POLIMER NEWS" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",POLIMER NEWS
+#EXTINF:-1 tvg-id="277118" tvg-name="RAJ NEWS" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",RAJ NEWS
+#EXTINF:-1 tvg-id="277119" tvg-name="SATHIYAM TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",SATHIYAM TV
+#EXTINF:-1 tvg-id="277120" tvg-name="MAKKAL TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",MAKKAL TV
+#EXTINF:-1 tvg-id="277121" tvg-name="RAJ DIGITAL PLUS" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",RAJ DIGITAL PLUS
+#EXTINF:-1 tvg-id="277122" tvg-name="POLIMER TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",POLIMER TV
+#EXTINF:-1 tvg-id="277123" tvg-name="ZEE THIRAI" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",ZEE THIRAI
+#EXTINF:-1 tvg-id="277124" tvg-name="LOTUS NEWS" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",LOTUS NEWS
+#EXTINF:-1 tvg-id="277125" tvg-name="JAYA MAX" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",JAYA MAX
+#EXTINF:-1 tvg-id="277126" tvg-name="SAHANA TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",SAHANA TV
+#EXTINF:-1 tvg-id="277127" tvg-name="SALVATION TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",SALVATION TV
+#EXTINF:-1 tvg-id="277128" tvg-name="MK TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",MK TV
+#EXTINF:-1 tvg-id="277129" tvg-name="TAMILAN TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",TAMILAN TV
+#EXTINF:-1 tvg-id="277130" tvg-name="MOON TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",MOON TV
+#EXTINF:-1 tvg-id="277131" tvg-name="TUNE 6" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",TUNE 6
+#EXTINF:-1 tvg-id="277132" tvg-name="MADHA TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",MADHA TV
+#EXTINF:-1 tvg-id="277133" tvg-name="IMAYAM TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",IMAYAM TV
+#EXTINF:-1 tvg-id="277134" tvg-name="VALICHAM PLUS" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",VALICHAM PLUS
+#EXTINF:-1 tvg-id="277135" tvg-name="WIN NEWS" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",WIN NEWS
+#EXTINF:-1 tvg-id="277136" tvg-name="CAPTAIN TV" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",CAPTAIN TV
+#EXTINF:-1 tvg-id="277137" tvg-name="J MOVIES" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",J MOVIES
+#EXTINF:-1 tvg-id="277138" tvg-name="PUTHIYA THALIMURAI" tvg-logo="https://www.best-buy-flags.co.uk/media/catalog/product/cache/e6e378731e7353dd951083f5bf4f6988/1/3/13572.png" group-title="Tamil",PUTHIYA THALIMURAI
+#EXTINF:-1 tvg-id="1090572" tvg-name="TS SPORTS 18" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",TS SPORTS 18
+#EXTINF:-1 tvg-id="280822" tvg-name="Hub Sports 1" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",Hub Sports 1
+#EXTINF:-1 tvg-id="280823" tvg-name="Hub Sports 2" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",Hub Sports 2
+#EXTINF:-1 tvg-id="280824" tvg-name="Hub Sports 3" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",Hub Sports 3
+#EXTINF:-1 tvg-id="280825" tvg-name="Hub Sports 4" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",Hub Sports 4
+#EXTINF:-1 tvg-id="280826" tvg-name="Hub Sports 5" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",Hub Sports 5
+#EXTINF:-1 tvg-id="276727" tvg-name="DD SPORTS ᴴᴰ" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",D SPORTS ᴴᴰ
+#EXTINF:-1 tvg-id="276728" tvg-name="SONY SIX ᴴᴰ" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",SONY SIX ᴴᴰ
+#EXTINF:-1 tvg-id="276730" tvg-name="STAR SPORTS 1 ᴴᴰ ENGLISH" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",STAR SPORTS 1 ᴴᴰ ENGLISH
+#EXTINF:-1 tvg-id="276731" tvg-name="STAR SPORTS 1 ᴴᴰ HINDI" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",STAR SPORTS 1 ᴴᴰ HINDI
+#EXTINF:-1 tvg-id="276732" tvg-name="STAR SPORTS 2 ᴴᴰ" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",STAR SPORTS 2 ᴴᴰ
+#EXTM3U
+#EXTINF:-1 tvg-id="276733" tvg-name="STAR SPORTS 3" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",STAR SPORTS 3
+#EXTINF:-1 tvg-id="276734" tvg-name="STAR SPORTS SELECT 1 ᴴᴰ" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",STAR SPORTS SELECT 1 ᴴᴰ
+#EXTINF:-1 tvg-id="276735" tvg-name="STAR SPORTS SELECT 2 ᴴᴰ" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",STAR SPORTS SELECT 2 ᴴᴰ
+#EXTINF:-1 tvg-id="276736" tvg-name="STAR SPORTS 1 FHD" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",STAR SPORTS 1 FHD
+#EXTINF:-1 tvg-id="276737" tvg-name="TEN 1 ᴴᴰ" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",TEN 1 ᴴᴰ
+#EXTINF:-1 tvg-id="276738" tvg-name="TEN 2 ᴴᴰ" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",TEN 2 ᴴᴰ
+#EXTINF:-1 tvg-id="276739" tvg-name="TEN 3 ᴴᴰ" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",TEN 3 ᴴᴰ
+#EXTINF:-1 tvg-id="1080194" tvg-name="TEN 4 ᴴᴰ" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",TEN 4 ᴴᴰ
+#EXTINF:-1 tvg-id="1080193" tvg-name="TEN 5 ᴴᴰ" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",TEN 5 ᴴᴰ
+#EXTINF:-1 tvg-id="276740" tvg-name="WILLOW CRICKET ᴴᴰ" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",WILLOW CRICKET ᴴᴰ
+#EXTINF:-1 tvg-id="276741" tvg-name="DD SPORTS" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",DD SPORTS
+#EXTINF:-1 tvg-id="276742" tvg-name="STAR SPORTS TAMIL" tvg-logo="https://www.asiasports.com/img/icons/logo-200x200.png" group-title="Sports",STAR SPORTS TAMIL
+#EXTINF:-1 tvg-id="277139" tvg-name="ABN NEWS TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",ABN NEWS TV
+#EXTINF:-1 tvg-id="277140" tvg-name="CVR NEWS" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",CVR NEWS
+#EXTINF:-1 tvg-id="277141" tvg-name="BHAKTI TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",BHAKTI TV
+#EXTINF:-1 tvg-id="277142" tvg-name="DISCOVERY WORLD ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",DISCOVERY WORLD ᴴᴰ
+#EXTINF:-1 tvg-id="277143" tvg-name="ETV CINEMA" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",ETV CINEMA
+#EXTINF:-1 tvg-id="277144" tvg-name="ETV ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",ETV ᴴᴰ
+#EXTINF:-1 tvg-id="277145" tvg-name="GEMINI ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",GEMINI ᴴᴰ
+#EXTINF:-1 tvg-id="277146" tvg-name="GEMINI MOVIES ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",GEMINI MOVIES ᴴᴰ
+#EXTINF:-1 tvg-id="277147" tvg-name="GEMINI COMEDY" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",GEMINI COMEDY
+#EXTINF:-1 tvg-id="277148" tvg-name="HISTORY 18 TELUGU ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",HISTORY 18 TELUGU ᴴᴰ
+#EXTINF:-1 tvg-id="277149" tvg-name="STAR MAA MOVIES ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",STAR MAA MOVIES ᴴᴰ
+#EXTINF:-1 tvg-id="277150" tvg-name="NATIONAL GEOGRAPHIC ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",NATIONAL GEOGRAPHIC ᴴᴰ
+#EXTINF:-1 tvg-id="277151" tvg-name="RAJ MUSIC TELUGU" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",RAJ MUSIC TELUGU
+#EXTINF:-1 tvg-id="277152" tvg-name="RAJ NEWS TELUGU" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",RAJ NEWS TELUGU
+#EXTINF:-1 tvg-id="277153" tvg-name="SONY BBC EARTH ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",SONY BBC EARTH ᴴᴰ
+#EXTINF:-1 tvg-id="277154" tvg-name="STAR MAA GOLD ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",STAR MAA GOLD ᴴᴰ
+#EXTINF:-1 tvg-id="277155" tvg-name="STAR MAA ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",STAR MAA ᴴᴰ
+#EXTINF:-1 tvg-id="277156" tvg-name="TATA SKY TELUGU CINEMA ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",TATA SKY TELUGU CINEMA ᴴᴰ
+#EXTINF:-1 tvg-id="277157" tvg-name="TV9 NEWS" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",TV9 NEWS
+#EXTINF:-1 tvg-id="277158" tvg-name="V6 NEWS" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",V6 NEWS
+#EXTINF:-1 tvg-id="277159" tvg-name="ETV PLUS" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",ETV PLUS
+#EXTINF:-1 tvg-id="277160" tvg-name="ZEE CINEMALU ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",ZEE CINEMALU ᴴᴰ
+#EXTINF:-1 tvg-id="277161" tvg-name="ZEE TELUGU ᴴᴰ" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",ZEE TELUGU ᴴᴰ
+#EXTINF:-1 tvg-id="277162" tvg-name="GEMINI MUSIC" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",GEMINI MUSIC
+#EXTINF:-1 tvg-id="277163" tvg-name="GEMINI LIFE" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",GEMINI LIFE
+#EXTINF:-1 tvg-id="277164" tvg-name="ETV LIFE" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",ETV LIFE
+#EXTINF:-1 tvg-id="277165" tvg-name="TV5 NEWS" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",TV5 NEWS
+#EXTINF:-1 tvg-id="277166" tvg-name="SONY YAY" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",SONY YAY
+#EXTINF:-1 tvg-id="277167" tvg-name="10 TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",10 TV
+#EXTINF:-1 tvg-id="277168" tvg-name="DD SAPTAGIRI" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",DD SAPTAGIRI
+#EXTINF:-1 tvg-id="277169" tvg-name="VANITHA TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",VANITHA TV
+#EXTINF:-1 tvg-id="277170" tvg-name="VISSA TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",VISSA TV
+#EXTINF:-1 tvg-id="277171" tvg-name="KUSHI TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",KUSHI TV
+#EXTINF:-1 tvg-id="277172" tvg-name="SAKSHI TV" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",SAKSHI TV
+#EXTINF:-1 tvg-id="277173" tvg-name="STAR MAA ᴴᴰ²" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",STAR MAA ᴴᴰ²
+#EXTINF:-1 tvg-id="277174" tvg-name="STAR MAA ᴴᴰ³" tvg-logo="https://image.pngaaa.com/490/2755490-middle.png" group-title="Telugu",STAR MAA ᴴᴰ³
+#EXTINF:-1 tvg-id="277280" tvg-name="COLORS KANNADA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",COLORS KANNADA ᴴᴰ
+#EXTINF:-1 tvg-id="277281" tvg-name="COLORS KANNADA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",COLORS KANNADA MOVIES
+#EXTINF:-1 tvg-id="277282" tvg-name="COLORS SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",COLORS SUPER
+#EXTINF:-1 tvg-id="277283" tvg-name="SAKKAT ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",SAKKAT ᴴᴰ
+#EXTINF:-1 tvg-id="277284" tvg-name="KASTURI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",KASTURI TV
+#EXTINF:-1 tvg-id="277285" tvg-name="NEWS 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",NEWS 18
+#EXTINF:-1 tvg-id="277286" tvg-name="RAJ MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",RAJ MUSIC
+#EXTINF:-1 tvg-id="277287" tvg-name="RAJ NEWS KANNADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",RAJ NEWS KANNADA
+#EXTINF:-1 tvg-id="277288" tvg-name="STAR SUVARNA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",STAR SUVARNA ᴴᴰ
+#EXTINF:-1 tvg-id="277289" tvg-name="STAR SUVARNA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",STAR SUVARNA NEWS
+#EXTINF:-1 tvg-id="277290" tvg-name="TV9 KANNADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",TV9 KANNADA
+#EXTINF:-1 tvg-id="277291" tvg-name="UDAYA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",UDAYA ᴴᴰ
+#EXTINF:-1 tvg-id="277292" tvg-name="UDAYA COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",UDAYA COMEDY
+#EXTINF:-1 tvg-id="277293" tvg-name="UDAYA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",UDAYA MOVIES
+#EXTINF:-1 tvg-id="277294" tvg-name="SUVARNA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",SUVARNA NEWS
+#EXTINF:-1 tvg-id="277295" tvg-name="ZEE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",ZEE ᴴᴰ
+#EXTINF:-1 tvg-id="277296" tvg-name="DD CHANDANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",DD CHANDANA
+#EXTINF:-1 tvg-id="277297" tvg-name="UDAYA MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",UDAYA MUSIC
+#EXTINF:-1 tvg-id="277298" tvg-name="DIGHVIJAY NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",DIGHVIJAY NEWS
+#EXTINF:-1 tvg-id="277299" tvg-name="PUBLIC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",PUBLIC TV
+#EXTINF:-1 tvg-id="277300" tvg-name="ZEE KANNADA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flag_orb_Kannada.svg/2048px-Flag_orb_Kannada.svg.png" group-title="Kannada",ZEE KANNADA ᴴᴰ
+#EXTINF:-1 tvg-id="277175" tvg-name="MIDDLE EAST" tvg-logo="" group-title="Malayalam",MIDDLE EAST
+#EXTINF:-1 tvg-id="277176" tvg-name="SURYA COMEDY" tvg-logo="" group-title="Malayalam",SURYA COMEDY
+#EXTINF:-1 tvg-id="277177" tvg-name="MEDIA ONE NEWS" tvg-logo="" group-title="Malayalam",MEDIA ONE NEWS
+#EXTINF:-1 tvg-id="277178" tvg-name="AMRITHA TV" tvg-logo="" group-title="Malayalam",AMRITHA TV
+#EXTINF:-1 tvg-id="277179" tvg-name="ASIANET ᴴᴰ" tvg-logo="" group-title="Malayalam",ASIANET ᴴᴰ
+#EXTINF:-1 tvg-id="277180" tvg-name="FLOWERS TV" tvg-logo="" group-title="Malayalam",FLOWERS TV
+#EXTINF:-1 tvg-id="277181" tvg-name="KAIRALI PEOPLE TV" tvg-logo="" group-title="Malayalam",KAIRALI PEOPLE TV
+#EXTINF:-1 tvg-id="277182" tvg-name="KOCHU TV" tvg-logo="" group-title="Malayalam",KOCHU TV
+#EXTINF:-1 tvg-id="277183" tvg-name="MAZAVIL MANORAMA ᴴᴰ" tvg-logo="" group-title="Malayalam",MAZAVIL MANORAMA ᴴᴰ
+#EXTINF:-1 tvg-id="277184" tvg-name="NEWS 18 KERALA" tvg-logo="" group-title="Malayalam",NEWS 18 KERALA
+#EXTINF:-1 tvg-id="277185" tvg-name="RAJ MUSIC" tvg-logo="" group-title="Malayalam",RAJ MUSIC
+#EXTINF:-1 tvg-id="277186" tvg-name="ASIANET MOVIE" tvg-logo="" group-title="Malayalam",ASIANET MOVIE
+#EXTINF:-1 tvg-id="277187" tvg-name="ASIANET PLUS" tvg-logo="" group-title="Malayalam",ASIANET PLUS
+#EXTINF:-1 tvg-id="277188" tvg-name="SURYA MOVIES" tvg-logo="" group-title="Malayalam",SURYA MOVIES
+#EXTINF:-1 tvg-id="277189" tvg-name="SURYA TV ᴴᴰ" tvg-logo="" group-title="Malayalam",SURYA TV ᴴᴰ
+#EXTINF:-1 tvg-id="277190" tvg-name="WE TV" tvg-logo="" group-title="Malayalam",WE TV
+#EXTINF:-1 tvg-id="277191" tvg-name="ASIANET NEWS ᴴᴰ" tvg-logo="" group-title="Malayalam",ASIANET NEWS ᴴᴰ
+#EXTINF:-1 tvg-id="277192" tvg-name="MANORAMA NEWS" tvg-logo="" group-title="Malayalam",MANORAMA NEWS
+#EXTINF:-1 tvg-id="277193" tvg-name="SURYA MUSIC" tvg-logo="" group-title="Malayalam",SURYA MUSIC
+#EXTINF:-1 tvg-id="277194" tvg-name="JANAM TV" tvg-logo="" group-title="Malayalam",JANAM TV
+#EXTINF:-1 tvg-id="277195" tvg-name="ZEE KERALAM ᴴᴰ" tvg-logo="" group-title="Malayalam",ZEE KERALAM ᴴᴰ
+#EXTINF:-1 tvg-id="277196" tvg-name="DD MALAYALAM" tvg-logo="" group-title="Malayalam",DD MALAYALAM
+#EXTINF:-1 tvg-id="277197" tvg-name="JAIHIND TV" tvg-logo="" group-title="Malayalam",JAIHIND TV
+#EXTINF:-1 tvg-id="277198" tvg-name="MATHRUBHUMI NEWS" tvg-logo="" group-title="Malayalam",MATHRUBHUMI NEWS
+#EXTINF:-1 tvg-id="277199" tvg-name="REPORTER TV YUPP" tvg-logo="" group-title="Malayalam",REPORTER TV YUPP
+#EXTINF:-1 tvg-id="277200" tvg-name="KAPPA TV" tvg-logo="" group-title="Malayalam",KAPPA TV
+#EXTINF:-1 tvg-id="277201" tvg-name="RAJ NEWS MALAYALAM" tvg-logo="" group-title="Malayalam",RAJ NEWS MALAYALAM
+#EXTINF:-1 tvg-id="277202" tvg-name="SAFARI TV" tvg-logo="" group-title="Malayalam",SAFARI TV
+#EXTINF:-1 tvg-id="277203" tvg-name="KAIRALI ARABIA" tvg-logo="" group-title="Malayalam",KAIRALI ARABIA
+#EXTINF:-1 tvg-id="277204" tvg-name=" KAIRALI NEWS" tvg-logo="" group-title="Malayalam", KAIRALI NEWS
+#EXTINF:-1 tvg-id="277205" tvg-name=" KAUMUDY" tvg-logo="" group-title="Malayalam", KAUMUDY
+#EXTINF:-1 tvg-id="277206" tvg-name=" SHOLAM TV" tvg-logo="" group-title="Malayalam", SHOLAM TV
+#EXTINF:-1 tvg-id="277207" tvg-name="24 NEWS MALAYALAM" tvg-logo="" group-title="Malayalam",24 NEWS MALAYALAM
+#EXTINF:-1 tvg-id="277208" tvg-name="COLORS GUJARATI" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",COLORS GUJARATI
+#EXTINF:-1 tvg-id="277209" tvg-name="COLORS GUJARATI CINEMA" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",COLORS GUJARATI CINEMA
+#EXTINF:-1 tvg-id="277210" tvg-name="GSTV" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",GSTV
+#EXTINF:-1 tvg-id="277211" tvg-name="India NEWS GUJARAT" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",India NEWS GUJARAT
+#EXTINF:-1 tvg-id="277212" tvg-name="LAKSHYA TV ᴴᴰ" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",LAKSHYA TV ᴴᴰ
+#EXTINF:-1 tvg-id="277213" tvg-name="MANTAVYA NEWS" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",MANTAVYA NEWS
+#EXTINF:-1 tvg-id="277214" tvg-name="SANDESH NEWS" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",SANDESH NEWS
+#EXTINF:-1 tvg-id="277215" tvg-name="VTV NEWS" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",VTV NEWS
+#EXTINF:-1 tvg-id="277216" tvg-name="CNBC BAZAR" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",CNBC BAZAR
+#EXTINF:-1 tvg-id="277217" tvg-name="KARTAVYA TV" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",KARTAVYA TV
+#EXTINF:-1 tvg-id="277218" tvg-name="TV9 NEWS" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",TV9 NEWS
+#EXTINF:-1 tvg-id="277219" tvg-name="ABP ASMITA" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",ABP ASMITA
+#EXTINF:-1 tvg-id="277220" tvg-name="CNBC AAWAZ" tvg-logo="https://e7.pngegg.com/pngimages/364/719/png-clipart-flag-of-peru-flag-of-mexico-flag-of-curacao-peru-flag-emblem-flag-thumbnail.png" group-title="Gujarati",CNBC AAWAZ
+#EXTINF:-1 tvg-id="277238" tvg-name="COLORS MARATHI" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",COLORS MARATHI
+#EXTINF:-1 tvg-id="277239" tvg-name="SANGEET MARATHI" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",SANGEET MARATHI
+#EXTINF:-1 tvg-id="277240" tvg-name="SONY MARATHI" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",SONY MARATHI
+#EXTINF:-1 tvg-id="277241" tvg-name="SONY AATH" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",SONY AATH
+#EXTINF:-1 tvg-id="277242" tvg-name="STAR PARVAH ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",STAR PARVAH ᴴᴰ
+#EXTINF:-1 tvg-id="277243" tvg-name="ZEE MARATHI ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",ZEE MARATHI ᴴᴰ
+#EXTINF:-1 tvg-id="277244" tvg-name="ZEE TALKIES ᴴᴰ" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",ZEE TALKIES ᴴᴰ
+#EXTINF:-1 tvg-id="277245" tvg-name="DD SAHAYADRI" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",DD SAHAYADRI
+#EXTINF:-1 tvg-id="277246" tvg-name="9X JHAKAAS" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",9X JHAKAAS
+#EXTINF:-1 tvg-id="277247" tvg-name="ZEE 24 TAAS" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",ZEE 24 TAAS
+#EXTINF:-1 tvg-id="277248" tvg-name="TV9 MARATHI" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",TV9 MARATHI
+#EXTINF:-1 tvg-id="277249" tvg-name="TULJA BHAVANI" tvg-logo="https://ih1.redbubble.net/image.3688784750.3971/raf,750x1000,075,t,172b47:4762f60800.jpg" group-title="Marathi",TULJA BHAVANI
+#EXTINF:-1 tvg-id="277429" tvg-name="24 GHANTA" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",24 GHANTA
+#EXTINF:-1 tvg-id="277430" tvg-name="ABP ANANDA" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",ABP ANANDA
+#EXTINF:-1 tvg-id="277421" tvg-name="COLORS BANGLA ᴴᴰ" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",COLORS BANGLA ᴴᴰ
+#EXTINF:-1 tvg-id="277427" tvg-name="DD BANGLA" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",DD BANGLA
+#EXTINF:-1 tvg-id="277422" tvg-name="NAT GEO ᴴᴰ" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",NAT GEO ᴴᴰ
+#EXTINF:-1 tvg-id="277423" tvg-name="SANGEET BANGLA" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",SANGEET BANGLA
+#EXTINF:-1 tvg-id="277424" tvg-name="STAR JALSHA ᴴᴰ" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",STAR JALSHA ᴴᴰ
+#EXTINF:-1 tvg-id="277425" tvg-name="STAR JALSHA MOVIES ᴴᴰ" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",STAR JALSHA MOVIES ᴴᴰ
+#EXTINF:-1 tvg-id="277426" tvg-name="TATA SKY BANGLA ᴴᴰ" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",TATA SKY BANGLA ᴴᴰ
+#EXTINF:-1 tvg-id="277428" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-id="277431" tvg-name="ZEE BANGLA ᴴᴰ" tvg-logo="https://png.pngtree.com/png-vector/20221022/ourmid/pngtree-bangladesh-flag-with-watercolor-splash-png-image_6382119.png" group-title="Bengali",ZEE BANGLA ᴴᴰ
