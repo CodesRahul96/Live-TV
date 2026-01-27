@@ -59,3 +59,218 @@ http://103.99.249.139/sonyten3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony YAY!" tvg-logo="" group-title="Kids",Sony YAY!
 http://103.99.249.139/sonyyay/index.m3u8
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="",Sony Marathi (Server 1)
+http://217.20.112.199:8888/sonymarathi/index.m3u8
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="",Colors Marathi (Server 1)
+http://217.20.112.199:8888/ColorsMarathi/index.m3u8
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="",TV9 Marathi (Server 1)
+http://217.20.112.199:8888/tv9marathi/index.m3u8
+
+#EXTINF:-1 group-title="Marathi",Star Pravah HD - Rs 19.00
+http://103.182.170.32:8888/play/a04n
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",SONY MARATHI
+https://la.drmlive.net/tp/sliv-marathi.m3u8
+
+#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24taas/channel_list/1170x658withlogoe1338db349df4c06b683e499a9be7b99.png" group-title="Marathi", Zee 24 Taas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee5/zee24taas/index.m3u8
+
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_list/1170x658withlogo83012bc9c1344c7aa000e70a5ec92587.png" group-title="Marathi", Zee Marathi HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee5/zeemarathi/index.m3u8
+
+#EXTINF:-1 tvg-id="0-9-9z5383486" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5383486/channel_list/1170x6589dd8f842c0b5444e8c869654d0393648.png" group-title="Marathi", Zee Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee5/9z5383486/index.m3u8
+
+#EXTINF:-1 tvg-id="2891" tvg-logo="https://a.jsrdn.com/hls/23011/abp-majha/thumbh_20250310_172621.jpg" group-title="Marathi", abp-majha
+https://mix.drmlive.net/mix/distro-2891.m3u8
+
+#EXTINF:-1 tvg-id="4109" tvg-logo="https://a.jsrdn.com/hls/23129/tv9-marathi/thumbh_20250409_173453.jpg" group-title="Marathi", tv9-marathi
+https://mix.drmlive.net/mix/distro-4109.m3u8
+
+#EXTINF:-1 tvg-id="5333" tvg-logo="https://a.jsrdn.com/hls/23215/news-marathi-24x7/thumbh_20250611_210318.jpg" group-title="Marathi", news-marathi-24x7
+https://mix.drmlive.net/mix/distro-5333.m3u8
+
+#EXTINF:-1 tvg-id="65858" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/266fef31fe3bcf7b97a09be3f9cf63ef.webp" group-title="Marathi", TV9 Marathi
+https://mix.drmlive.net/mix/xiaomi-65858.m3u8
+
+#EXTINF:-1 tvg-id="65770" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/4863548ef2e39ecd2e4ff15d11af1815.webp" group-title="Marathi", Zee 24 Taas
+https://mix.drmlive.net/mix/xiaomi-65770.m3u8
+
+#EXTINF:-1 tvg-id="66361" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/f0b61498010d64422595ac80bdc22244.webp" group-title="Marathi", News Marathi 24X7
+https://mix.drmlive.net/mix/xiaomi-66361.m3u8
+
+#EXTINF:-1 tvg-id="66415" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/b5080d9b7f71d639bf482fac65640fdc.webp" group-title="Marathi", News18 Lokmat
+https://mix.drmlive.net/mix/xiaomi-66415.m3u8
+
+#EXTINF:-1 tvg-id="65775" tvg-logo="https://global-fds-img.cdn.pandora.xiaomi.com/mitv/10007/0/a408173bea72e5f6cf2261bfb5b8588e.webp" group-title="Marathi", ABP Majha
+https://mix.drmlive.net/mix/xiaomi-65775.m3u8
+
+#EXTINF:-1 tvg-id="66274" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/b91d5c4fd39220acd24b3d512a4a6b38.webp" group-title="Marathi", NDTV Marathi
+https://mix.drmlive.net/mix/xiaomi-66274.m3u8
+
+#EXTINF:-1 tvg-id="66271" tvg-logo="https://cdn.alsgp0.fds.api.mi-img.com/mitv/tv_plus/channel/0/21c592ea4546f89bd9dfa8ff5a98744a.webp" group-title="Marathi", SaamTv
+https://mix.drmlive.net/mix/xiaomi-66271.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/737149399.jpeg" group-title="Marathi",Top Marathi News
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=737149399
+
+#EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-437.jpg" group-title="Marathi",SAAM TV
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-437
+
+#EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/030061673.jpeg" group-title="Marathi",News Marathi 24x7 News
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=030061673
+
+#EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-30.jpg" group-title="Marathi",DD SAHYADRI
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-30
+
+#EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/697303762.jpeg" group-title="Marathi",Fakt Marathi
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=697303762
+
+#EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10002.png" group-title="Marathi",FAKT MARATHI
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-10002
+
+#EXTINF:-1 tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/696876346.jpeg" group-title="Marathi",Sangeet Marathi
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=696876346
+
+#EXTINF:-1 tvg-id="232" tvg-name="News18 Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18Lokmat.png" group-title="Marathi", News18 Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=232
+https://jt.drmlive.net/jiotvplus/232.mpd
+
+#EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" group-title="Marathi", Star Pravah HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=336
+https://jt.drmlive.net/jiotvplus/336.mpd
+
+#EXTINF:-1 tvg-id="442" tvg-name="Zee 24 Taas" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="Marathi", Zee 24 Taas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=442
+https://jt.drmlive.net/jiotvplus/442.mpd
+
+#EXTINF:-1 tvg-id="445" tvg-name="Zee Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeMarathi.png" group-title="Marathi", Zee Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=445
+https://jt.drmlive.net/jiotvplus/445.mpd
+
+#EXTINF:-1 tvg-id="612" tvg-name="ABP Majha" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="Marathi", ABP Majha
+https://jt.drmlive.net/jiotvplus/612.mpd
+
+#EXTINF:-1 tvg-id="691" tvg-name="Saam Tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="Marathi", Saam Tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=691
+https://jt.drmlive.net/jiotvplus/691.mpd
+
+#EXTINF:-1 tvg-id="735" tvg-name="Sangeet Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Marathi", Sangeet Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=735
+https://jt.drmlive.net/jiotvplus/735.mpd
+
+#EXTINF:-1 tvg-id="738" tvg-name="Fakt Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Fakt_Marathi.png" group-title="Marathi", Fakt Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=738
+https://jt.drmlive.net/jiotvplus/738.mpd
+
+#EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Marathi", Colors Marathi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=755
+https://jt.drmlive.net/jiotvplus/755.mpd
+
+#EXTINF:-1 tvg-id="1121" tvg-name="Star Pravah" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah.png" group-title="Marathi", Star Pravah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1121
+https://jt.drmlive.net/jiotvplus/1121.mpd
+
+#EXTINF:-1 tvg-id="1146" tvg-name="Sony Marathi SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMarathi.png" group-title="Marathi", Sony Marathi SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1146
+https://jt.drmlive.net/jiotvplus/1146.mpd
+
+#EXTINF:-1 tvg-id="1326" tvg-name="Colors Marathi SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="Marathi", Colors Marathi SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1326
+https://jt.drmlive.net/jiotvplus/1326.mpd
+
+#EXTINF:-1 tvg-id="1342" tvg-name="Nick Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="Marathi", Nick Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1342
+https://jt.drmlive.net/jiotvplus/1342.mpd
+
+#EXTINF:-1 tvg-id="1346" tvg-name="Sonic Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="Marathi", Sonic Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1346
+https://jt.drmlive.net/jiotvplus/1346.mpd
+
+#EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" group-title="Marathi", Zee Marathi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1360
+https://jt.drmlive.net/jiotvplus/1360.mpd
+
+#EXTINF:-1 tvg-id="1394" tvg-name="Jai Maharashtra" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" group-title="Marathi", Jai Maharashtra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1394
+https://jt.drmlive.net/jiotvplus/1394.mpd
+
+#EXTINF:-1 tvg-id="1452" tvg-name="Shemaroo MarathiBana" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="Marathi", Shemaroo MarathiBana
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1452
+https://jt.drmlive.net/jiotvplus/1452.mpd
+
+#EXTINF:-1 tvg-id="1506" tvg-name="News18 Lokmat." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News18_Lokmat_NW18.png" group-title="Marathi", News18 Lokmat.
+https://jt.drmlive.net/jiotvplus/1506.m3u8
+
+#EXTINF:-1 tvg-id="1972" tvg-name="Top News Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Top_News_Marathi.png" group-title="Marathi", Top News Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=1972
+https://jt.drmlive.net/jiotvplus/1972.mpd
+
+#EXTINF:-1 tvg-id="2424" tvg-name="Sun Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="Marathi", Sun Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=2424
+https://jt.drmlive.net/jiotvplus/2424.mpd
+
+#EXTINF:-1 tvg-id="3034" tvg-name="Pogo Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Mar.png" group-title="Marathi", Pogo Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=3034
+https://jt.drmlive.net/jiotvplus/3034.mpd
+
+#EXTINF:-1 tvg-id="3095" tvg-name="NDTV Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" group-title="Marathi", NDTV Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=3095
+https://jt.drmlive.net/jiotvplus/3095.mpd
+
+#EXTINF:-1 tvg-id="3099" tvg-name="Star Pravah Picture" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png" group-title="Marathi", Star Pravah Picture
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=3099
+https://jt.drmlive.net/jiotvplus/3099.mpd
+
+#EXTINF:-1 tvg-id="3100" tvg-name="Star Pravah Picture HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png" group-title="Marathi", Star Pravah Picture HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=3100
+https://jt.drmlive.net/jiotvplus/3100.mpd
+
+#EXTINF:-1 tvg-id="3165" tvg-name="News18 Marathi NW18" tvg-logo="" group-title="Marathi", News18 Marathi NW18
+https://jt.drmlive.net/jiotvplus/3165.m3u8
+
+#EXTINF:-1 tvg-id="3167" tvg-name="Lok manch Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lok_manch_Marathi.png" group-title="Marathi", Lok manch Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=3167
+https://jt.drmlive.net/jiotvplus/3167.mpd
+
+#EXTINF:-1 tvg-id="3179" tvg-name="News Marathi 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/newsmarathi.png" group-title="Marathi", News Marathi 24x7
+https://jt.drmlive.net/jiotvplus/3179.m3u8
+
+#EXTINF:-1 tvg-id="3454" tvg-name="Cartoon Network Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNMarathi.png" group-title="Marathi", Cartoon Network Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=3454
+https://jt.drmlive.net/jiotvplus/3454.mpd
+
+#EXTINF:-1 tvg-id="3457" tvg-name="Cartoon Network HD+ Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDMarathi.png" group-title="Marathi", Cartoon Network HD+ Marathi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus/jtck?id=3457
+https://jt.drmlive.net/jiotvplus/3457.mpd
