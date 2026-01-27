@@ -39,3 +39,24 @@ http://217.20.112.199:8888/tv9marathi/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="India Today" tvg-logo="" group-title="News",India Today
 http://217.20.112.199:8888/indiatoday/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="" group-title="Movies",Star Gold
+http://103.99.249.139/stargold/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="Movies",Zee Cinema
+http://103.99.249.139/zeecinema/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="" group-title="Entertainment",Sony SAB
+http://103.99.249.139/sonysab/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony MAX" tvg-logo="" group-title="Movies",Sony MAX
+http://103.99.249.139/sonymax/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="" group-title="Entertainment",Colors
+http://103.99.249.139/colors/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony TEN 3" tvg-logo="" group-title="Sports",Sony TEN 3
+http://103.99.249.139/sonyten3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony YAY!" tvg-logo="" group-title="Kids",Sony YAY!
+http://103.99.249.139/sonyyay/index.m3u8
