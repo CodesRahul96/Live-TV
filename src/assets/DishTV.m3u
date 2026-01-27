@@ -12,10 +12,10 @@ http://217.20.112.199:8888/lifeokhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SET HD" tvg-logo="" group-title="Entertainment",SET HD (Sony Entertainment Television)
 http://217.20.112.199:8888/sethd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sony Marathi" tvg-logo="" group-title="Regional",Sony Marathi
+#EXTINF:-1 tvg-id="" tvg-name="Sony Marathi" tvg-logo="" group-title="Marathi",Sony Marathi
 http://217.20.112.199:8888/sonymarathi/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Colors Marathi" tvg-logo="" group-title="Regional",Colors Marathi
+#EXTINF:-1 tvg-id="" tvg-name="Colors Marathi" tvg-logo="" group-title="Marathi",Colors Marathi HD
 http://217.20.112.199:8888/ColorsMarathi/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sun TV" tvg-logo="" group-title="Regional",Sun TV
@@ -30,10 +30,10 @@ http://217.20.112.199:8888/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Infotainment",Animal Planet
 http://217.20.112.199:8888/animalplanet/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV9 Kannada" tvg-logo="" group-title="News",TV9 Kannada
+#EXTINF:-1 tvg-id="" tvg-name="TV9 Kannada" tvg-logo="" group-title="Kannada",TV9 Kannada
 http://217.20.112.199:8888/tv9kannada/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV9 Marathi" tvg-logo="" group-title="News",TV9 Marathi
+#EXTINF:-1 tvg-id="" tvg-name="TV9 Marathi" tvg-logo="" group-title="Marathi",TV9 Marathi
 http://217.20.112.199:8888/tv9marathi/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="India Today" tvg-logo="" group-title="News",India Today
@@ -42,16 +42,16 @@ http://217.20.112.199:8888/indiatoday/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="" group-title="Movies",Star Gold
 http://103.99.249.139/stargold/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="Movies",Zee Cinema
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="Movies",Zee Cinema HD
 http://103.99.249.139/zeecinema/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="" group-title="Entertainment",Sony SAB
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="" group-title="Entertainment",Sony SAB HD
 http://103.99.249.139/sonysab/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sony MAX" tvg-logo="" group-title="Movies",Sony MAX
+#EXTINF:-1 tvg-id="" tvg-name="Sony MAX" tvg-logo="" group-title="Movies",Sony MAX HD
 http://103.99.249.139/sonymax/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="" group-title="Entertainment",Colors
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="" group-title="Entertainment",Colors HD
 http://103.99.249.139/colors/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony TEN 3" tvg-logo="" group-title="Sports",Sony TEN 3
