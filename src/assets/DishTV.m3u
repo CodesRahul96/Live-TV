@@ -60,51 +60,6 @@ http://103.99.249.139/sonyten3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony YAY!" tvg-logo="" group-title="Kids",Sony YAY!
 http://103.99.249.139/sonyyay/index.m3u8
 
-#EXTINF:-1 group-title="Marathi" tvg-logo="",Sony Marathi (Server 1)
-http://217.20.112.199:8888/sonymarathi/index.m3u8
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="",Colors Marathi (Server 1)
-http://217.20.112.199:8888/ColorsMarathi/index.m3u8
-
 #EXTINF:-1 group-title="Marathi" tvg-logo="",TV9 Marathi (Server 1)
 http://217.20.112.199:8888/tv9marathi/index.m3u8
 
-#EXTINF:-1 group-title="Marathi",Star Pravah HD - Rs 19.00
-http://103.182.170.32:8888/play/a04n
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR Pravah FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGT0CMzEguIRXb5i6Auv3tkk4U596Rtk5rP3gw6A-48D8.png" group-title="Marathi",STAR Pravah FHD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520355
-#EXTINF:-1 tvg-id="" tvg-name="SONY Marathi HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGKtknKX_kn5poCP2fRXh0ZtpZ4V_A6jQVIwor4dfJAms.png" group-title="Marathi",SONY Marathi HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520356
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Marathi FHD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG3kfDX4Wfaanp5fkzPftzwJwkWKl0j49Jjii-4vX3nQE.png" group-title="Marathi",ZEE Marathi FHD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520357
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Talkies FHD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-talkies-in.png" group-title="Marathi",ZEE Talkies FHD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520358
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Chitra Mandir HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGuHDXYtuswSzoK3eRMTZ1xENF-hwpULWYyQq3JMd7fD4.png" group-title="Marathi",ZEE Chitra Mandir HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520359
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGTYpyR_83YJNmrD42zxq3nA.png" group-title="Marathi",SONY YAY HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520360
-#EXTINF:-1 tvg-id="" tvg-name="9X Jhakaas HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG4q-9-POqMsCKhb9GywbYXEeQmGgnMXUgfNNMOdut-do.png" group-title="Marathi",9X Jhakaas HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520361
-#EXTINF:-1 tvg-id="" tvg-name="SUN Marathi HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-marathi-in.png" group-title="Marathi",SUN Marathi HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520362
-#EXTINF:-1 tvg-id="" tvg-name="DD Sahyadri HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG0WODngFB1n49G1dTgP_xuFe40fCqK9hatHznUkk85V0.png" group-title="Marathi",DD Sahyadri HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520363
-#EXTINF:-1 tvg-id="" tvg-name="Sonic HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGT2ab4oWUausLaZ71D0Y2aA.png" group-title="Marathi",Sonic HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520364
-#EXTINF:-1 tvg-id="" tvg-name="NICK HD" tvg-logo="https://rolextv.one:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGGFQeV8LiZs-Kyfqf8KmZbA.png" group-title="Marathi",NICK HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520365
-#EXTINF:-1 tvg-id="" tvg-name="ABP Majha HD" tvg-logo="https://rolextv.one:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJja7EZK4e0xieMBQEyWspk6H8aK2DUBfYCtvBsitNGT825nwI72QlF6zodMQ3irVXAhSXoDAazYfFn2iAjyHQuew.png" group-title="Marathi",ABP Majha HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520366
-#EXTINF:-1 tvg-id="" tvg-name="FAKH Marathi HD" tvg-logo="https://rolextv.one:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQZ9-6nKeZlZKBa8AVJhopIXoT8YiVJG8GPjeQNfyr35g.png" group-title="Marathi",FAKH Marathi HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520415
-#EXTINF:-1 tvg-id="" tvg-name="ZEE YUVA HD" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-yuva-in.png" group-title="Marathi",ZEE YUVA HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=520424
-#EXTINF:-1 tvg-id="" tvg-name="TV9 Marathi HD" tvg-logo="https://rolextv.one:443/images/6DJcH9So8dma-2vFaUXP2Tn0WGIBcM9yzNABkxPEtjATu-tTiLChA5jYVrj99TzbnkHjB4b390LckosgqSsDUd9d_pjMRj6yFOxv3EO-O9g.png" group-title="Marathi",TV9 Marathi HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=522588
-#EXTINF:-1 tvg-id="" tvg-name="News18 Lokmat HD" tvg-logo="https://i.imgur.com/SjbtAFh.png" group-title="Marathi",News18 Lokmat HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=522589
-#EXTINF:-1 tvg-id="" tvg-name="Pravah Pictures HD" tvg-logo="https://i.imgur.com/T76S4x3.png" group-title="Marathi",Pravah Pictures HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=522590
-#EXTINF:-1 tvg-id="" tvg-name="SAAM TV HD" tvg-logo="https://i.imgur.com/SNsjJjt.png" group-title="Marathi",SAAM TV HD
-https://allinonereborn.xyz/filex.m3u8/live2.php?id=522591
