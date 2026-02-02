@@ -116,13 +116,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 
 ========================================= SPORTS ==========================================================
 
-#EXTINF:-1 tvg-id="Star Sports 1 Tamil.in" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-249-j5fyl7tk-v1/imageContent-249-j5fyl7tk-m1.png" group-title="Tamil", Star Sports 1 Tamil
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel 4 Build/RD2A.211001.002) 
-https://tv.vaanam24.com/live.m3u8?c=STARSPORTSTAMILHD
-
-#EXTINF:-1 tvg-id="ts1187" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Thumbnail_62ccb7be-f9e6-49c0-8382-7ee6a812fe50.png" group-title="Sports", Star Sports 2 Tamil
-http://astv.life:8080/Irshad123456/Irshad654321/848772
-
 #EXTINF:-1 tvg-id="Star Sports 1 HD.in" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="Sports",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
@@ -159,15 +152,6 @@ http://astv.life:8080/Irshad123456/Irshad654321/848770
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png" group-title="Sports",FIFA+
 https://jmp2.uk/stvp-IN270000230
 
-#EXTINF: -1 tvg-id="AstroCricket" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Sports", Astro Cricket
-http://astv.life:8080/live/Irshad123456/Irshad654321/848829.ts
-
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png",Ten Sports HD
-https://flussonic.superfasthdserver.com/TenSports/index.mpd
-
-#EXTINF: -1 tvg-id="Willow.Cricket.HD.us2" tvg-chno="67" tvg-logo="https://i.postimg.cc/RFNMQVQM/j-Na-Ow-Lv-R-400x400-photoaidcom-cropped.png" group-title="Sports", Willow Cricket
-http://161.123.116.21:8080/Shelley1/Shelley1/107109
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 #EXTINF:-1 tvg-id="WillowSports" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_sports_stacked_logo_full_white.png" group-title="Sports",Willow Sports
@@ -176,19 +160,6 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesu
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9258/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-logo="https://i.ibb.co/Qcy3Dcg/Od-KOXawp-400x400-modified.png" group-title="Sports",Fox Sports 501 HD
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/19146/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png" group-title="Sports", Sky Sport
-http://45.143.220.6:12000/live/download_now_for_any_os_aostv.asia/we_support_all_os/1000035.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png" group-title="Sports", PTV Sports
-http://163.61.227.29:8000/play/a05l/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg" group-title="Sports",T Sports
-https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png" group-title="Sports", A Sports HD
-http://163.61.227.29:8000/play/a03t/index.m3u8
-#EXTINF:-1 tvg-id="geosuper" tvg-name="Geo Super" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/geo.jpg" group-title="Sports",Geo Super
-https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D3H8YrjifjjJsFkxMsKS6DbQr6fmP7wZNsiXc2ID6F27kEGmimgACL3Ep2WpnnAfZWIH" group-title="Sports",MyCo Sports
-https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
-
 
 ==================================================================================================
 
@@ -234,8 +205,6 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/9xjalwa/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music", iTV Indian Music
 https://ca1.buximedia.com/itv/indian/index.m3u8
 
-
-
 ================================= SUNNXT ==================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -280,32 +249,6 @@ https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_i
 
 
 ============================== Sling =====================================================
-
-
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32239.png" group-title="USA Channels" , TBS
-http://161.123.116.21:8080/Shelley1/Shelley1/1683792
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/838090.png" group-title="USA Channels" , TRU
-http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32271.png" group-title="USA Channels" , TVLAND
-http://143.244.60.30/TV_LAND/index.m3u8
-#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-logo="https://p-img.movetv.com/1280x720/8f57243d7b1a32dde244b7934a0f0081.jpeg" group-title="USA Channels" , FUSE
-http://143.244.60.30/FUSE/index.m3u8
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327234.png" group-title="USA Channels" , FXX
-http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/327235.png" group-title="USA Channels" , FX
-http://161.123.116.21:8080/Shelley1/Shelley1/1683762
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network FHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/usa-network.png" group-title="USA Channels",USA Network FHD
-http://161.123.116.21:8080/Shelley1/Shelley1/1683776
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/32155.png" group-title="USA Channels" , Nickelodeon 
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/791321.png" group-title="USA Channels" , Paramount Network
-http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/778321.png" group-title="USA Channels" , SYFY
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-logo="https://supair.dishanywhere.com/supair-images/channels/thumbnail/407201.png" group-title="USA Channels" tvg-id="TNT.HD.(Pacific).us2", TNT
-http://161.123.116.21:8080/Shelley1/Shelley1/1683768
-#EXTINF:-1 group-title="USA Channels" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" tvg-name="Showtime",Showtime East
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="moviesphere-ptv1" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png" group-title="Pluto TV", MovieSphere by Lionsgate
 https://amg00353-lionsgatestudios-amg00353c2-tclideo-na-2304.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-tclideona/playlist.m3u8
@@ -367,20 +310,25 @@ https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 
 #EXTINF:-1 tvg-name="AXN" group-title="Extras",AXN
 http://185.18.56.26:8888/axn/index.m3u8
+
 #EXTINF:-1 tvg-name="HBO" group-title="Extras",HBO1
 http://185.18.56.26:8888/hbo1/index.m3u8
+
 #EXTINF:-1 tvg-name="HBO2" group-title="Extras",HBO2
 http://185.18.56.26:8888/hbo2/index.m3u8
+
 #EXTINF:-1 tvg-name="HBO3" group-title="Extras",HBO3
 http://185.18.56.26:8888/hbo3/index.m3u8
+
 #EXTINF:-1 tvg-id="comedycentral.de" group-title="Extras",Comedy Central HD
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-dash/comedycentral.mpd
 
-
 #EXTINF:-1  tvg-id="Mr.bean" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png" tvg-chno="4823" group-title="Kids",Mr Bean Animated
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
 #EXTINF:-1  tvg-id="Mr.bean" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000008O5_20250107T031325SQUARE.png" tvg-chno="4159" group-title="Kids",Mr Bean Live Action
 https://jmp2.uk/stvp-GB4000008O5
+
 #EXTINF:-1  tvg-id="Tom&Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg"  group-title="Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
@@ -927,4 +875,3 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
