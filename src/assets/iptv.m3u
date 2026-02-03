@@ -1,11 +1,5 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="10649" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp" group-title="Marathi", MAIBOLI
-https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
-
-#EXTINF:-1 tvg-id="10606" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp" group-title="Marathi", 9X JHAKAS
-https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Marathi_400x200-px-update.jpg" group-title="Marathi",TV9 Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9marathi-lgin/playlist.m3u8
@@ -25,6 +19,47 @@ https://amg02481-amg02481c4-lg-in-5174.playouts.now.amagi.tv/playlist/amg02481-i
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/SaamTV/LG/SaamTVLogo_400x200.jpg" group-title="Marathi",Saam TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg26011-amg26011c1-amgplt0173.playout.now3.amagi.tv/playlist/amg26011-amg26011c1-amgplt0173/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f081f32756374c3d8265e1a1e029614e:356a3a6d8ce34d49a84ad464b20b1a3e
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-title="Marathi", Zee Talkies (EexclusiveTV)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
+
+#EXTINF:-1 group-title="Marathi",Sun Marathi
+http://103.78.149.54:8000/play/a007/index.m3u8
+
+#EXTINF:-1 group-title="Marathi",TV9 MARATHI
+http://103.78.149.54:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 group-title="Marathi",JAI MAHARASHTRA
+http://103.78.149.54:8000/play/a03z/index.m3u8
+
+#EXTINF:-1 group-title="Marathi",Fakt Marathi
+http://103.78.149.54:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 group-title="Marathi",SHEMAROO MARATHIBANA
+http://103.78.149.54:8000/play/a021/index.m3u8
+
+#EXTINF:-1 group-title="Marathi",ZEE Chitra Mandir
+http://103.78.149.54:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-id="10649" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp" group-title="Marathi", MAIBOLI
+https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
+
+#EXTINF:-1 tvg-id="10606" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp" group-title="Marathi", 9X JHAKAS
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+
+#EXTINF:-1 group-title="Movies",ZEE ANMOL
+http://103.78.149.54:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 group-title="Movies",ZEE ANMOL CINEMA
+http://103.78.149.54:8000/play/a01f/index.m3u8
+
+#EXTINF:-1 group-title="Movies",ZEE ANMOL CINEMA 2
+http://103.78.149.54:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 group-title="Movies",Zee Biskope
+http://103.78.149.54:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="" group-title="Entertainment",SONY SAB HD (EexclusiveTV)
 http://217.20.112.199:8888/sabtvhd/index.m3u8
@@ -50,17 +85,11 @@ http://217.20.112.199:8888/ColorsMarathi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sun TV" tvg-logo="" group-title="Regional",Sun TV (EexclusiveTV)
 http://217.20.112.199:8888/suntv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Asianet" tvg-logo="" group-title="Regional",Asianet (EexclusiveTV)
-http://217.20.112.199:8888/asianet/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Infotainment",Nat Geo Wild (EexclusiveTV)
 http://217.20.112.199:8888/natgeowild/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Infotainment",Animal Planet (EexclusiveTV)
 http://217.20.112.199:8888/animalplanet/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV9 Kannada" tvg-logo="" group-title="Kannada",TV9 Kannada (EexclusiveTV)
-http://217.20.112.199:8888/tv9kannada/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV9 Marathi" tvg-logo="" group-title="Marathi",TV9 Marathi (EexclusiveTV)
 http://217.20.112.199:8888/tv9marathi/index.m3u8
@@ -107,3 +136,51 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_KADAK/kadak_logo_resized_400x200.png" group-title="Movies",B4U Kadak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",THE Q
+http://103.78.149.54:8000/play/a010/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Shemaroo JOSH
+http://103.78.149.54:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Shemaroo Umang
+http://103.78.149.54:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="Music",Showbox
+http://103.78.149.54:8000/play/a008/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Sony Wah
+http://103.78.149.54:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SHEMAROO TV
+http://103.78.149.54:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SONY PAL
+http://103.78.149.54:8000/play/a016/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",STAR UTSAV
+http://103.78.149.54:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 group-title="Movies",STAR UTSAV MOVIES
+http://103.78.149.54:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SUN Neo
+http://103.78.149.54:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 group-title="Movies",Manoranjan Movies
+http://103.78.149.54:8000/play/a017/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Manoranjan TV
+http://103.78.149.54:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 group-title="Music",Masti
+http://103.78.149.54:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 group-title="Movies",GOLDMINES MOVIES
+http://103.78.149.54:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 group-title="Movies",Goldmines
+http://103.78.149.54:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 group-title="Movies",Goldmines Bollywood
+http://103.78.149.54:8000/play/a012/index.m3u8
