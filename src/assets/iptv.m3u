@@ -25,12 +25,6 @@ https://amg26011-amg26011c1-amgplt0173.playout.now3.amagi.tv/playlist/amg26011-a
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-title="Marathi", Zee Talkies (EexclusiveTV)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
 
-#EXTINF:-1 group-title="Marathi",Sun Marathi
-http://103.78.149.54:8000/play/a007/index.m3u8
-
-#EXTINF:-1 group-title="Marathi",TV9 MARATHI
-http://103.78.149.54:8000/play/a01z/index.m3u8
-
 #EXTINF:-1 group-title="Marathi",Saam ADP
 https://mumt02.tangotv.in/SAAMTV/index.m3u8
 
@@ -45,9 +39,6 @@ https://mumt04.tangotv.in/ZEE24TAAS/index.m3u8
 
 #EXTINF:-1 group-title="Marathi",SHEMAROO MARATHIBANA
 https://mumt02.tangotv.in/SHEMAROOMARATHIBANA/index.m3u8
-
-#EXTINF:-1 group-title="Marathi",ZEE Chitra Mandir
-http://103.78.149.54:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 group-title="Music",Music India ADP
 https://mumt05.tangotv.in/MUSICINDIA/index.m3u8
