@@ -82,6 +82,9 @@ http://217.20.112.199:8888/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="92" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9MAR/Mobile/thumbnail/ae52c8c0-1da5-4083-998d-64b094f441b2.png" group-title="News",TV9 Marathi
 https://tv9live.cdn.runn.tv/ptnr-RunnTV/title-TV9_Marathi_Non_SSAI/v1/vglive-sk-692706/main.m3u8
 
+#EXTINF:-1 tvg-id="64" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/thumbnail/f07ad06d-c6ef-4154-a888-baeb3455205b.png" group-title="News",ABP Majha
+https://abpnews.cdn.runn.tv/2042872/majha/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="India Today" tvg-logo="" group-title="News",India Today (EexclusiveTV)
 http://217.20.112.199:8888/indiatoday/index.m3u8
 
