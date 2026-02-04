@@ -31,32 +31,38 @@ http://103.78.149.54:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="Marathi",TV9 MARATHI
 http://103.78.149.54:8000/play/a01z/index.m3u8
 
+#EXTINF:-1 group-title="Marathi",Saam ADP
+https://mumt02.tangotv.in/SAAMTV/index.m3u8
+
 #EXTINF:-1 group-title="Marathi",JAI MAHARASHTRA
 http://103.78.149.54:8000/play/a03z/index.m3u8
 
-#EXTINF:-1 group-title="Marathi",Fakt Marathi
-http://103.78.149.54:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Marathi",Fakt Marathi ADP
+https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8
+
+#EXTINF:-1 group-title="Marathi",Zee 24 Tass ADP
+https://mumt04.tangotv.in/ZEE24TAAS/index.m3u8
 
 #EXTINF:-1 group-title="Marathi",SHEMAROO MARATHIBANA
-http://103.78.149.54:8000/play/a021/index.m3u8
+https://mumt02.tangotv.in/SHEMAROOMARATHIBANA/index.m3u8
 
 #EXTINF:-1 group-title="Marathi",ZEE Chitra Mandir
 http://103.78.149.54:8000/play/a01h/index.m3u8
 
+#EXTINF:-1 group-title="Music",Music India ADP
+https://mumt05.tangotv.in/MUSICINDIA/index.m3u8
+
 #EXTINF:-1 tvg-id="10649" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp" group-title="Marathi", MAIBOLI
-https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
+https://mumt01.tangotv.in/MAIBOLI/index.m3u8
 
 #EXTINF:-1 tvg-id="10606" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp" group-title="Marathi", 9X JHAKAS
-https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+https://mumt03.tangotv.in/9XJHAKAAS/index.m3u8
 
-#EXTINF:-1 group-title="Movies",ZEE ANMOL
-http://103.78.149.54:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="10606" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp" group-title="Marathi", 9X Jalwa
+https://mumt03.tangotv.in/9XJALWA/index.m3u8
 
-#EXTINF:-1 group-title="Movies",ZEE ANMOL CINEMA
-http://103.78.149.54:8000/play/a01f/index.m3u8
-
-#EXTINF:-1 group-title="Movies",ZEE ANMOL CINEMA 2
-http://103.78.149.54:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="10606" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Sangeet_Marathi.jpg/revision/latest?cb=20191221062134" group-title="Marathi", Sangeet MArathi ADP
+https://mumt02.tangotv.in/SANGEETMARATHI/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="" group-title="Entertainment",SONY SAB HD (EexclusiveTV)
 http://217.20.112.199:8888/sabtvhd/index.m3u8
@@ -130,51 +136,3 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist/amg
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/B4U/B4U_KADAK/kadak_logo_resized_400x200.png" group-title="Movies",B4U Kadak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids",THE Q
-http://103.78.149.54:8000/play/a010/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",Shemaroo JOSH
-http://103.78.149.54:8000/play/a01j/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",Shemaroo Umang
-http://103.78.149.54:8000/play/a00g/index.m3u8
-
-#EXTINF:-1 group-title="Music",Showbox
-http://103.78.149.54:8000/play/a008/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",Sony Wah
-http://103.78.149.54:8000/play/a01p/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",SHEMAROO TV
-http://103.78.149.54:8000/play/a00u/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",SONY PAL
-http://103.78.149.54:8000/play/a016/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",STAR UTSAV
-http://103.78.149.54:8000/play/a00r/index.m3u8
-
-#EXTINF:-1 group-title="Movies",STAR UTSAV MOVIES
-http://103.78.149.54:8000/play/a00m/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",SUN Neo
-http://103.78.149.54:8000/play/a00y/index.m3u8
-
-#EXTINF:-1 group-title="Movies",Manoranjan Movies
-http://103.78.149.54:8000/play/a017/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment",Manoranjan TV
-http://103.78.149.54:8000/play/a01a/index.m3u8
-
-#EXTINF:-1 group-title="Music",Masti
-http://103.78.149.54:8000/play/a01t/index.m3u8
-
-#EXTINF:-1 group-title="Movies",GOLDMINES MOVIES
-http://103.78.149.54:8000/play/a01i/index.m3u8
-
-#EXTINF:-1 group-title="Movies",Goldmines
-http://103.78.149.54:8000/play/a00z/index.m3u8
-
-#EXTINF:-1 group-title="Movies",Goldmines Bollywood
-http://103.78.149.54:8000/play/a012/index.m3u8
