@@ -119,6 +119,8 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist/amg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
 
+--------------------------------------------- INDIA----------------------------------------------------
+
 #EXTINF:-1 tvg-id="sonyhd.in" tvg-name="SONY (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Entertainment 4k",SONY (4K).
 https://tvstar.top:443/live/0211539317/0211539317/98854.ts
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Entertainment 4k",SONY SAB (4K).
@@ -330,4 +332,36 @@ https://tvstar.top:443/live/0211539317/0211539317/1623.ts
 #EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="ANIMAL PLANET HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="Documentry 4K",ANIMAL PLANET HD
 https://tvstar.top:443/live/0211539317/0211539317/182.ts
 #EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV HD PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD PLUS
-https://tvstar.top:443/live/0211539317/0211539317/4029.ts
+https://tvstar.top:443/live/0211539317/0211539317/4029.
+#EXTINF:-1 tvg-id="pogo.in" tvg-name=" Pogo_Hindi" tvg-logo="" group-title="Kids", Pogo_Hindi
+https://tvstar.top:443/live/0211539317/0211539317/1918.ts
+#EXTINF:-1 tvg-id="sonyMarathi.in" tvg-name="Sony Marathi HD" tvg-logo="" group-title="Marathi",Sony Marathi HD
+https://tvstar.top:443/live/0211539317/0211539317/5856.ts
+#EXTINF:-1 tvg-id="" tvg-name="9x Jhakaas  HD" tvg-logo="" group-title="Marathi",9x Jhakaas  HD
+https://tvstar.top:443/live/0211539317/0211539317/5858.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABP Majha" tvg-logo="" group-title="Marathi",ABP Majha
+https://tvstar.top:443/live/0211539317/0211539317/5859.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD Sahyadri HD(lk)" tvg-logo="" group-title="Marathi",DD Sahyadri HD(lk)
+https://tvstar.top:443/live/0211539317/0211539317/5860.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fakt Marathi" tvg-logo="" group-title="Marathi",Fakt Marathi
+https://tvstar.top:443/live/0211539317/0211539317/5861.ts
+#EXTINF:-1 tvg-id="" tvg-name="News18 Lokmat" tvg-logo="" group-title="Marathi",News18 Lokmat
+https://tvstar.top:443/live/0211539317/0211539317/5862.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV9 Marathi HD" tvg-logo="" group-title="Marathi",TV9 Marathi HD
+https://tvstar.top:443/live/0211539317/0211539317/5863.ts
+#EXTINF:-1 tvg-id="sangeetMarathi.in" tvg-name="Sangeet Marathi(lk)" tvg-logo="" group-title="Marathi",Sangeet Marathi(lk)
+https://tvstar.top:443/live/0211539317/0211539317/5864.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Yuva" tvg-logo="" group-title="Marathi",Zee Yuva
+https://tvstar.top:443/live/0211539317/0211539317/5866.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Marathi HD" tvg-logo="" group-title="Marathi",Zee Marathi HD
+https://tvstar.top:443/live/0211539317/0211539317/5867.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee  24 Taas" tvg-logo="" group-title="Marathi",Zee  24 Taas
+https://tvstar.top:443/live/0211539317/0211539317/5868.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE Marathi (usa)" tvg-logo="" group-title="Marathi",ZEE Marathi (usa)
+https://tvstar.top:443/live/0211539317/0211539317/5869.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Talkies HD" tvg-logo="" group-title="Marathi",Zee Talkies HD
+https://tvstar.top:443/live/0211539317/0211539317/5871.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colors:Marathi" tvg-logo="https://cdn.colorsMarathi.com/wp-content/uploads/2020/02/25140832/CM-Logo-without-Petal.png" group-title="Marathi",Colors:Marathi
+https://tvstar.top:443/live/0211539317/0211539317/5872.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Parvaha FHD" tvg-logo="" group-title="Marathi",Star Parvaha FHD
+https://tvstar.top:443/live/0211539317/0211539317/5874.ts
