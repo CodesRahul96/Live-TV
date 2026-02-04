@@ -58,9 +58,6 @@ http://103.78.149.54:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Movies",ZEE ANMOL CINEMA 2
 http://103.78.149.54:8000/play/a01o/index.m3u8
 
-#EXTINF:-1 group-title="Movies",Zee Biskope
-http://103.78.149.54:8000/play/a00x/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="" group-title="Entertainment",SONY SAB HD (EexclusiveTV)
 http://217.20.112.199:8888/sabtvhd/index.m3u8
 
@@ -117,9 +114,6 @@ http://103.99.249.139/sonyten3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony YAY!" tvg-logo="" group-title="Kids",Sony YAY! (EexclusiveTV)
 http://103.99.249.139/sonyyay/index.m3u8
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="",TV9 Marathi (EexclusiveTV)
-http://217.20.112.199:8888/tv9marathi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
