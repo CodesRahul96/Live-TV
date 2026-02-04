@@ -103,9 +103,6 @@ http://103.99.249.139/colors/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony TEN 3" tvg-logo="" group-title="Sports",Sony TEN 3 (EexclusiveTV)
 http://103.99.249.139/sonyten3/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sony YAY!" tvg-logo="" group-title="Kids",Sony YAY! (EexclusiveTV)
-http://103.99.249.139/sonyyay/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 alex/8875 Safari/537.36
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
