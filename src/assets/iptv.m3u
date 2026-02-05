@@ -34,10 +34,10 @@ https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8
 #EXTINF:-1 group-title="Marathi",Zee 24 Tass ADP
 https://mumt04.tangotv.in/ZEE24TAAS/index.m3u8
 
-#EXTINF:-1 group-title="Marathi",SHEMAROO MARATHIBANA
+#EXTINF:-1 group-title="Marathi", Shemaroo Marathibana
 https://mumt02.tangotv.in/SHEMAROOMARATHIBANA/index.m3u8
 
-#EXTINF:-1 group-title="Music",Music India ADP
+#EXTINF:-1 group-title="Music", Music India ADP
 https://mumt05.tangotv.in/MUSICINDIA/index.m3u8
 
 #EXTINF:-1 tvg-id="10649" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp" group-title="Marathi", MAIBOLI
@@ -46,13 +46,13 @@ https://mumt01.tangotv.in/MAIBOLI/index.m3u8
 #EXTINF:-1 tvg-id="10606" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp" group-title="Marathi", 9X JHAKAS
 https://mumt03.tangotv.in/9XJHAKAAS/index.m3u8
 
-#EXTINF:-1 tvg-id="10606" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Sangeet_Marathi.jpg/revision/latest?cb=20191221062134" group-title="Marathi", Sangeet MArathi ADP
+#EXTINF:-1 tvg-id="10606" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Sangeet_Marathi.jpg/revision/latest?cb=20191221062134" group-title="Marathi", Sangeet Marathi ADP
 https://mumt02.tangotv.in/SANGEETMARATHI/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="" group-title="Entertainment",SONY SAB HD (EexclusiveTV)
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="" group-title="Entertainment",Sony Sab HD (EexclusiveTV)
 http://217.20.112.199:8888/sabtvhd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD (EexclusiveTV)
+#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",Colors HD (EexclusiveTV)
 http://217.20.112.199:8888/ColorsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Bharat HD" tvg-logo="" group-title="Entertainment",Star Bharat HD (EexclusiveTV)
@@ -73,16 +73,16 @@ http://217.20.112.199:8888/ColorsMarathi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sun TV" tvg-logo="" group-title="Regional",Sun TV (EexclusiveTV)
 http://217.20.112.199:8888/suntv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Infotainment",Nat Geo Wild (EexclusiveTV)
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Infotainment",Nat Geo Wild HD (EexclusiveTV)
 http://217.20.112.199:8888/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Infotainment",Animal Planet (EexclusiveTV)
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Infotainment",Animal Planet HD (EexclusiveTV)
 http://217.20.112.199:8888/animalplanet/index.m3u8
 
-#EXTINF:-1 tvg-id="92" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9MAR/Mobile/thumbnail/ae52c8c0-1da5-4083-998d-64b094f441b2.png" group-title="News",TV9 Marathi
+#EXTINF:-1 tvg-id="92" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9MAR/Mobile/thumbnail/ae52c8c0-1da5-4083-998d-64b094f441b2.png" group-title="Marathi",TV9 Marathi Runn
 https://tv9live.cdn.runn.tv/ptnr-RunnTV/title-TV9_Marathi_Non_SSAI/v1/vglive-sk-692706/main.m3u8
 
-#EXTINF:-1 tvg-id="64" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/thumbnail/f07ad06d-c6ef-4154-a888-baeb3455205b.png" group-title="News",ABP Majha
+#EXTINF:-1 tvg-id="64" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/thumbnail/f07ad06d-c6ef-4154-a888-baeb3455205b.png" group-title="Marathi",ABP Majha Runn
 https://abpnews.cdn.runn.tv/2042872/majha/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="India Today" tvg-logo="" group-title="News",India Today (EexclusiveTV)
