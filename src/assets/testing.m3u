@@ -1,0 +1,41 @@
+#EXTM3U x-tvg-url=""
+
+#PLAYLIST:Entertainment
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Colors_TV_logo.svg/512px-Colors_TV_logo.svg.png" group-title="Entertainment",Colors
+http://103.99.249.139/colors/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sony_SAB_Logo.svg/512px-Sony_SAB_Logo.svg.png" group-title="Entertainment",Sony SAB
+http://103.99.249.139/sonysab/index.m3u8
+
+#PLAYLIST:Movies
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_Max_new.png/512px-Sony_Max_new.png" group-title="Movies",Sony Max
+http://103.99.249.139/sonymax/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Star_Gold_logo.png/512px-Star_Gold_logo.png" group-title="Movies",Star Gold
+http://103.99.249.139/stargold/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zee_Cinema_2017.png/512px-Zee_Cinema_2017.png" group-title="Movies",Zee Cinema
+http://103.99.249.139/zeecinema/index.m3u8
+
+#PLAYLIST:Sports
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-name="Sony Ten 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Sony_TEN_3_logo.png/512px-Sony_TEN_3_logo.png" group-title="Sports",Sony Ten 3
+http://103.99.249.139/sonyten3/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png" group-title="Sports",Star Sports 1
+http://103.99.249.139/starsport1/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png" group-title="Sports",Star Sports 2
+http://103.99.249.139/starsport2/index.m3u8
+
+#PLAYLIST:Kids
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sony_Yay_Logo.svg/512px-Sony_Yay_Logo.svg.png" group-title="Kids",Sony Yay
+http://103.99.249.139/sonyyay/index.m3u8
+
+#PLAYLIST:Documentary
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
+http://103.99.249.139/animalplanet/index.m3u8
+
+#PLAYLIST:General
+#EXTINF:-1 tvg-id="Channel9.in" tvg-name="Channel 9" tvg-logo="https://via.placeholder.com/512x512.png?text=CH9" group-title="General",Channel 9
+http://103.99.249.139/channel9/index.m3u8
+
