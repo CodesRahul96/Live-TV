@@ -34,8 +34,3 @@ http://103.99.249.139/sonyyay/index.m3u8
 #PLAYLIST:Documentary
 #EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet testing
 http://103.99.249.139/animalplanet/index.m3u8
-
-#PLAYLIST:General
-#EXTINF:-1 tvg-id="Channel9.in" tvg-name="Channel 9" tvg-logo="https://via.placeholder.com/512x512.png?text=CH9" group-title="General",Channel 9 testing
-http://103.99.249.139/channel9/index.m3u8
-
