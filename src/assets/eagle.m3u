@@ -1,396 +1,971 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|INDIA|UTSAV PLUS" group-title="Backup",UTSAV PLUS
+#EXTINF:-1 tvg-id="" tvg-name="|INDIA|UTSAV PLUS" group-title="INDIA",|INDIA|UTSAV PLUS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=510907&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CLASSICS" group-title="Backup",ZEE CLASSICS
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE CLASSICS" group-title="INDIA",|HI| ZEE CLASSICS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276904&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" group-title="Backup",ZEE ACTION
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE ACTION" group-title="INDIA",|HI| ZEE ACTION
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276905&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV " group-title="Backup",ZEE TV 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE TV" group-title="INDIA",|HI| ZEE TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276906&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA " group-title="Backup",ZEE CINEMA 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE CINEMA" group-title="INDIA",|HI| ZEE CINEMA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276907&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZING" group-title="Backup",ZING
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZING" group-title="INDIA",|HI| ZING
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276908&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT " group-title="Backup",STAR BHARAT 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| STAR BHARAT" group-title="INDIA",|HI| STAR BHARAT
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276909&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD " group-title="Backup",STAR GOLD 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| STAR GOLD" group-title="INDIA",|HI| STAR GOLD
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276910&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT " group-title="Backup",STAR GOLD SELECT 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| STAR GOLD SELECT" group-title="INDIA",|HI| STAR GOLD SELECT
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276911&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS " group-title="Backup",STAR PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| STAR PLUS" group-title="INDIA",|HI| STAR PLUS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276912&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR UTSAV" group-title="Backup",STAR UTSAV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| STAR UTSAV" group-title="INDIA",|HI| STAR UTSAV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276913&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR UTSAV MOVIES" group-title="Backup",STAR UTSAV MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="|HI| STAR UTSAV MOVIES" group-title="INDIA",|HI| STAR UTSAV MOVIES
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276914&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY " group-title="Backup",SONY 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SONY" group-title="INDIA",|HI| SONY
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276915&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX " group-title="Backup",SONY MAX 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SONY MAX" group-title="INDIA",|HI| SONY MAX
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276916&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" group-title="Backup",SONY MAX 2
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SONY MAX 2" group-title="INDIA",|HI| SONY MAX 2
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276917&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX " group-title="Backup",SONY PIX 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SONY PIX" group-title="INDIA",|HI| SONY PIX
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276918&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH " group-title="Backup",SONY BBC EARTH 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SONY BBC EARTH" group-title="INDIA",|HI| SONY BBC EARTH
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276919&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB " group-title="Backup",SONY SAB 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SONY SAB" group-title="INDIA",|HI| SONY SAB
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276920&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" group-title="Backup",SONY PAL
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SONY PAL" group-title="INDIA",|HI| SONY PAL
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276921&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY WAH" group-title="Backup",SONY WAH
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SONY WAH" group-title="INDIA",|HI| SONY WAH
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276922&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" group-title="Backup",SONY YAY
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SONY YAY" group-title="INDIA",|HI| SONY YAY
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276923&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES" group-title="Backup",B4U MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="|HI| B4U MOVIES" group-title="INDIA",|HI| B4U MOVIES
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276924&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS " group-title="Backup",COLORS 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| COLORS" group-title="INDIA",|HI| COLORS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276925&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" group-title="Backup",9X JALWA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| 9X JALWA" group-title="INDIA",|HI| 9X JALWA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276926&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AAJ TAK " group-title="Backup",AAJ TAK 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| AAJ TAK" group-title="INDIA",|HI| AAJ TAK
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276927&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AAJ TAK TEZ" group-title="Backup",AAJ TAK TEZ
+#EXTINF:-1 tvg-id="" tvg-name="|HI| AAJ TAK TEZ" group-title="INDIA",|HI| AAJ TAK TEZ
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276928&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZOOM TV " group-title="Backup",ZOOM TV 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZOOM TV" group-title="INDIA",|HI| ZOOM TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276929&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AASTHA" group-title="Backup",AASTHA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| AASTHA" group-title="INDIA",|HI| AASTHA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276930&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AASTHA BHAJAN" group-title="Backup",AASTHA BHAJAN
+#EXTINF:-1 tvg-id="" tvg-name="|HI| AASTHA BHAJAN" group-title="INDIA",|HI| AASTHA BHAJAN
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276931&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ABP NEWS INDIA" group-title="Backup",ABP NEWS INDIA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ABP NEWS INDIA" group-title="INDIA",|HI| ABP NEWS INDIA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276932&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AND PICTURES " group-title="Backup",AND PICTURES 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| AND PICTURES" group-title="INDIA",|HI| AND PICTURES
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276933&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="& TV " group-title="Backup",& TV 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| & TV" group-title="INDIA",|HI| & TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276934&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET " group-title="Backup",ANIMAL PLANET 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ANIMAL PLANET" group-title="INDIA",|HI| ANIMAL PLANET
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276935&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ARIHANT" group-title="Backup",ARIHANT
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ARIHANT" group-title="INDIA",|HI| ARIHANT
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276936&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV " group-title="Backup",BABY TV 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| BABY TV" group-title="INDIA",|HI| BABY TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276937&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC " group-title="Backup",BIG MAGIC 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| BIG MAGIC" group-title="INDIA",|HI| BIG MAGIC
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276938&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEPLEX " group-title="Backup",CINEPLEX 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| CINEPLEX" group-title="INDIA",|HI| CINEPLEX
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276940&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DD NATIONAL " group-title="Backup",DD NATIONAL 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DD NATIONAL" group-title="INDIA",|HI| DD NATIONAL
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276942&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DD RAJASTHAN" group-title="Backup",DD RAJASTHAN
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DD RAJASTHAN" group-title="INDIA",|HI| DD RAJASTHAN
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276943&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DD BHARATI" group-title="Backup",DD BHARATI
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DD BHARATI" group-title="INDIA",|HI| DD BHARATI
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276944&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DD BIHAR" group-title="Backup",DD BIHAR
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DD BIHAR" group-title="INDIA",|HI| DD BIHAR
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276945&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DD INDIA" group-title="Backup",DD INDIA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DD INDIA" group-title="INDIA",|HI| DD INDIA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276946&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DD NEWS " group-title="Backup",DD NEWS 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DD NEWS" group-title="INDIA",|HI| DD NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276947&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DD SPORTS" group-title="Backup",DD SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DD SPORTS" group-title="INDIA",|HI| DD SPORTS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276948&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DD URDU" group-title="Backup",DD URDU
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DD URDU" group-title="INDIA",|HI| DD URDU
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276950&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DD BHARTI" group-title="Backup",DD BHARTI
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DD BHARTI" group-title="INDIA",|HI| DD BHARTI
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276952&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD " group-title="Backup",DISCOVERY WORLD 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DISCOVERY WORLD" group-title="INDIA",|HI| DISCOVERY WORLD
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276953&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="E 24" group-title="Backup",E 24
+#EXTINF:-1 tvg-id="" tvg-name="|HI| E 24" group-title="INDIA",|HI| E 24
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276954&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ENTER 10 MOVIES" group-title="Backup",ENTER 10 MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ENTER 10 MOVIES" group-title="INDIA",|HI| ENTER 10 MOVIES
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276955&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EPIC " group-title="Backup",EPIC 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| EPIC" group-title="INDIA",|HI| EPIC
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276956&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE " group-title="Backup",FOX LIFE 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| FOX LIFE" group-title="INDIA",|HI| FOX LIFE
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276957&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY TV18 " group-title="Backup",HISTORY TV18 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| HISTORY TV18" group-title="INDIA",|HI| HISTORY TV18
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276958&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="LIVING FOODZ " group-title="Backup",LIVING FOODZ 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| LIVING FOODZ" group-title="INDIA",|HI| LIVING FOODZ
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276964&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MINIPLEX " group-title="Backup",MINIPLEX 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| MINIPLEX" group-title="INDIA",|HI| MINIPLEX
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276965&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIES ACTIVE" group-title="Backup",MOVIES ACTIVE
+#EXTINF:-1 tvg-id="" tvg-name="|HI| MOVIES ACTIVE" group-title="INDIA",|HI| MOVIES ACTIVE
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276966&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV BEATS " group-title="Backup",MTV BEATS 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| MTV BEATS" group-title="INDIA",|HI| MTV BEATS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276967&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV PLUS " group-title="Backup",MTV PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| MTV PLUS" group-title="INDIA",|HI| MTV PLUS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276968&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" group-title="Backup",MUSIC INDIA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| MUSIC INDIA" group-title="INDIA",|HI| MUSIC INDIA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276969&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD " group-title="Backup",NAT GEO WILD 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NAT GEO WILD" group-title="INDIA",|HI| NAT GEO WILD
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276970&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC " group-title="Backup",NATIONAL GEOGRAPHIC 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NATIONAL GEOGRAPHIC" group-title="INDIA",|HI| NATIONAL GEOGRAPHIC
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276971&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 18 ASSAM" group-title="Backup",NEWS 18 ASSAM
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NEWS 18 ASSAM" group-title="INDIA",|HI| NEWS 18 ASSAM
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276972&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 18 INDIA" group-title="Backup",NEWS 18 INDIA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NEWS 18 INDIA" group-title="INDIA",|HI| NEWS 18 INDIA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276974&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 18 RAJASTHAN" group-title="Backup",NEWS 18 RAJASTHAN
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NEWS 18 RAJASTHAN" group-title="INDIA",|HI| NEWS 18 RAJASTHAN
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276975&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" group-title="Backup",NEWS NATION
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NEWS NATION" group-title="INDIA",|HI| NEWS NATION
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276976&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="REPUBLIC TV" group-title="Backup",REPUBLIC TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| REPUBLIC TV" group-title="INDIA",|HI| REPUBLIC TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276978&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK PLUS " group-title="Backup",NICK PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NICK PLUS" group-title="INDIA",|HI| NICK PLUS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276979&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAS TV" group-title="Backup",PARAS TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| PARAS TV" group-title="INDIA",|HI| PARAS TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276980&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PEACE OF MIND " group-title="Backup",PEACE OF MIND 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| PEACE OF MIND" group-title="INDIA",|HI| PEACE OF MIND
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276981&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MAHA MOVIES" group-title="Backup",MAHA MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="|HI| MAHA MOVIES" group-title="INDIA",|HI| MAHA MOVIES
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276982&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TATA SKY THEATRE FHD" group-title="Backup",TATA SKY THEATRE FHD
+#EXTINF:-1 tvg-id="" tvg-name="|HI| TATA SKY THEATRE FHD" group-title="INDIA",|HI| TATA SKY THEATRE FHD
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276984&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UTV ACTION" group-title="Backup",UTV ACTION
+#EXTINF:-1 tvg-id="" tvg-name="|HI| UTV ACTION" group-title="INDIA",|HI| UTV ACTION
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276985&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UTV " group-title="Backup",UTV 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| UTV" group-title="INDIA",|HI| UTV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276986&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="VEDIC TV" group-title="Backup",VEDIC TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| VEDIC TV" group-title="INDIA",|HI| VEDIC TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276987&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL" group-title="Backup",ZEE ANMOL
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE ANMOL" group-title="INDIA",|HI| ZEE ANMOL
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276989&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" group-title="Backup",ZEE ANMOL CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE ANMOL CINEMA" group-title="INDIA",|HI| ZEE ANMOL CINEMA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276990&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE HINDUSTAN NEWS" group-title="Backup",ZEE HINDUSTAN NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE HINDUSTAN NEWS" group-title="INDIA",|HI| ZEE HINDUSTAN NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276991&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" group-title="Backup",ZEE NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE NEWS" group-title="INDIA",|HI| ZEE NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276992&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS BIHAR" group-title="Backup",ZEE NEWS BIHAR
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE NEWS BIHAR" group-title="INDIA",|HI| ZEE NEWS BIHAR
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276993&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS MP/CHATTISGARH" group-title="Backup",ZEE NEWS MP/CHATTISGARH
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE NEWS MP/CHATTISGARH" group-title="INDIA",|HI| ZEE NEWS MP/CHATTISGARH
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276994&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS UP" group-title="Backup",ZEE NEWS UP
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE NEWS UP" group-title="INDIA",|HI| ZEE NEWS UP
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276995&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE RAJASTHAN" group-title="Backup",ZEE RAJASTHAN
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE RAJASTHAN" group-title="INDIA",|HI| ZEE RAJASTHAN
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276996&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="POGO KIDS" group-title="Backup",POGO KIDS
+#EXTINF:-1 tvg-id="" tvg-name="|HI| POGO KIDS" group-title="INDIA",|HI| POGO KIDS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276997&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA TV" group-title="Backup",CINEMA TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| CINEMA TV" group-title="INDIA",|HI| CINEMA TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276998&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="GANGA" group-title="Backup",GANGA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| GANGA" group-title="INDIA",|HI| GANGA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276999&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DISH CINE ACTIVE" group-title="Backup",DISH CINE ACTIVE
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DISH CINE ACTIVE" group-title="INDIA",|HI| DISH CINE ACTIVE
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277000&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EVERGREEN CLASSIC" group-title="Backup",EVERGREEN CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name="|HI| EVERGREEN CLASSIC" group-title="INDIA",|HI| EVERGREEN CLASSIC
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277001&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY \u02e2\u1d30" group-title="Backup",DISNEY \u02e2\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DISNEY \u02e2\u1d30" group-title="INDIA",|HI| DISNEY \u02e2\u1d30
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277002&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CNBC TV18 NEWS " group-title="Backup",CNBC TV18 NEWS 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| CNBC TV18 NEWS" group-title="INDIA",|HI| CNBC TV18 NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277003&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TIMES NOW " group-title="Backup",TIMES NOW 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| TIMES NOW" group-title="INDIA",|HI| TIMES NOW
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277004&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NICK PLUS " group-title="Backup",NICK PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NICK PLUS" group-title="INDIA",|HI| NICK PLUS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277005&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MNX " group-title="Backup",MNX 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| MNX" group-title="INDIA",|HI| MNX
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277006&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW " group-title="Backup",MOVIES NOW 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| MOVIES NOW" group-title="INDIA",|HI| MOVIES NOW
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277007&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MN PLUS " group-title="Backup",MN PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| MN PLUS" group-title="INDIA",|HI| MN PLUS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277008&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY INTERNATIONAL " group-title="Backup",DISNEY INTERNATIONAL 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DISNEY INTERNATIONAL" group-title="INDIA",|HI| DISNEY INTERNATIONAL
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277009&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|HI|TATA PLAY VEDIC MATHS" group-title="Backup",|HI|TATA PLAY VEDIC MATHS
+#EXTINF:-1 tvg-id="" tvg-name="|HI|TATA PLAY VEDIC MATHS" group-title="INDIA",|HI|TATA PLAY VEDIC MATHS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277010&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CN PLUS " group-title="Backup",CN PLUS 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| CN PLUS" group-title="INDIA",|HI| CN PLUS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277011&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BINDAS MOVIES" group-title="Backup",BINDAS MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="|HI| BINDAS MOVIES" group-title="INDIA",|HI| BINDAS MOVIES
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277012&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UTV MOVIES" group-title="Backup",UTV MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="|HI| UTV MOVIES" group-title="INDIA",|HI| UTV MOVIES
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277013&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ISHWAR TV" group-title="Backup",ISHWAR TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ISHWAR TV" group-title="INDIA",|HI| ISHWAR TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277014&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" group-title="Backup",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="|HI| CARTOON NETWORK" group-title="INDIA",|HI| CARTOON NETWORK
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277015&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="REPUBLIC BHARAT" group-title="Backup",REPUBLIC BHARAT
+#EXTINF:-1 tvg-id="" tvg-name="|HI| REPUBLIC BHARAT" group-title="INDIA",|HI| REPUBLIC BHARAT
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277016&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC" group-title="Backup",B4U MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="|HI| B4U MUSIC" group-title="INDIA",|HI| B4U MUSIC
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277017&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" group-title="Backup",INDIA NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|HI| INDIA NEWS" group-title="INDIA",|HI| INDIA NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277018&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="INDIA TV" group-title="Backup",INDIA TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| INDIA TV" group-title="INDIA",|HI| INDIA TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277019&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DANGAL" group-title="Backup",DANGAL
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DANGAL" group-title="INDIA",|HI| DANGAL
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277020&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MASTII" group-title="Backup",MASTII
+#EXTINF:-1 tvg-id="" tvg-name="|HI| MASTII" group-title="INDIA",|HI| MASTII
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277021&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NDTV INDIA" group-title="Backup",NDTV INDIA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NDTV INDIA" group-title="INDIA",|HI| NDTV INDIA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277022&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS MP" group-title="Backup",INDIA NEWS MP
+#EXTINF:-1 tvg-id="" tvg-name="|HI| INDIA NEWS MP" group-title="INDIA",|HI| INDIA NEWS MP
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277023&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS UP" group-title="Backup",INDIA NEWS UP
+#EXTINF:-1 tvg-id="" tvg-name="|HI| INDIA NEWS UP" group-title="INDIA",|HI| INDIA NEWS UP
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277024&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS HARYANA" group-title="Backup",INDIA NEWS HARYANA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| INDIA NEWS HARYANA" group-title="INDIA",|HI| INDIA NEWS HARYANA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277025&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS RAJASTHAN" group-title="Backup",INDIA NEWS RAJASTHAN
+#EXTINF:-1 tvg-id="" tvg-name="|HI| INDIA NEWS RAJASTHAN" group-title="INDIA",|HI| INDIA NEWS RAJASTHAN
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277027&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SUDARSHAN NEWS" group-title="Backup",SUDARSHAN NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SUDARSHAN NEWS" group-title="INDIA",|HI| SUDARSHAN NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277028&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NDTV GOOD TIMES" group-title="Backup",NDTV GOOD TIMES
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NDTV GOOD TIMES" group-title="INDIA",|HI| NDTV GOOD TIMES
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277038&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="OM SHANTI" group-title="Backup",OM SHANTI
+#EXTINF:-1 tvg-id="" tvg-name="|HI| OM SHANTI" group-title="INDIA",|HI| OM SHANTI
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277039&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="IBC 24" group-title="Backup",IBC 24
+#EXTINF:-1 tvg-id="" tvg-name="|HI| IBC 24" group-title="INDIA",|HI| IBC 24
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277040&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 24" group-title="Backup",NEWS 24
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NEWS 24" group-title="INDIA",|HI| NEWS 24
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277041&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SHUBH TV" group-title="Backup",SHUBH TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SHUBH TV" group-title="INDIA",|HI| SHUBH TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277042&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL WIN" group-title="Backup",CHANNEL WIN
+#EXTINF:-1 tvg-id="" tvg-name="|HI| CHANNEL WIN" group-title="INDIA",|HI| CHANNEL WIN
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277043&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RAMDHENU" group-title="Backup",RAMDHENU
+#EXTINF:-1 tvg-id="" tvg-name="|HI| RAMDHENU" group-title="INDIA",|HI| RAMDHENU
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277044&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RENGONI" group-title="Backup",RENGONI
+#EXTINF:-1 tvg-id="" tvg-name="|HI| RENGONI" group-title="INDIA",|HI| RENGONI
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277045&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FOOD FOOD " group-title="Backup",FOOD FOOD 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| FOOD FOOD" group-title="INDIA",|HI| FOOD FOOD
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277046&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DILLI AAJ TAKK" group-title="Backup",DILLI AAJ TAKK
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DILLI AAJ TAKK" group-title="INDIA",|HI| DILLI AAJ TAKK
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277047&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PRAG NEWS" group-title="Backup",PRAG NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|HI| PRAG NEWS" group-title="INDIA",|HI| PRAG NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277048&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TARANG Music" group-title="Backup",TARANG Music
+#EXTINF:-1 tvg-id="" tvg-name="|HI| TARANG Music" group-title="INDIA",|HI| TARANG Music
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277049&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 18 LIVE" group-title="Backup",NEWS 18 LIVE
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NEWS 18 LIVE" group-title="INDIA",|HI| NEWS 18 LIVE
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277050&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT" group-title="Backup",NDTV PROFIT
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NDTV PROFIT" group-title="INDIA",|HI| NDTV PROFIT
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277051&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NDTV 24x7" group-title="Backup",NDTV 24x7
+#EXTINF:-1 tvg-id="" tvg-name="|HI| NDTV 24x7" group-title="INDIA",|HI| NDTV 24x7
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277052&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="INDIA TODAY" group-title="Backup",INDIA TODAY
+#EXTINF:-1 tvg-id="" tvg-name="|HI| INDIA TODAY" group-title="INDIA",|HI| INDIA TODAY
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277053&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="9X MUSIC" group-title="Backup",9X MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="|HI| 9X MUSIC" group-title="INDIA",|HI| 9X MUSIC
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277054&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="E NEWS 24" group-title="Backup",E NEWS 24
+#EXTINF:-1 tvg-id="" tvg-name="|HI| E NEWS 24" group-title="INDIA",|HI| E NEWS 24
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277055&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BUSINESS" group-title="Backup",ZEE BUSINESS
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE BUSINESS" group-title="INDIA",|HI| ZEE BUSINESS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277056&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SANSKAR TV" group-title="Backup",SANSKAR TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SANSKAR TV" group-title="INDIA",|HI| SANSKAR TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277057&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SATSANG TV" group-title="Backup",SATSANG TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SATSANG TV" group-title="INDIA",|HI| SATSANG TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277058&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" group-title="Backup",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DISCOVERY KIDS" group-title="INDIA",|HI| DISCOVERY KIDS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277059&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL WIN" group-title="Backup",CHANNEL WIN
+#EXTINF:-1 tvg-id="" tvg-name="|HI| CHANNEL WIN" group-title="INDIA",|HI| CHANNEL WIN
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277060&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2" group-title="Backup",STAR GOLD 2
+#EXTINF:-1 tvg-id="" tvg-name="|HI| STAR GOLD 2" group-title="INDIA",|HI| STAR GOLD 2
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277061&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AND EXPLORER " group-title="Backup",AND EXPLORER 
+#EXTINF:-1 tvg-id="" tvg-name="|HI| AND EXPLORER" group-title="INDIA",|HI| AND EXPLORER
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277062&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="Backup",MIRROR NOW
+#EXTINF:-1 tvg-id="" tvg-name="|HI| MIRROR NOW" group-title="INDIA",|HI| MIRROR NOW
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277064&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE YUVA" group-title="Backup",ZEE YUVA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE YUVA" group-title="INDIA",|HI| ZEE YUVA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277066&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PRARTHANA BHAWAN" group-title="Backup",PRARTHANA BHAWAN
+#EXTINF:-1 tvg-id="" tvg-name="|HI| PRARTHANA BHAWAN" group-title="INDIA",|HI| PRARTHANA BHAWAN
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277067&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RAJASTHAN PATRIKA" group-title="Backup",RAJASTHAN PATRIKA
+#EXTINF:-1 tvg-id="" tvg-name="|HI| RAJASTHAN PATRIKA" group-title="INDIA",|HI| RAJASTHAN PATRIKA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277068&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="REPUBLIC NEWS" group-title="Backup",REPUBLIC NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|HI| REPUBLIC NEWS" group-title="INDIA",|HI| REPUBLIC NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277069&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="IDN LOKMAT" group-title="Backup",IDN LOKMAT
+#EXTINF:-1 tvg-id="" tvg-name="|HI| IDN LOKMAT" group-title="INDIA",|HI| IDN LOKMAT
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277070&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS MP" group-title="Backup",ZEE NEWS MP
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE NEWS MP" group-title="INDIA",|HI| ZEE NEWS MP
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277071&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DIVYA TV" group-title="Backup",DIVYA TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| DIVYA TV" group-title="INDIA",|HI| DIVYA TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277072&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TARANG TV" group-title="Backup",TARANG TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| TARANG TV" group-title="INDIA",|HI| TARANG TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277073&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ALANKAR TV" group-title="Backup",ALANKAR TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ALANKAR TV" group-title="INDIA",|HI| ALANKAR TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277074&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TARANG MUSIC" group-title="Backup",TARANG MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="|HI| TARANG MUSIC" group-title="INDIA",|HI| TARANG MUSIC
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277075&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SARTHAK TV" group-title="Backup",SARTHAK TV
+#EXTINF:-1 tvg-id="" tvg-name="|HI| SARTHAK TV" group-title="INDIA",|HI| SARTHAK TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277076&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE KALINGA" group-title="Backup",ZEE KALINGA
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277220&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS MARATHI" group-title="Marathi",COLORS MARATHI
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277238&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SANGEET MARATHI" group-title="Marathi",SANGEET MARATHI
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277239&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY MARATHI" group-title="Marathi",SONY MARATHI
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277240&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" group-title="Marathi",SONY AATH
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277241&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR PARVAH " group-title="Marathi",STAR PARVAH 
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277242&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE MARATHI " group-title="Marathi",ZEE MARATHI 
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277243&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TALKIES " group-title="Marathi",ZEE TALKIES 
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277244&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DD SAHAYADRI" group-title="Marathi",DD SAHAYADRI
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277245&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="9X JHAKAAS" group-title="Marathi",9X JHAKAAS
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277246&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE 24 TAAS" group-title="Marathi",ZEE 24 TAAS
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277247&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV9 MARATHI" group-title="Marathi",TV9 MARATHI
-http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277248&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TULJA BHAVANI" group-title="Marathi",TULJA BHAVANI
+#EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE KALINGA" group-title="INDIA",|HI| ZEE KALINGA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277077&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA|UK| CHANNEL S" group-title="BANGLA",|BANGLA|UK| CHANNEL S
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277340&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA|UK| TV UK" group-title="BANGLA",|BANGLA|UK| TV UK
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277341&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA|UK| NTV" group-title="BANGLA",|BANGLA|UK| NTV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277342&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA|UK| ATN BANGLA" group-title="BANGLA",|BANGLA|UK| ATN BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277343&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA|UK| ION TV" group-title="BANGLA",|BANGLA|UK| ION TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277344&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA|UK| TV ONE" group-title="BANGLA",|BANGLA|UK| TV ONE
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277345&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| COLORS BANGLA" group-title="BANGLA",|BANGLA| COLORS BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277346&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ZEE 24 GHANTA" group-title="BANGLA",|BANGLA| ZEE 24 GHANTA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277347&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| JALSHA MOVIES" group-title="BANGLA",|BANGLA| JALSHA MOVIES
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277348&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| STAR JALSHA+" group-title="BANGLA",|BANGLA| STAR JALSHA+
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277349&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| AAKAASH BANGLA" group-title="BANGLA",|BANGLA| AAKAASH BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277350&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| NAGORIK TV" group-title="BANGLA",|BANGLA| NAGORIK TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277351&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ABP ANANDA" group-title="BANGLA",|BANGLA| ABP ANANDA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277352&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ATN BANGLA" group-title="BANGLA",|BANGLA| ATN BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277353&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ATN NEWS" group-title="BANGLA",|BANGLA| ATN NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277354&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| BANGLA ETV" group-title="BANGLA",|BANGLA| BANGLA ETV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277355&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| BIJOY TV" group-title="BANGLA",|BANGLA| BIJOY TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277356&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ATN ISLAMIC TV" group-title="BANGLA",|BANGLA| ATN ISLAMIC TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277357&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| BOISHAKHI TV" group-title="BANGLA",|BANGLA| BOISHAKHI TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277358&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| BTV WORLD" group-title="BANGLA",|BANGLA| BTV WORLD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277359&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| BTV" group-title="BANGLA",|BANGLA| BTV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277360&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| CHANNEL 9" group-title="BANGLA",|BANGLA| CHANNEL 9
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277361&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| CHANNEL I" group-title="BANGLA",|BANGLA| CHANNEL I
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277362&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| CHANNEL S" group-title="BANGLA",|BANGLA| CHANNEL S
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277363&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| COLORS BANGLA" group-title="BANGLA",|BANGLA| COLORS BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277364&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| DBC NEWS" group-title="BANGLA",|BANGLA| DBC NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277365&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| DD BANGLA" group-title="BANGLA",|BANGLA| DD BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277366&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| DESH TV" group-title="BANGLA",|BANGLA| DESH TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277367&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| DESHE BIDESHE TV" group-title="BANGLA",|BANGLA| DESHE BIDESHE TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277368&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| DESHI TV" group-title="BANGLA",|BANGLA| DESHI TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277369&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| DHOOM MUSIC" group-title="BANGLA",|BANGLA| DHOOM MUSIC
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277370&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| EKATTOR TV" group-title="BANGLA",|BANGLA| EKATTOR TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277371&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ETV BANGLA" group-title="BANGLA",|BANGLA| ETV BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277372&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| GAAN BANGLA" group-title="BANGLA",|BANGLA| GAAN BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277373&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| INDEPENDENT TV" group-title="BANGLA",|BANGLA| INDEPENDENT TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277374&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| iTV" group-title="BANGLA",|BANGLA| iTV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277375&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| MASRANGA TV" group-title="BANGLA",|BANGLA| MASRANGA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277376&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| MILLENNIUM TV" group-title="BANGLA",|BANGLA| MILLENNIUM TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277377&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| MOHONA TV" group-title="BANGLA",|BANGLA| MOHONA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277378&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| MOVIE BANGLA" group-title="BANGLA",|BANGLA| MOVIE BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277379&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| NEWS TIME" group-title="BANGLA",|BANGLA| NEWS TIME
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277380&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| NRB TV" group-title="BANGLA",|BANGLA| NRB TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277381&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| NTV" group-title="BANGLA",|BANGLA| NTV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277382&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| R PLUS" group-title="BANGLA",|BANGLA| R PLUS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277383&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| RTV" group-title="BANGLA",|BANGLA| RTV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277384&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| RUPOSHI BANGLA" group-title="BANGLA",|BANGLA| RUPOSHI BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277385&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| SANGEET BANGLA" group-title="BANGLA",|BANGLA| SANGEET BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277386&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| SATV" group-title="BANGLA",|BANGLA| SATV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277387&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| KTV BANGLA" group-title="BANGLA",|BANGLA| KTV BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277388&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| SOMOY NEWS TV" group-title="BANGLA",|BANGLA| SOMOY NEWS TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277389&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| SONY AATH" group-title="BANGLA",|BANGLA| SONY AATH
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277390&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| STAR JHALSA MOVIES" group-title="BANGLA",|BANGLA| STAR JHALSA MOVIES
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277391&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| BONGO MOVIES" group-title="BANGLA",|BANGLA| BONGO MOVIES
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277392&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| TIME TELEVISION" group-title="BANGLA",|BANGLA| TIME TELEVISION
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277393&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| TV ASIA" group-title="BANGLA",|BANGLA| TV ASIA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277394&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ZEE BANGLA CINEMA" group-title="BANGLA",|BANGLA| ZEE BANGLA CINEMA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277395&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ATN BANGLA USA" group-title="BANGLA",|BANGLA| ATN BANGLA USA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277396&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| DEEPTO TV" group-title="BANGLA",|BANGLA| DEEPTO TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277397&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| NEWS 24" group-title="BANGLA",|BANGLA| NEWS 24
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277398&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ZEE BANGLA" group-title="BANGLA",|BANGLA| ZEE BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277399&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| JAMUNA TV" group-title="BANGLA",|BANGLA| JAMUNA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277400&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| RTV MUSIC" group-title="BANGLA",|BANGLA| RTV MUSIC
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277401&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ZEE BANGLA" group-title="BANGLA",|BANGLA| ZEE BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277402&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| JONMOBHUMI TV" group-title="BANGLA",|BANGLA| JONMOBHUMI TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277403&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| MADANI TV BANGLA" group-title="BANGLA",|BANGLA| MADANI TV BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277404&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| STAR JALSHA" group-title="BANGLA",|BANGLA| STAR JALSHA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277405&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| NANDAN TV" group-title="BANGLA",|BANGLA| NANDAN TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277406&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ANANDA TV" group-title="BANGLA",|BANGLA| ANANDA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277408&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| JHANKAR TV" group-title="BANGLA",|BANGLA| JHANKAR TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277409&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| MUSIC FATAFATI" group-title="BANGLA",|BANGLA| MUSIC FATAFATI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277410&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| NAN TV" group-title="BANGLA",|BANGLA| NAN TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277411&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| FAMILY TV" group-title="BANGLA",|BANGLA| FAMILY TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277412&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| NRB CONNECT" group-title="BANGLA",|BANGLA| NRB CONNECT
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277413&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ONKAR ONLY TRUTH" group-title="BANGLA",|BANGLA| ONKAR ONLY TRUTH
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277414&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| DISCOVERY BENGALI" group-title="BENGALI",|BANGLA| DISCOVERY BENGALI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277415&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| SUN BANGLA" group-title="BANGLA",|BANGLA| SUN BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277416&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| TBN 24" group-title="BANGLA",|BANGLA| TBN 24
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277417&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| iTV UK" group-title="BANGLA",|BANGLA| iTV UK
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277418&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| ENTER 10 BANGLA" group-title="BANGLA",|BANGLA| ENTER 10 BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277419&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|BANGLA| CHANNEL TT" group-title="BANGLA",|BANGLA| CHANNEL TT
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277420&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| COLORS ODIA" group-title="INDIA",|ODIA| COLORS ODIA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306175&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| STAR KIRAN" group-title="INDIA",|ODIA| STAR KIRAN
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306176&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| KALINGA TV" group-title="INDIA",|ODIA| KALINGA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306177&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| ZEE SARTHAK TV" group-title="INDIA",|ODIA| ZEE SARTHAK TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306178&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| SIDDARTH GOLD" group-title="INDIA",|ODIA| SIDDARTH GOLD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306179&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| SIDDARTH TV" group-title="INDIA",|ODIA| SIDDARTH TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306180&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| ARGUS NEWS" group-title="INDIA",|ODIA| ARGUS NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306181&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| PRAMEYA NEWS 7" group-title="INDIA",|ODIA| PRAMEYA NEWS 7
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306182&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| TARANG MUSIC" group-title="INDIA",|ODIA| TARANG MUSIC
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306183&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| ALANKAR TV" group-title="INDIA",|ODIA| ALANKAR TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306184&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| TARANG TV" group-title="INDIA",|ODIA| TARANG TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306185&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ODIA| ODISHA TV" group-title="INDIA",|ODIA| ODISHA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=306186&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU|UK| KTV INDIA" group-title="PUNJABI",|PU|UK| KTV INDIA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277250&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| CHARDIKLA TIMES TV" group-title="PUNJABI",|PU| CHARDIKLA TIMES TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277251&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| DD PUNJABI" group-title="PUNJABI",|PU| DD PUNJABI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277252&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| HUNGAMA AMRITVANI" group-title="PUNJABI",|PU| HUNGAMA AMRITVANI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277253&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| INDIA NEWS PUNJAB" group-title="PUNJABI",|PU| INDIA NEWS PUNJAB
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277254&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| MANORANJAN MOVIES" group-title="PUNJABI",|PU| MANORANJAN MOVIES
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277255&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| MANORANJAN TV" group-title="PUNJABI",|PU| MANORANJAN TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277256&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| MH1 MUSIC" group-title="PUNJABI",|PU| MH1 MUSIC
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277257&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| MH1 NEWS" group-title="PUNJABI",|PU| MH1 NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277258&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| MH1 SHRADDHA" group-title="PUNJABI",|PU| MH1 SHRADDHA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277259&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| NEWS 18 PUNJAB HARYANA" group-title="PUNJABI",|PU| NEWS 18 PUNJAB HARYANA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277260&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| PITAARA TV" group-title="PUNJABI",|PU| PITAARA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277261&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| PRIME ASIA" group-title="PUNJABI",|PU| PRIME ASIA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277262&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| PTC CHAKDE" group-title="PUNJABI",|PU| PTC CHAKDE
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277263&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| PTC NEWS" group-title="PUNJABI",|PU| PTC NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277264&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| PTC PUNJABI" group-title="PUNJABI",|PU| PTC PUNJABI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277265&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| SANJHA TV" group-title="PUNJABI",|PU| SANJHA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277266&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| SSTV" group-title="PUNJABI",|PU| SSTV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277267&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| ZEE PUNJAB HARYANA" group-title="PUNJABI",|PU| ZEE PUNJAB HARYANA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277268&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| ZEE PUNJABI" group-title="PUNJABI",|PU| ZEE PUNJABI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277269&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| MAHA" group-title="PUNJABI",|PU| MAHA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277270&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| TATA SKY PUNJAB DE RANG" group-title="PUNJABI",|PU| TATA SKY PUNJAB DE RANG
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277271&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| FATEH TV" group-title="PUNJABI",|PU| FATEH TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277272&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| JUS ONE" group-title="PUNJABI",|PU| JUS ONE
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277273&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| BRIT ASIA" group-title="PUNJABI",|PU| BRIT ASIA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277274&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| CHARDIKALAH TIMES TV" group-title="PUNJABI",|PU| CHARDIKALAH TIMES TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277275&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| AIKAM TV" group-title="PUNJABI",|PU| AIKAM TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277276&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| DESI CHANNEL" group-title="PUNJABI",|PU| DESI CHANNEL
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277277&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| PCHS TV" group-title="PUNJABI",|PU| PCHS TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277278&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|PU| LIVING INDIA NEWS" group-title="PUNJABI",|PU| LIVING INDIA NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277279&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| SUN TV" group-title="TAMIL",|TM| SUN TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=598758&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| ZEE TAMIL" group-title="TAMIL",|TM| ZEE TAMIL
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=598757&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| KALAIGNAR TV" group-title="TAMIL",|TM| KALAIGNAR TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=598756&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| ADHTIYA TV" group-title="TAMIL",|TM| ADHTIYA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277078&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| ANGEL TV" group-title="TAMIL",|TM| ANGEL TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277079&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| CAPTAIN NEWS" group-title="TAMIL",|TM| CAPTAIN NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277080&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| COLORS TAMIL" group-title="TAMIL",|TM| COLORS TAMIL
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277081&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| DD PODHIGAI" group-title="TAMIL",|TM| DD PODHIGAI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277082&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| DISCOVERY WORLD" group-title="TAMIL",|TM| DISCOVERY WORLD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277083&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| FOX LIFE" group-title="TAMIL",|TM| FOX LIFE
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277084&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| HISTORY TV18" group-title="TAMIL",|TM| HISTORY TV18
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277085&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| JAYA TV" group-title="TAMIL",|TM| JAYA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277086&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| KTV" group-title="TAMIL",|TM| KTV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277087&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| NAT GEO WILD" group-title="TAMIL",|TM| NAT GEO WILD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277088&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| NATIONAL GEOGRAPHIC" group-title="TAMIL",|TM| NATIONAL GEOGRAPHIC
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277089&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| NEWS 18 TAMIL NADU" group-title="TAMIL",|TM| NEWS 18 TAMIL NADU
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277090&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| RAJ MUSIX" group-title="TAMIL",|TM| RAJ MUSIX
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277091&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| RAJ TV" group-title="TAMIL",|TM| RAJ TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277092&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| SONY BBC EARTH" group-title="TAMIL",|TM| SONY BBC EARTH
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277093&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| STAR VIJAY" group-title="TAMIL",|TM| STAR VIJAY
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277094&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| SUN LIFE" group-title="TAMIL",|TM| SUN LIFE
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277095&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| SUN MUSIC" group-title="TAMIL",|TM| SUN MUSIC
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277096&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| SUN NEWS" group-title="TAMIL",|TM| SUN NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277097&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| SUN TV" group-title="TAMIL",|TM| SUN TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277098&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| TATA SKY TAMIL CINEMA" group-title="TAMIL",|TM| TATA SKY TAMIL CINEMA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277099&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| VASANTH TV" group-title="TAMIL",|TM| VASANTH TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277100&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| VIJAY SUPER" group-title="TAMIL",|TM| VIJAY SUPER
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277101&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| ZEE TAMIL FHD" group-title="TAMIL",|TM| ZEE TAMIL FHD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277102&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| IBC BAKTHI" group-title="TAMIL",|TM| IBC BAKTHI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277103&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| IBC TAMIL" group-title="TAMIL",|TM| IBC TAMIL
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277104&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| IBC COMEDY" group-title="TAMIL",|TM| IBC COMEDY
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277105&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| TVI" group-title="TAMIL",|TM| TVI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277106&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| FLOWERS TV" group-title="TAMIL",|TM| FLOWERS TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277107&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| JAYA PLUS" group-title="TAMIL",|TM| JAYA PLUS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277108&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| JAYA MAX" group-title="TAMIL",|TM| JAYA MAX
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277109&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| DD SAPTAGIRI" group-title="TAMIL",|TM| DD SAPTAGIRI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277110&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| CHUTTI TV" group-title="TAMIL",|TM| CHUTTI TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277111&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| DISCOVERY KIDS TAMIL" group-title="TAMIL",|TM| DISCOVERY KIDS TAMIL
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277112&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| PUTHUYUGAM" group-title="TAMIL",|TM| PUTHUYUGAM
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277113&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| THANTHI TV" group-title="TAMIL",|TM| THANTHI TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277114&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| SONY YAY" group-title="TAMIL",|TM| SONY YAY
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277115&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| ZEE TAMIL \u02e2\u1d30" group-title="TAMIL",|TM| ZEE TAMIL \u02e2\u1d30
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277116&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| POLIMER NEWS" group-title="TAMIL",|TM| POLIMER NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277117&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| RAJ NEWS" group-title="TAMIL",|TM| RAJ NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277118&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| SATHIYAM TV" group-title="TAMIL",|TM| SATHIYAM TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277119&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| MAKKAL TV" group-title="TAMIL",|TM| MAKKAL TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277120&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| RAJ DIGITAL PLUS" group-title="TAMIL",|TM| RAJ DIGITAL PLUS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277121&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| POLIMER TV" group-title="TAMIL",|TM| POLIMER TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277122&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| ZEE THIRAI" group-title="TAMIL",|TM| ZEE THIRAI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277123&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| LOTUS NEWS" group-title="TAMIL",|TM| LOTUS NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277124&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| JAYA MAX" group-title="TAMIL",|TM| JAYA MAX
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277125&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| SAHANA TV" group-title="TAMIL",|TM| SAHANA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277126&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| SALVATION TV" group-title="TAMIL",|TM| SALVATION TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277127&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| MK TV" group-title="TAMIL",|TM| MK TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277128&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| TAMILAN TV" group-title="TAMIL",|TM| TAMILAN TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277129&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| MOON TV" group-title="TAMIL",|TM| MOON TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277130&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| TUNE 6" group-title="TAMIL",|TM| TUNE 6
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277131&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| MADHA TV" group-title="TAMIL",|TM| MADHA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277132&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| IMAYAM TV" group-title="TAMIL",|TM| IMAYAM TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277133&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| VALICHAM PLUS" group-title="TAMIL",|TM| VALICHAM PLUS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277134&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| WIN NEWS" group-title="TAMIL",|TM| WIN NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277135&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| CAPTAIN TV" group-title="TAMIL",|TM| CAPTAIN TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277136&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| J MOVIES" group-title="TAMIL",|TM| J MOVIES
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277137&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|TM| PUTHIYA THALIMURAI" group-title="TAMIL",|TM| PUTHIYA THALIMURAI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277138&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TS SPORTS 18" group-title="SPORTS",TS SPORTS 18
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=1090572&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| Hub Sports 1" group-title="SPORTS",|SP| Hub Sports 1
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=280822&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| Hub Sports 2" group-title="SPORTS",|SP| Hub Sports 2
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=280823&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| Hub Sports 3" group-title="SPORTS",|SP| Hub Sports 3
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=280824&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| Hub Sports 4" group-title="SPORTS",|SP| Hub Sports 4
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=280825&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| Hub Sports 5" group-title="SPORTS",|SP| Hub Sports 5
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=280826&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| D SPORTS" group-title="SPORTS",|SP| D SPORTS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276727&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| SONY SIX" group-title="SPORTS",|SP| SONY SIX
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276728&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| STAR SPORTS 1 ENGLISH" group-title="SPORTS",|SP| STAR SPORTS 1 ENGLISH
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276730&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| STAR SPORTS 1 HINDI" group-title="SPORTS",|SP| STAR SPORTS 1 HINDI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276731&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| STAR SPORTS 2" group-title="SPORTS",|SP| STAR SPORTS 2
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276732&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| STAR SPORTS 3" group-title="SPORTS",|SP| STAR SPORTS 3
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276733&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| STAR SPORTS SELECT 1" group-title="SPORTS",|SP| STAR SPORTS SELECT 1
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276734&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| STAR SPORTS SELECT 2" group-title="SPORTS",|SP| STAR SPORTS SELECT 2
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276735&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| STAR SPORTS 1 FHD" group-title="SPORTS",|SP| STAR SPORTS 1 FHD
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276736&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TEN 1" group-title="SPORTS",|SP| TEN 1
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276737&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TEN 2" group-title="SPORTS",|SP| TEN 2
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276738&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TEN 3" group-title="SPORTS",|SP| TEN 3
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276739&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TEN 4" group-title="SPORTS",|SP| TEN 4
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=1080194&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| TEN 5" group-title="SPORTS",|SP| TEN 5
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=1080193&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| WILLOW CRICKET" group-title="SPORTS",|SP| WILLOW CRICKET
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276740&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| DD SPORTS" group-title="SPORTS",|SP| DD SPORTS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276741&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|SP| STAR SPORTS TAMIL" group-title="SPORTS",|SP| STAR SPORTS TAMIL
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276742&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|TELEGU| ABN NEWS TV" group-title="Telugu",|TELEGU| ABN NEWS TV
+#EXTINF:-1 tvg-id="" tvg-name="|TELEGU| ABN NEWS TV" group-title="TELUGU",|TELEGU| ABN NEWS TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277139&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|TELEGU| CVR NEWS" group-title="Telugu",|TELEGU| CVR NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|TELEGU| CVR NEWS" group-title="TELUGU",|TELEGU| CVR NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277140&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BHAKTI TV" group-title="Telugu",BHAKTI TV
+#EXTINF:-1 tvg-id="" tvg-name="|TE| BHAKTI TV" group-title="TELUGU",|TE| BHAKTI TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277141&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD " group-title="Telugu",DISCOVERY WORLD 
+#EXTINF:-1 tvg-id="" tvg-name="|TE| DISCOVERY WORLD" group-title="TELUGU",|TE| DISCOVERY WORLD
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277142&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ETV CINEMA" group-title="Telugu",ETV CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="|TE| ETV CINEMA" group-title="TELUGU",|TE| ETV CINEMA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277143&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ETV " group-title="Telugu",ETV 
+#EXTINF:-1 tvg-id="" tvg-name="|TE| ETV" group-title="TELUGU",|TE| ETV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277144&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="GEMINI " group-title="Telugu",GEMINI 
+#EXTINF:-1 tvg-id="" tvg-name="|TE| GEMINI" group-title="TELUGU",|TE| GEMINI
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277145&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="GEMINI MOVIES " group-title="Telugu",GEMINI MOVIES 
+#EXTINF:-1 tvg-id="" tvg-name="|TE| GEMINI MOVIES" group-title="TELUGU",|TE| GEMINI MOVIES
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277146&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="GEMINI COMEDY" group-title="Telugu",GEMINI COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="|TE| GEMINI COMEDY" group-title="TELUGU",|TE| GEMINI COMEDY
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277147&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 18 TELUGU " group-title="Telugu",HISTORY 18 TELUGU 
+#EXTINF:-1 tvg-id="" tvg-name="|TE| HISTORY 18 TELUGU" group-title="TELUGU",|TE| HISTORY 18 TELUGU
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277148&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR MAA MOVIES " group-title="Telugu",STAR MAA MOVIES 
+#EXTINF:-1 tvg-id="" tvg-name="|TE| STAR MAA MOVIES" group-title="TELUGU",|TE| STAR MAA MOVIES
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277149&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC " group-title="Telugu",NATIONAL GEOGRAPHIC 
+#EXTINF:-1 tvg-id="" tvg-name="|TE| NATIONAL GEOGRAPHIC" group-title="TELUGU",|TE| NATIONAL GEOGRAPHIC
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277150&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RAJ MUSIC TELUGU" group-title="Telugu",RAJ MUSIC TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="|TE| RAJ MUSIC TELUGU" group-title="TELUGU",|TE| RAJ MUSIC TELUGU
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277151&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RAJ NEWS TELUGU" group-title="Telugu",RAJ NEWS TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="|TE| RAJ NEWS TELUGU" group-title="TELUGU",|TE| RAJ NEWS TELUGU
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277152&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH " group-title="Telugu",SONY BBC EARTH 
+#EXTINF:-1 tvg-id="" tvg-name="|TE| SONY BBC EARTH" group-title="TELUGU",|TE| SONY BBC EARTH
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277153&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR MAA GOLD " group-title="Telugu",STAR MAA GOLD 
+#EXTINF:-1 tvg-id="" tvg-name="|TE| STAR MAA GOLD" group-title="TELUGU",|TE| STAR MAA GOLD
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277154&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR MAA " group-title="Telugu",STAR MAA 
+#EXTINF:-1 tvg-id="" tvg-name="|TE| STAR MAA" group-title="TELUGU",|TE| STAR MAA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277155&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TATA SKY TELUGU CINEMA " group-title="Telugu",TATA SKY TELUGU CINEMA 
+#EXTINF:-1 tvg-id="" tvg-name="|TE| TATA SKY TELUGU CINEMA" group-title="TELUGU",|TE| TATA SKY TELUGU CINEMA
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277156&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV9 NEWS" group-title="Telugu",TV9 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|TE| TV9 NEWS" group-title="TELUGU",|TE| TV9 NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277157&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="V6 NEWS" group-title="Telugu",V6 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|TE| V6 NEWS" group-title="TELUGU",|TE| V6 NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277158&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ETV PLUS" group-title="Telugu",ETV PLUS
+#EXTINF:-1 tvg-id="" tvg-name="|TE| ETV PLUS" group-title="TELUGU",|TE| ETV PLUS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277159&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMALU " group-title="Telugu",ZEE CINEMALU
+#EXTINF:-1 tvg-id="" tvg-name="|TE| ZEE CINEMALU" group-title="TELUGU",|TE| ZEE CINEMALU
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277160&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TELUGU " group-title="Telugu",ZEE TELUGU
+#EXTINF:-1 tvg-id="" tvg-name="|TE| ZEE TELUGU" group-title="TELUGU",|TE| ZEE TELUGU
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277161&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="GEMINI MUSIC" group-title="Telugu",GEMINI MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="|TE| GEMINI MUSIC" group-title="TELUGU",|TE| GEMINI MUSIC
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277162&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="GEMINI LIFE" group-title="Telugu",GEMINI LIFE
+#EXTINF:-1 tvg-id="" tvg-name="|TE| GEMINI LIFE" group-title="TELUGU",|TE| GEMINI LIFE
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277163&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ETV LIFE" group-title="Telugu",ETV LIFE
+#EXTINF:-1 tvg-id="" tvg-name="|TE| ETV LIFE" group-title="TELUGU",|TE| ETV LIFE
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277164&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV5 NEWS" group-title="Telugu",TV5 NEWS
+#EXTINF:-1 tvg-id="" tvg-name="|TE| TV5 NEWS" group-title="TELUGU",|TE| TV5 NEWS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277165&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" group-title="Telugu",SONY YAY
+#EXTINF:-1 tvg-id="" tvg-name="|TE| SONY YAY" group-title="TELUGU",|TE| SONY YAY
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277166&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="10 TV" group-title="Telugu",10 TV
+#EXTINF:-1 tvg-id="" tvg-name="|TE| 10 TV" group-title="TELUGU",|TE| 10 TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277167&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DD SAPTAGIRI" group-title="Telugu",DD SAPTAGIRI
+#EXTINF:-1 tvg-id="" tvg-name="|TE| DD SAPTAGIRI" group-title="TELUGU",|TE| DD SAPTAGIRI
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277168&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="VANITHA TV" group-title="Telugu",VANITHA TV
+#EXTINF:-1 tvg-id="" tvg-name="|TE| VANITHA TV" group-title="TELUGU",|TE| VANITHA TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277169&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="VISSA TV" group-title="Telugu",VISSA TV
+#EXTINF:-1 tvg-id="" tvg-name="|TE| VISSA TV" group-title="TELUGU",|TE| VISSA TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277170&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="KUSHI TV" group-title="Telugu",KUSHI TV
+#EXTINF:-1 tvg-id="" tvg-name="|TE| KUSHI TV" group-title="TELUGU",|TE| KUSHI TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277171&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SAKSHI TV" group-title="Telugu",SAKSHI TV
+#EXTINF:-1 tvg-id="" tvg-name="|TE| SAKSHI TV" group-title="TELUGU",|TE| SAKSHI TV
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277172&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR MAA \u00b2" group-title="Telugu",STAR MAA
+#EXTINF:-1 tvg-id="" tvg-name="|TE| STAR MAA\u00b2" group-title="TELUGU",|TE| STAR MAA\u00b2
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277173&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR MAA \u00b3" group-title="Telugu",STAR MAA
+#EXTINF:-1 tvg-id="" tvg-name="|TE| STAR MAA\u00b3" group-title="TELUGU",|TE| STAR MAA\u00b3
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277174&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| COLORS KANNADA" group-title="KANNADA",|KA| COLORS KANNADA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277280&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| COLORS KANNADA MOVIES" group-title="KANNADA",|KA| COLORS KANNADA MOVIES
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277281&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| COLORS SUPER" group-title="KANNADA",|KA| COLORS SUPER
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277282&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| SAKKAT" group-title="KANNADA",|KA| SAKKAT
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277283&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| KASTURI TV" group-title="KANNADA",|KA| KASTURI TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277284&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| NEWS 18" group-title="KANNADA",|KA| NEWS 18
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277285&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| RAJ MUSIC" group-title="KANNADA",|KA| RAJ MUSIC
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277286&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| RAJ NEWS KANNADA" group-title="KANNADA",|KA| RAJ NEWS KANNADA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277287&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| STAR SUVARNA" group-title="KANNADA",|KA| STAR SUVARNA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277288&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| STAR SUVARNA NEWS" group-title="KANNADA",|KA| STAR SUVARNA NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277289&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| TV9 KANNADA" group-title="KANNADA",|KA| TV9 KANNADA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277290&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| UDAYA" group-title="KANNADA",|KA| UDAYA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277291&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| UDAYA COMEDY" group-title="KANNADA",|KA| UDAYA COMEDY
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277292&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| UDAYA MOVIES" group-title="KANNADA",|KA| UDAYA MOVIES
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277293&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| SUVARNA NEWS" group-title="KANNADA",|KA| SUVARNA NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277294&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| ZEE" group-title="KANNADA",|KA| ZEE
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277295&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| DD CHANDANA" group-title="KANNADA",|KA| DD CHANDANA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277296&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| UDAYA MUSIC" group-title="KANNADA",|KA| UDAYA MUSIC
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277297&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| DIGHVIJAY NEWS" group-title="KANNADA",|KA| DIGHVIJAY NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277298&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| PUBLIC TV" group-title="KANNADA",|KA| PUBLIC TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277299&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|KA| ZEE KANNADA" group-title="KANNADA",|KA| ZEE KANNADA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277300&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| MIDDLE EAST" group-title="MALAYALAM",|ML| MIDDLE EAST
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277175&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| SURYA COMEDY" group-title="MALAYALAM",|ML| SURYA COMEDY
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277176&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| MEDIA ONE NEWS" group-title="MALAYALAM",|ML| MEDIA ONE NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277177&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| AMRITHA TV" group-title="MALAYALAM",|ML| AMRITHA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277178&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| ASIANET" group-title="MALAYALAM",|ML| ASIANET
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277179&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| FLOWERS TV" group-title="MALAYALAM",|ML| FLOWERS TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277180&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| KAIRALI PEOPLE TV" group-title="MALAYALAM",|ML| KAIRALI PEOPLE TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277181&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| KOCHU TV" group-title="MALAYALAM",|ML| KOCHU TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277182&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| MAZAVIL MANORAMA" group-title="MALAYALAM",|ML| MAZAVIL MANORAMA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277183&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| NEWS 18 KERALA" group-title="MALAYALAM",|ML| NEWS 18 KERALA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277184&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| RAJ MUSIC" group-title="MALAYALAM",|ML| RAJ MUSIC
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277185&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| ASIANET MOVIE" group-title="MALAYALAM",|ML| ASIANET MOVIE
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277186&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| ASIANET PLUS" group-title="MALAYALAM",|ML| ASIANET PLUS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277187&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| SURYA MOVIES" group-title="MALAYALAM",|ML| SURYA MOVIES
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277188&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| SURYA TV" group-title="MALAYALAM",|ML| SURYA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277189&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| WE TV" group-title="MALAYALAM",|ML| WE TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277190&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| ASIANET NEWS" group-title="MALAYALAM",|ML| ASIANET NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277191&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| MANORAMA NEWS" group-title="MALAYALAM",|ML| MANORAMA NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277192&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| SURYA MUSIC" group-title="MALAYALAM",|ML| SURYA MUSIC
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277193&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| JANAM TV" group-title="MALAYALAM",|ML| JANAM TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277194&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| ZEE KERALAM" group-title="MALAYALAM",|ML| ZEE KERALAM
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277195&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| DD MALAYALAM" group-title="MALAYALAM",|ML| DD MALAYALAM
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277196&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| JAIHIND TV" group-title="MALAYALAM",|ML| JAIHIND TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277197&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| MATHRUBHUMI NEWS" group-title="MALAYALAM",|ML| MATHRUBHUMI NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277198&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| REPORTER TV YUPP" group-title="MALAYALAM",|ML| REPORTER TV YUPP
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277199&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| KAPPA TV" group-title="MALAYALAM",|ML| KAPPA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277200&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| RAJ NEWS MALAYALAM" group-title="MALAYALAM",|ML| RAJ NEWS MALAYALAM
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277201&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| SAFARI TV" group-title="MALAYALAM",|ML| SAFARI TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277202&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| KAIRALI ARABIA" group-title="MALAYALAM",|ML| KAIRALI ARABIA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277203&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML|  KAIRALI NEWS" group-title="MALAYALAM",|ML|  KAIRALI NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277204&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML|  KAUMUDY" group-title="MALAYALAM",|ML|  KAUMUDY
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277205&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML|  SHOLAM TV" group-title="MALAYALAM",|ML|  SHOLAM TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277206&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|ML| 24 NEWS MALAYALAM" group-title="MALAYALAM",|ML| 24 NEWS MALAYALAM
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277207&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| COLORS GUJARATI" group-title="GUJARAT",|GU| COLORS GUJARATI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277208&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| COLORS GUJARATI CINEMA" group-title="GUJARAT",|GU| COLORS GUJARATI CINEMA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277209&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| GSTV" group-title="GUJARAT",|GU| GSTV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277210&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| INDIA NEWS GUJARAT" group-title="GUJARAT",|GU| INDIA NEWS GUJARAT
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277211&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| LAKSHYA TV" group-title="GUJARAT",|GU| LAKSHYA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277212&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| MANTAVYA NEWS" group-title="GUJARAT",|GU| MANTAVYA NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277213&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| SANDESH NEWS" group-title="GUJARAT",|GU| SANDESH NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277214&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| VTV NEWS" group-title="GUJARAT",|GU| VTV NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277215&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| CNBC BAZAR" group-title="GUJARAT",|GU| CNBC BAZAR
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277216&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| KARTAVYA TV" group-title="GUJARAT",|GU| KARTAVYA TV
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277217&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| TV9 NEWS" group-title="GUJARAT",|GU| TV9 NEWS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277218&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| ABP ASMITA" group-title="GUJARAT",|GU| ABP ASMITA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277219&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|GU| CNBC AAWAZ" group-title="GUJARAT",|GU| CNBC AAWAZ
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277220&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS MARATHI" group-title="MARATHI",COLORS MARATHI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277238&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|MR| SANGEET MARATHI" group-title="MARATHI",|MR| SANGEET MARATHI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277239&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|MR| SONY MARATHI" group-title="MARATHI",|MR| SONY MARATHI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277240&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|MR| SONY AATH" group-title="MARATHI",|MR| SONY AATH
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277241&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|MR| STAR PARVAH" group-title="MARATHI",|MR| STAR PARVAH
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277242&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|MR| ZEE MARATHI" group-title="MARATHI",|MR| ZEE MARATHI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277243&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|MR| ZEE TALKIES" group-title="MARATHI",|MR| ZEE TALKIES
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277244&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|MR| DD SAHAYADRI" group-title="MARATHI",|MR| DD SAHAYADRI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277245&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|MR| 9X JHAKAAS" group-title="MARATHI",|MR| 9X JHAKAAS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277246&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|MR| ZEE 24 TAAS" group-title="MARATHI",|MR| ZEE 24 TAAS
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277247&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|MR| TV9 MARATHI" group-title="MARATHI",|MR| TV9 MARATHI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277248&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="|MR| TULJA BHAVANI" group-title="MARATHI",|MR| TULJA BHAVANI
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277249&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24 GHANTA" group-title="BENGALI",24 GHANTA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277429&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ABP ANANDA" group-title="BENGALI",ABP ANANDA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277430&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA" group-title="BENGALI",COLORS BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277421&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="DD BANGLA" group-title="BENGALI",DD BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277427&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" group-title="BENGALI",NAT GEO
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277422&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SANGEET BANGLA" group-title="BENGALI",SANGEET BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277423&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" group-title="BENGALI",STAR JALSHA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277424&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA MOVIES" group-title="BENGALI",STAR JALSHA MOVIES
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277425&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="TATA SKY BANGLA" group-title="BENGALI",TATA SKY BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277426&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" group-title="BENGALI",ZEE BANGLA CINEMA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277428&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" group-title="BENGALI",ZEE BANGLA
+http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=277431&extension=ts
