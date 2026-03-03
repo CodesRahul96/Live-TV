@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
 
 #EXTINF:-1 tvg-id="1368" tvg-language="Hindi" group-title="JIO ⭕|Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",Colors SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
