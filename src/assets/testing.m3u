@@ -4,83 +4,83 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 #PLAYLIST:Entertainment
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Colors_TV_logo.svg/512px-Colors_TV_logo.svg.png" group-title="Entertainment",Colors testing
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Colors_TV_logo.svg/512px-Colors_TV_logo.svg.png" group-title="Entertainment",Colors
 http://103.99.249.139/colors/index.m3u8
 
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sony_SAB_Logo.svg/512px-Sony_SAB_Logo.svg.png" group-title="Entertainment",Sony SAB testing
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sony_SAB_Logo.svg/512px-Sony_SAB_Logo.svg.png" group-title="Entertainment",Sony Sab
 http://103.99.249.139/sonysab/index.m3u8
 
 #PLAYLIST:Movies
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_Max_new.png/512px-Sony_Max_new.png" group-title="Movies",Sony Max testing
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_Max_new.png/512px-Sony_Max_new.png" group-title="Movies",Sony Max
 http://103.99.249.139/sonymax/index.m3u8
 
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Star_Gold_logo.png/512px-Star_Gold_logo.png" group-title="Movies",Star Gold testing
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Star_Gold_logo.png/512px-Star_Gold_logo.png" group-title="Movies",Star Gold
 http://103.99.249.139/stargold/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zee_Cinema_2017.png/512px-Zee_Cinema_2017.png" group-title="Movies",Zee Cinema testing
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Zee_Cinema_2017.png/512px-Zee_Cinema_2017.png" group-title="Movies",Zee Cinema
 http://103.99.249.139/zeecinema/index.m3u8
 
 #PLAYLIST:Sports
-#EXTINF:-1 tvg-id="SonyTen3.in" tvg-name="Sony Ten 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Sony_TEN_3_logo.png/512px-Sony_TEN_3_logo.png" group-title="Sports",Sony Ten 3 testing
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-name="Sony Ten 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Sony_TEN_3_logo.png/512px-Sony_TEN_3_logo.png" group-title="Sports",Sony Ten 3
 http://103.99.249.139/sonyten3/index.m3u8
 
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png" group-title="Sports",Star Sports 1 testing
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png" group-title="Sports",Star Sports 1
 http://103.99.249.139/starsport1/index.m3u8
 
-#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png" group-title="Sports",Star Sports 2 testing
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png" group-title="Sports",Star Sports 2
 http://103.99.249.139/starsport2/index.m3u8
 
 #PLAYLIST:Kids
-#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sony_Yay_Logo.svg/512px-Sony_Yay_Logo.svg.png" group-title="Kids",Sony Yay testing
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sony_Yay_Logo.svg/512px-Sony_Yay_Logo.svg.png" group-title="Kids",Sony Yay
 http://103.99.249.139/sonyyay/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="maatv" tvg-logo="" group-title="Entertaintment",maatv
+#EXTINF:-1 tvg-id="" tvg-name="maatv" tvg-logo="" group-title="Entertaintment",MAA TV
 http://217.20.112.199:8888/maatv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="maamovies" tvg-logo="" group-title="Movies",maamovies
+#EXTINF:-1 tvg-id="" tvg-name="maamovies" tvg-logo="" group-title="Movies",MAA Movies
 http://217.20.112.199:8888/maamovies/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="sabtvhd" tvg-logo="" group-title="Entertaintment",sabtvhd
+#EXTINF:-1 tvg-id="" tvg-name="sabtvhd" tvg-logo="" group-title="Entertaintment",Sony Sab HD
 http://217.20.112.199:8888/sabtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ColorsHD" tvg-logo="" group-title="Entertaintment",ColorsHD
 http://217.20.112.199:8888/ColorsHD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="sethd" tvg-logo="" group-title="Entertaintment",sethd
+#EXTINF:-1 tvg-id="" tvg-name="sethd" tvg-logo="" group-title="Entertaintment",SET HD
 http://217.20.112.199:8888/sethd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="sonymarathi" tvg-logo="" group-title="Entertaintment",sonymarathi
+#EXTINF:-1 tvg-id="" tvg-name="sonymarathi" tvg-logo="" group-title="Entertaintment",Sony Marathi
 http://217.20.112.199:8888/sonymarathi/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="lifeokhd" tvg-logo="" group-title="Entertaintment",lifeokhd
+#EXTINF:-1 tvg-id="" tvg-name="lifeokhd" tvg-logo="" group-title="Entertaintment",Star Bharat HD
 http://217.20.112.199:8888/lifeokhd/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="asianet" tvg-logo="" group-title="Entertaintment",asianet
+#EXTINF:-1 tvg-id="" tvg-name="asianet" tvg-logo="" group-title="Entertaintment",Asianet
 http://217.20.112.199:8888/asianet/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="natgeowild" tvg-logo="" group-title="Information",natgeowild
+#EXTINF:-1 tvg-id="" tvg-name="natgeowild" tvg-logo="" group-title="Information",Nat Geo Wild
 http://217.20.112.199:8888/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="suntv" tvg-logo="" group-title="Entertaintment",suntv
+#EXTINF:-1 tvg-id="" tvg-name="suntv" tvg-logo="" group-title="Entertaintment",Sun TV
 http://217.20.112.199:8888/suntv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="animalplanet" tvg-logo="" group-title="Information",animalplanet
+#EXTINF:-1 tvg-id="" tvg-name="animalplanet" tvg-logo="" group-title="Information",Animat Planet
 http://217.20.112.199:8888/animalplanet/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="tv9marathi" tvg-logo="" group-title="News",tv9marathi
+#EXTINF:-1 tvg-id="" tvg-name="tv9marathi" tvg-logo="" group-title="News",TV9 Marathi
 http://217.20.112.199:8888/tv9marathi/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="tv9kannada" tvg-logo="" group-title="News",tv9kannada
+#EXTINF:-1 tvg-id="" tvg-name="tv9kannada" tvg-logo="" group-title="News",TV9 Kannada
 http://217.20.112.199:8888/tv9kannada/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="indiatoday" tvg-logo="" group-title="News",indiatoday
 http://217.20.112.199:8888/indiatoday/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="starsports1hindi" tvg-logo="" group-title="Sports",starsports1hindi
+#EXTINF:-1 tvg-id="" tvg-name="starsports1hindi" tvg-logo="" group-title="Sports",Star Sports 1 Hindi HD
 http://217.20.112.199:8888/starsports1hindi/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ColorsMarathi" tvg-logo="" group-title="Entertaintment",ColorsMarathi
+#EXTINF:-1 tvg-id="" tvg-name="ColorsMarathi" tvg-logo="" group-title="Entertaintment",Colors Marathi
 http://217.20.112.199:8888/ColorsMarathi/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="sanskartv" tvg-logo="" group-title="Religion",sanskartv
