@@ -31,6 +31,63 @@ http://103.99.249.139/starsport2/index.m3u8
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sony_Yay_Logo.svg/512px-Sony_Yay_Logo.svg.png" group-title="Kids",Sony Yay testing
 http://103.99.249.139/sonyyay/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="maatv" tvg-logo="" group-title="Entertaintment",maatv
+http://217.20.112.199:8888/maatv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="maamovies" tvg-logo="" group-title="Movies",maamovies
+http://217.20.112.199:8888/maamovies/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="sabtvhd" tvg-logo="" group-title="Entertaintment",sabtvhd
+http://217.20.112.199:8888/sabtvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ColorsHD" tvg-logo="" group-title="Entertaintment",ColorsHD
+http://217.20.112.199:8888/ColorsHD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="sethd" tvg-logo="" group-title="Entertaintment",sethd
+http://217.20.112.199:8888/sethd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="sonymarathi" tvg-logo="" group-title="Entertaintment",sonymarathi
+http://217.20.112.199:8888/sonymarathi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="lifeokhd" tvg-logo="" group-title="Entertaintment",lifeokhd
+http://217.20.112.199:8888/lifeokhd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="asianet" tvg-logo="" group-title="Entertaintment",asianet
+http://217.20.112.199:8888/asianet/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="natgeowild" tvg-logo="" group-title="Information",natgeowild
+http://217.20.112.199:8888/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="suntv" tvg-logo="" group-title="Entertaintment",suntv
+http://217.20.112.199:8888/suntv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="animalplanet" tvg-logo="" group-title="Information",animalplanet
+http://217.20.112.199:8888/animalplanet/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="tv9marathi" tvg-logo="" group-title="News",tv9marathi
+http://217.20.112.199:8888/tv9marathi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="tv9kannada" tvg-logo="" group-title="News",tv9kannada
+http://217.20.112.199:8888/tv9kannada/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="indiatoday" tvg-logo="" group-title="News",indiatoday
+http://217.20.112.199:8888/indiatoday/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="starsports1hindi" tvg-logo="" group-title="Sports",starsports1hindi
+http://217.20.112.199:8888/starsports1hindi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ColorsMarathi" tvg-logo="" group-title="Entertaintment",ColorsMarathi
+http://217.20.112.199:8888/ColorsMarathi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="sanskartv" tvg-logo="" group-title="Religion",sanskartv
+http://217.20.112.199:8888/sanskartv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="satsangtv" tvg-logo="" group-title="Religion",satsangtv
+http://217.20.112.199:8888/satsangtv/index.m3u8
+
+
+
 #PLAYLIST:Documentary
 #EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet testing
 http://103.99.249.139/animalplanet/index.m3u8
