@@ -1,4 +1,7 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+#EXTM3U x-tvg-url="https://mitthu786.github.io/tvepg/tataplay/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 #PLAYLIST:Entertainment
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Colors_TV_logo.svg/512px-Colors_TV_logo.svg.png" group-title="Entertainment",Colors testing
