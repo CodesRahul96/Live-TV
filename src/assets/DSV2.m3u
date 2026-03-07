@@ -1,11 +1,4 @@
 //Active till: November 27, 2026, 6:43 pm
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SONY TV USA FHD [IN]" group-title="HINDI | INDIA",SONY TV USA FHD [IN]
-http://u8k-pro-iptvstore.cc/play/live.php?mac=00:1A:79:E1:29:96&stream=1483931&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY TV FHD [IN]" group-title="HINDI | INDIA",SONY TV FHD [IN]
-http://u8k-pro-iptvstore.cc/play/live.php?mac=00:1A:79:E1:29:96&stream=1483930&extension=ts//Active till: November 27, 2026, 6:43 pm
-
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="SONY TV USA FHD " group-title="INDIA",SONY TV USA FHD 
 http://u8k-pro-iptvstore.cc/play/live.php?mac=00:1A:79:E1:29:96&stream=1483931&extension=ts
