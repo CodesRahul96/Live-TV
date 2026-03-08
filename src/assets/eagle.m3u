@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="|INDIA|UTSAV PLUS" group-title="INDIA",|INDIA|UTSAV PLUS
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=510907&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="|HI| ZEE CLASSICS" group-title="INDIA",|HI| ZEE CLASSICS
