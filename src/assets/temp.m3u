@@ -1,0 +1,1836 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4b87a41.png" group-title="INDIAN",& Flix FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5329167.png" group-title="INDIAN",& Pictures FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5329167.png" group-title="INDIAN",& Pictures HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",AXN Black
+auto http://tv.cloudcdn.me:80/live.ts?channelId=170&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="INDIAN",& TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="INDIAN",& TV SD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=141&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/1783ff5.png" group-title="INDIAN",& xplor FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=80371&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/22scopenews.png" group-title="INDIAN",22 Scope News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132846&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/923856a.png" group-title="INDIAN",9x Jalwa FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=142&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/0759b67.png" group-title="INDIAN",9xm FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=143&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",ABC News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132864&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/56eaab9.png" group-title="INDIAN",ABP News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=149&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Aagaaz Times FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132858&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/apnnews.png" group-title="INDIAN",APN News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132424&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/aajkikhabar.png" group-title="INDIAN",Aaj Ki Khabar
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132475&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png" group-title="INDIAN",Aaj Tak (UK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=145&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png" group-title="INDIAN",Aaj Tak FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=144&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Aaradhyam TV (Devotional) FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132868&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/887fb6b.png" group-title="INDIAN",Aastha Bhajan (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=146&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Aastha Prime FHD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132854&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/20cbc6e.png" group-title="INDIAN",Aastha TV (UK) (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=148&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Aastha TV (USA) (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132855&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/20cbc6e.png" group-title="INDIAN",Aastha TV FHD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=147&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/c44438c.png" group-title="INDIAN",Aatma Channel (Spiritual) FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=44632&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/anaaditv.png" group-title="INDIAN",Anaadi TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132423&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Anand TV (Devotional) FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132865&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/552f92c.png" group-title="INDIAN",Animal Planet English FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=44637&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/552f92c.png" group-title="INDIAN",Animal Planet Hindi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=151&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/d704b64.png" group-title="INDIAN",Arya Sandesh
+auto http://tv.cloudcdn.me:80/live.ts?channelId=37311&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/aryantvnational.png" group-title="INDIAN",Aryan TV National
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132434&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/awaazindia.png" group-title="INDIAN",Awaaz India TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132838&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/27cf79e.png" group-title="INDIAN",B4U Kadak FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/127afc4.png" group-title="INDIAN",B4U Movies
+auto http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/127afc4.png" group-title="INDIAN",B4U Movies (UK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=86152&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/e1ee774.png" group-title="INDIAN",B4U Music FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=153&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/e1ee774.png" group-title="INDIAN",B4U Music (UK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=86153&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d11d123.png" group-title="INDIAN",B4U Plus
+auto http://tv.cloudcdn.me:80/live.ts?channelId=154&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Comedy Tadka FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=86150&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Bakti Sidhant Vani TV (Devotional) FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132866&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/bansalnews.png" group-title="INDIAN",Bansal News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132425&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/bhaktisagar.png" group-title="INDIAN",Bhakti Sagar (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132440&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Bollywood HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123915&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/bollywoodmasalatv.png" group-title="INDIAN",Bollywood Masala TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132833&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/cnewsbharat.png" group-title="INDIAN",C News Bharat FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132456&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/53b880f.png" group-title="INDIAN",CNBC Awaaz FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=86147&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://147.182.195.61/panel/imageicon/21a37a8.png" group-title="INDIAN",CNBC TV18 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=49404&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/cnbctv18prime.png" group-title="INDIAN",CNBC TV18 Prime FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132477&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5b37a02.png" group-title="INDIAN",CNN News18 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28125&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/chanakyanewsindia.png" group-title="INDIAN",Chanakya News National FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132851&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/chanakyanewsindiarajsthan.png" group-title="INDIAN",Chanakya News India Rajasthan HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132455&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png" group-title="INDIAN",Colors  ME FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=59&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/6ae38c6.png" group-title="INDIAN",Colors Cineplex Bollywood HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/711d60e.png" group-title="INDIAN",Colors Cineplex FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/99398d7.png" group-title="INDIAN",Colors Cineplex HD (UK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=156&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4a7b988.png" group-title="INDIAN",Colors Cineplex Superhits HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=62413&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/ad083a7.png" group-title="INDIAN",Colors Infinity FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=157&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/c9e476d.png" group-title="INDIAN",Colors Rishtey (UK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=159&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/c9e476d.png" group-title="INDIAN",Colors Rishtey FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=158&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png" group-title="INDIAN",Colors TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=160&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png" group-title="INDIAN",Colors TV FHD (BK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36129&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png" group-title="INDIAN",Colors TV FHD (UK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=161&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png" group-title="INDIAN",Colors TV FHD (UK) (BK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132526&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/794387b.png" group-title="INDIAN",DD News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=163&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/ddrajasthan.png" group-title="INDIAN",DD Rajasthan
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132438&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Dharm Sandesh (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132856&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/1ae366e.png" group-title="INDIAN",Discovery English FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=57776&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/1ae366e.png" group-title="INDIAN",Discovery Hindi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=164&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bfd984c.png" group-title="INDIAN",Discovery Science English
+auto http://tv.cloudcdn.me:80/live.ts?channelId=166&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bfd984c.png" group-title="INDIAN",Discovery Science Hindi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134318&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bbbd232.png" group-title="INDIAN",Discovery Turbo English
+auto http://tv.cloudcdn.me:80/live.ts?channelId=76043&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/dishatv.png" group-title="INDIAN",Disha TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132439&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/16520b2.png" group-title="INDIAN",Divya TV (Spiritual) FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33135&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/e24.png" group-title="INDIAN",E 24
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132452&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5c49268.png" group-title="INDIAN",ET Now
+auto http://tv.cloudcdn.me:80/live.ts?channelId=167&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/b35aa95.png" group-title="INDIAN",Food Food
+auto http://tv.cloudcdn.me:80/live.ts?channelId=169&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/c5f05af.png" group-title="INDIAN",Good News Today FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36272&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/globalindiatv.png" group-title="INDIAN",Global India TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132472&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/greenchilliestv.png" group-title="INDIAN",Green Chillies TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132832&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/c2f5c44.png" group-title="INDIAN",HBO
+auto http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4a47ed2.png" group-title="INDIAN",History TV18 English FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=70106&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4a47ed2.png" group-title="INDIAN",History TV18 Hindi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=70099&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5007540.png" group-title="INDIAN",Hare Krsna TV FHD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33132&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/ind24.png" group-title="INDIAN",IND 24
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132430&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/inh24x7.png" group-title="INDIAN",INH 24x7
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132426&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/india24x7tv.png" group-title="INDIAN",India 24x7 TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132457&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/c65ab6d.png" group-title="INDIAN",India News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33324&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/dc83ab5.png" group-title="INDIAN",India News MP
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78865&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f558d3a.png" group-title="INDIAN",India News Rajasthan
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78863&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a303101.png" group-title="INDIAN",India News UP
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78864&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/71881e5.png" group-title="INDIAN",India TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=171&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/0b1f1bc.png" group-title="INDIAN",India Today FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36126&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/indiannews.png" group-title="INDIAN",Indian News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132474&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/insynctv.png" group-title="INDIAN",Insync
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132429&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/ishwarbhaktitv.png" group-title="INDIAN",Ishwar Bhakti TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132441&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/jk24x7news.png" group-title="INDIAN",JK 24x7 News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132431&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/jantv.png" group-title="INDIAN",Jan TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132427&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/jantatv.png" group-title="INDIAN",Janta TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132428&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/jinvanitv.png" group-title="INDIAN",Jinvani TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132442&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/jioexclusive.png" group-title="INDIAN",Jio Exclusive FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132443&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/knewsindia.png" group-title="INDIAN",K News India
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132432&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/kmnews.png" group-title="INDIAN",KM News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132835&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/kashishnews.png" group-title="INDIAN",Kashish News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132433&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5007540.png" group-title="INDIAN",Krishna Vani TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=29210&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/mknnews.png" group-title="INDIAN",MKN News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132839&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/mnsnews.png" group-title="INDIAN",MNS News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132842&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/78c8cc9.png" group-title="INDIAN",MTV India FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",MTV Plus FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=174&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/media9.png" group-title="INDIAN",Media 9 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132847&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/mirrormedia.png" group-title="INDIAN",Mirror Media FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132841&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4e59f90.png" group-title="INDIAN",Mirror Now FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=48011&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/33145d2.png" group-title="INDIAN",Movies Now
+auto http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/munsiftvurdu.png" group-title="INDIAN",Munsif TV Urdu FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132837&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/61eb5d5.png" group-title="INDIAN",Music India
+auto http://tv.cloudcdn.me:80/live.ts?channelId=175&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/ndtv24x7.png" group-title="INDIAN",NDTV 24x7 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=29208&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",NDTV 24x7 FHD (UK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132187&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",NDTV 24x7 FHD (US)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134319&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/ndtvgoodtimes.png" group-title="INDIAN",Good Times FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132186&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/ndtvindia.png" group-title="INDIAN",NDTV India FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=178&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/dbd0588d346d3ff9b460374064e6bcd2.png" group-title="INDIAN",NDTV Rajasthan FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134321&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/ndtvprofit.png" group-title="INDIAN",NDTV Profit FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=179&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/d4b38c36a6bb62f7e8d2c9c4503237ec.png" group-title="INDIAN",NDTV MPCG FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134320&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a00dd83.png" group-title="INDIAN",Nat Geo English FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125057&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a00dd83.png" group-title="INDIAN",Nat Geo Hindi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=176&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4515a71.png" group-title="INDIAN",Nat Geo Wild English FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36244&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/1380d86.png" group-title="INDIAN",Nat Geo Wild Hindi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=177&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/navbharattimes.png" group-title="INDIAN",Navbharat Times FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=133811&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/network10.png" group-title="INDIAN",Network 10 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132436&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/news1india.png" group-title="INDIAN",News 1 India
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132435&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/news11bharat.png" group-title="INDIAN",News 11 Bharat FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132844&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/news21india.png" group-title="INDIAN",News 21 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132471&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/newsflashrajasthan.png" group-title="INDIAN",News Flash Rajasthan
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132831&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/newshour.png" group-title="INDIAN",News Hour
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132843&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/newsindia24x7.png" group-title="INDIAN",News India 24x7
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132840&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/17135d6.png" group-title="INDIAN",News Nation
+auto http://tv.cloudcdn.me:80/live.ts?channelId=29702&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/7380374.png" group-title="INDIAN",News X
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36127&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",News18 Delhi NCR Jammu Kashmir FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=133810&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/cd686e0.png" group-title="INDIAN",News18 India FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=61901&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",News18 Madhya Pradesh Chhattisgarh FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132333&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",News18 Rajasthan FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132331&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",News18 Urdu FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132558&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",News18 Uttar Pradesh Uttarakhand FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132332&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/omshantitv.png" group-title="INDIAN",Om Shanti Tv (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132466&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/paramsattatv.png" group-title="INDIAN",Param Satta TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33150&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/parastv.png" group-title="INDIAN",Paras TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132449&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/peacemusic.png" group-title="INDIAN",Peace Music
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132450&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Rajya 24 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132859&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.online/images/republicbharat.png" group-title="INDIAN",Republic Bharat
+auto http://tv.cloudcdn.me:80/live.ts?channelId=126084&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/3ae517f.png" group-title="INDIAN",Republic TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33168&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/180174a.png" group-title="INDIAN",Romedy Now FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=107581&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/sindianews.png" group-title="INDIAN",S India News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132836&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/sbnews24x7.png" group-title="INDIAN",SB News 24x7
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132470&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/sadhnatvplus.png" group-title="INDIAN",Sadhna Plus News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132451&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/sadhnatv.png" group-title="INDIAN",Sadhna TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132446&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/sanmargtv.png" group-title="INDIAN",Sanmarg TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132460&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bb811d4.png" group-title="INDIAN",Sanskar TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=181&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bb811d4.png" group-title="INDIAN",Sanskar TV UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=86235&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/santvanichannel.png" group-title="INDIAN",Santvani Channel (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132447&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Santvani TV (Spiritual) FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132863&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/sarvdharamsangam.png" group-title="INDIAN",Sarv Dharam Sangam (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132448&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/08c1472.png" group-title="INDIAN",Satsang TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=182&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Shemaroo Bollywood FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132800&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Shemaroo Filmi Gaane FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132803&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Shemaroo Umang
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132801&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/shreeshyamtv.png" group-title="INDIAN",Shree Shyam TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132849&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/shrihanumanmandir.png" group-title="INDIAN",Shri Hanuman Mandir (Live Darshan)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132453&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/shubhcinema.png" group-title="INDIAN",Shubh Cinema
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132422&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/shubhtv.png" group-title="INDIAN",Shubh TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132421&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/7f1db70.png" group-title="INDIAN",Sony BBC Earth HD English
+auto http://tv.cloudcdn.me:80/live.ts?channelId=12366&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/7f1db70.png" group-title="INDIAN",Sony BBC Earth HD Hindi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=40478&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Sony Kal FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=202&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/54d97b8.png" group-title="INDIAN",Sony Max 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/ad286ec.png" group-title="INDIAN",Sony Max 2 UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=40479&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="INDIAN",Sony Max FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="INDIAN",Sony Max FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d14875b.png" group-title="INDIAN",Sony Max UK FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=186&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/dc6e2ef.png" group-title="INDIAN",Sony Pal FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/8ef4aa1.png" group-title="INDIAN",Sony Pal FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=40482&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/0deace4.png" group-title="INDIAN",Sony Pix FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="INDIAN",Sony Sab FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=191&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2e77ad4.png" group-title="INDIAN",Sony Sab FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="INDIAN",Sony Sab UK HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=192&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN",Sony TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=193&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN",Sony TV FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN",Sony TV HD UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=194&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN",Sony TV HD UK.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132226&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/73c26e8.png" group-title="INDIAN",Sony Wah FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Speaking Tree FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=133812&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Sri Bhakti Siddhanta Vani TV (Spiritual) FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132862&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2b7f152.png" group-title="INDIAN",Star Bharat FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4b1400a.png" group-title="INDIAN",Star Bharat FHD UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=305&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN",Star Gold 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN",Star Gold FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN",Star Gold FHD UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=12358&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Star Gold Romance
+auto http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9ccc18c.png" group-title="INDIAN",Star Gold Select FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Star Gold Thrills
+auto http://tv.cloudcdn.me:80/live.ts?channelId=215&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png" group-title="INDIAN",Star Movies FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/58a7cb9.png" group-title="INDIAN",Star Movies Select FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f6bcb3a.png" group-title="INDIAN",Star Plus FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4833657.png" group-title="INDIAN",Star Plus FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=12357&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/534d0da.png" group-title="INDIAN",Star Plus HD UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=201&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/534d0da.png" group-title="INDIAN",Star Plus HD UK.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132188&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d6ddb63.png" group-title="INDIAN",Star Utsav
+auto http://tv.cloudcdn.me:80/live.ts?channelId=12364&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Star Utsav Movies FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=133029&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/sudarshannews.png" group-title="INDIAN",Sudarshan News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132845&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Sun Neo FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132888&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/sundranitv.png" group-title="INDIAN",Sundrani TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132834&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/swadeshnews.png" group-title="INDIAN",Swadesh News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132437&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/b4c4bfd.png" group-title="INDIAN",Swar Shree
+auto http://tv.cloudcdn.me:80/live.ts?channelId=61658&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",TLC HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=205&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/09d113e.png" group-title="INDIAN",TRAVEL XP English
+auto http://tv.cloudcdn.me:80/live.ts?channelId=70088&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/09d113e.png" group-title="INDIAN",TRAVEL XP Hindi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=70970&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/tv27news.png" group-title="INDIAN",TV 27 News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132469&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/tv45biharjharkhand.png" group-title="INDIAN",TV 45 News Bihar Jharkhand FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132848&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/7b43b7a.png" group-title="INDIAN",TV NRI
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33136&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/tv9bharatvarsh.png" group-title="INDIAN",TV9 Bharatvarsh FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=133809&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/epic.png" group-title="INDIAN",The EPIC Channel FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132420&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/e83cabf.png" group-title="INDIAN",Times Now FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=204&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/vacc24news.png" group-title="INDIAN",Vacc 24 News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132454&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Vedic TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132857&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Vidhata Darshan TV (Devotional) FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132867&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/vipnews.png" group-title="INDIAN",Vip News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132467&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bec6fb2.png" group-title="INDIAN",WION NEWS FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",YRF Music FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132375&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5f10964.png" group-title="INDIAN",Zee Action
+auto http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/75016fe.png" group-title="INDIAN",Zee Anmol
+auto http://tv.cloudcdn.me:80/live.ts?channelId=208&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/86b8496.png" group-title="INDIAN",Zee Anmol Cinema
+auto http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Zee Anmol Cinema 2
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89977&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Zee Bharat
+auto http://tv.cloudcdn.me:80/live.ts?channelId=25528&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Zee Bihar Jharkhand
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132308&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/597c1ee.png" group-title="INDIAN",Zee Bollywood
+auto http://tv.cloudcdn.me:80/live.ts?channelId=210&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f37e353.png" group-title="INDIAN",Zee Business
+auto http://tv.cloudcdn.me:80/live.ts?channelId=211&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/47ceb8d.png" group-title="INDIAN",Zee Café FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=212&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png" group-title="INDIAN",Zee Cinema FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/c466520.png" group-title="INDIAN",Zee Cinema FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="INDIAN",Zee Cinema UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=214&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/187b8c7.png" group-title="INDIAN",Zee Classic
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43379&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Zee Delhi NCR Haryana
+auto http://tv.cloudcdn.me:80/live.ts?channelId=49403&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Zee Madhya Pradesh Chhattisgarh
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132306&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9ece589.png" group-title="INDIAN",Zee News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=216&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/732ef79.png" group-title="INDIAN",Zee Rajasthan
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78812&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Zee Salaam
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132307&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/550c14d.png" group-title="INDIAN",Zee TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/6248328.png" group-title="INDIAN",Zee TV FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=12301&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f0673bc.png" group-title="INDIAN",Zee TV HD UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=218&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="INDIAN",Zee Uttar Pradesh Uttarakhand News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132305&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/355170886aae937e99453a9e20caf655.png" group-title="INDIAN",Zee World FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132304&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/b7147ce.png" group-title="INDIAN",Zee Zest FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=29704&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d8b8382.png" group-title="INDIAN",Zing TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d8b8382.png" group-title="INDIAN",Zing TV UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=86154&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/03b20a2.png" group-title="INDIAN",Zoom TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/03b20a2.png" group-title="INDIAN",Zoom TV UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=86151&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/a6154aa0.jpg" group-title="PUNJABI",PUN: 5AAB TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=321&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/937286b.png" group-title="PUNJABI",PUN: 7x Music
+auto http://tv.cloudcdn.me:80/live.ts?channelId=61896&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/9xtashan1.jpg" group-title="PUNJABI",PUN: 9x Tashan
+auto http://tv.cloudcdn.me:80/live.ts?channelId=323&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/cb2a533.png" group-title="PUNJABI",PUN: ABP Sanjha
+auto http://tv.cloudcdn.me:80/live.ts?channelId=45937&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/f1d8be4a" group-title="PUNJABI",PUN: Akaal TV (UK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=324&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Amritwani TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132343&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/e6121dfa.jpg" group-title="PUNJABI",PUN: Apna Punjab TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36236&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/5f63301.png" group-title="PUNJABI",PUN: Asia TV Canada
+auto http://tv.cloudcdn.me:80/live.ts?channelId=303&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/259c5d63.jpg" group-title="PUNJABI",PUN: Balle Balle Non Stop Music
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33137&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/259c5d63.jpg" group-title="PUNJABI",PUN: Balle Balle TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33140&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/BoogleBollywood.jpg" group-title="PUNJABI",PUN: Boogle Bollywood HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=327&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/BRITASIA.jpg" group-title="PUNJABI",PUN: Brit Asia TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=328&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/cedad7ec" group-title="PUNJABI",PUN: Channel Y HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=329&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/2f080dfe.jpeg" group-title="PUNJABI",PUN: Chardikla Gurbaani TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36229&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/CHARDIKLATIMETV.jpg" group-title="PUNJABI",PUN: Chardikla Time TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=330&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/11888628.jpeg" group-title="PUNJABI",PUN: Chardikla Time TV North America (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36231&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/d508b5ad" group-title="PUNJABI",PUN: DD Punjabi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=332&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Darshan TV Canada
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89365&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/DESICHANNEL.png" group-title="PUNJABI",PUN: Desi Channel
+auto http://tv.cloudcdn.me:80/live.ts?channelId=333&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Desi Tashan TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132346&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Dukh Nivaran (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132338&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Ek Onkar
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132342&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/e5b97fc.png" group-title="PUNJABI",PUN: Fateh TV HD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=38552&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/95329f68.jpg" group-title="PUNJABI",PUN: GDNS Ludhiana (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=29212&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/452084d.png" group-title="PUNJABI",PUN: Garv Punjab Gurbani TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=61649&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/c98dec42" group-title="PUNJABI",PUN: Gaunda Punjab TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=336&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Ghaint Punjab HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132339&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/globaldesi.png" group-title="PUNJABI",PUN: Global Desi (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132812&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/43815a8.png" group-title="PUNJABI",PUN: Global Punjab HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33322&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Gur Ki Bani TV HD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123901&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Gurdwara Dasmesh Darbar HD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123902&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/625cf89.png" group-title="PUNJABI",PUN: Gurmat TV HD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=37313&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/95e12829" group-title="PUNJABI",PUN: Hamdard TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=337&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Haryanvi Hits HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132340&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/697117e.png" group-title="PUNJABI",PUN: India News Haryana FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=49862&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f035cda.png" group-title="PUNJABI",PUN: India News Punjab Himachal FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=49861&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/bc28e194.png" group-title="PUNJABI",PUN: Jhanjar Music
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33319&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Jus Hindi HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132336&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/fffcaf91.jpg" group-title="PUNJABI",PUN: Jus One TV FHD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33153&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/97014e64.jpg" group-title="PUNJABI",PUN: Jus Punjabi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=347&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Jus Punjabi Canada FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132335&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/cc81b61.png" group-title="PUNJABI",PUN: Kanshi TV (UK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36238&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/fc6a903d" group-title="PUNJABI",PUN: Living India News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=340&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: MH One
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132351&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/MH1SHRADDHA.jpg" group-title="PUNJABI",PUN: Mh One Sharddha (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=344&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/MH1NEWS.jpg" group-title="PUNJABI",PUN: Mh1 News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=343&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/9cf87ae3.jpg" group-title="PUNJABI",PUN: Mr. Singh TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33321&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/3722446.png" group-title="PUNJABI",PUN: My TV USA
+auto http://tv.cloudcdn.me:80/live.ts?channelId=57485&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Namdhari TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132875&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4d897a2.png" group-title="PUNJABI",PUN: News18 Punjab Haryana and HP FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=61900&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Nihal TV FHD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123900&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/e8bfcd1.png" group-title="PUNJABI",PUN: Only Music FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=61898&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/PTCChakde.jpg" group-title="PUNJABI",PUN: PTC Chakde
+auto http://tv.cloudcdn.me:80/live.ts?channelId=350&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/50a42f59" group-title="PUNJABI",PUN: PTC Music
+auto http://tv.cloudcdn.me:80/live.ts?channelId=351&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/PTCNEWS.png" group-title="PUNJABI",PUN: PTC News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=352&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/PTCPUNJABI.png" group-title="PUNJABI",PUN: PTC Punjabi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=353&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/PTCPUNJABI.png" group-title="PUNJABI",PUN: PTC Punjabi (UK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=355&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/90e355a6" group-title="PUNJABI",PUN: PTC Punjabi Gold
+auto http://tv.cloudcdn.me:80/live.ts?channelId=354&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/f944685c" group-title="PUNJABI",PUN: PTC Simran (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=356&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9373170.png" group-title="PUNJABI",PUN: PTN 24 (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=325&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/PakyatraTV.png" group-title="PUNJABI",PUN: Pakyatra TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=133026&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/a392328f.jpg" group-title="PUNJABI",PUN: Pardesi TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=357&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/58abf2c.png" group-title="PUNJABI",PUN: Parvasi Punjabi TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=38553&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Parvasi TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123899&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/7933f511.jpg" group-title="PUNJABI",PUN: Pitaara TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=360&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a79b99b.png" group-title="PUNJABI",PUN: Politics Punjab (UK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=85546&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/19a9bb47.jpg" group-title="PUNJABI",PUN: Prime Asia FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=348&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/95f3853b" group-title="PUNJABI",PUN: Prime Plus HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=349&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Punjab Plus HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=52495&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Punjabi Hits FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89361&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Punjabi Melodies
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132349&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/98873419.jpeg" group-title="PUNJABI",PUN: Pure Punjabi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36240&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/edc04a92.jpeg" group-title="PUNJABI",PUN: Road Today
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36241&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/rozanaspokesman.png" group-title="PUNJABI",PUN: Rozana Spokesman
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132813&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Rozana Spoksma
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132852&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: SSC Toronto
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132874&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: STV Haryana News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132354&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/55214.png" group-title="PUNJABI",PUN: Sadda TV (USA)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=29213&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Saga Music FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36230&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/f71ba043" group-title="PUNJABI",PUN: Sangat TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=358&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Sanjha Punjab (USA)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=55899&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Sanjha TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123905&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/sanjhavirsa.png" group-title="PUNJABI",PUN: Sanjha Virsa TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123904&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Sanjhi Soch TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=133030&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/3b5738a8" group-title="PUNJABI",PUN: Sardari TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=361&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/sikhchannel.jpg" group-title="PUNJABI",PUN: Sikh Channel UK (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=363&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/6a93649.png" group-title="PUNJABI",PUN: Singh Naad TV FHD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=44633&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/SteelbirdMusicChannel.jpg" group-title="PUNJABI",PUN: Steelbird Music
+auto http://tv.cloudcdn.me:80/live.ts?channelId=364&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f42a76e.png" group-title="PUNJABI",PUN: TV Punjab
+auto http://tv.cloudcdn.me:80/live.ts?channelId=44639&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/3ee4e0fa.jpg" group-title="PUNJABI",PUN: TV84 (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33138&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: TV9 Punjab
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132805&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Tabbar Hits
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132348&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f71ca4e.png" group-title="PUNJABI",PUN: The Punjab Talk
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89366&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/theunmute.png" group-title="PUNJABI",PUN: The Unmute
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132811&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Total Tv Haryana
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132353&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Trucking Today TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123897&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Virasat Media
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123898&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Vision Punjab Gurbani HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43600&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Vision Punjab HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43601&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Vision Punjab Music HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43602&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5101663.png" group-title="PUNJABI",PUN: Wah Punjabi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=61148&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Window Punjab TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132559&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: World Punjabi TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132341&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PUN: Zee Delhi NCR Haryana FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132352&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/d16db82b" group-title="PUNJABI",PUN: Zee Punjab Haryana Himachal
+auto http://tv.cloudcdn.me:80/live.ts?channelId=367&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bcbc221.png" group-title="PUNJABI",PUN: Zee Punjabi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28960&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6221f70a946e65ab046856dea3fb44cf.png" group-title="KIDS",KID: BBC CBBC
+auto http://tv.cloudcdn.me:80/live.ts?channelId=4217&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/705c9936bc50580b1ba85b2c77896bfa.png" group-title="KIDS",KID: BBC CBeebies
+auto http://tv.cloudcdn.me:80/live.ts?channelId=248&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5bde414cc7e22f78e4b16bcf48489233.png" group-title="KIDS",KID: Baby TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=242&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/a5641735.jpg" group-title="KIDS",KID: Boomerang
+auto http://tv.cloudcdn.me:80/live.ts?channelId=243&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg" group-title="KIDS",KID: Cartoon Network Hindi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=244&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d22efc9e80e82953c3f1ee26bb699e5.png" group-title="KIDS",KID: Cartoon Network UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=245&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg" group-title="KIDS",KID: Cartoon Network USA
+auto http://tv.cloudcdn.me:80/live.ts?channelId=246&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c8f9b130d1457911891a0999b0b5282a.png" group-title="KIDS",KID: Cartoonito
+auto http://tv.cloudcdn.me:80/live.ts?channelId=247&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b81b699ab1552f3c15dea79e34e5f017.png" group-title="KIDS",KID: Disney Channel
+auto http://tv.cloudcdn.me:80/live.ts?channelId=249&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" group-title="KIDS",KID: Disney Junior
+auto http://tv.cloudcdn.me:80/live.ts?channelId=250&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/06a89cbfbaf2158279d67c8a597bb740.png" group-title="KIDS",KID: Disney XD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=251&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KIDS",KID: Hungama TV HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132887&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KIDS",KID: Kids Tv
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123913&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KIDS",KID: Kids Tv Nursery Rhymes And Baby Songs
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123914&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/282cf1ec1c6d0a176440c15caa844e60.png" group-title="KIDS",KID: Nick Jr.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=252&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7d7143419964782c56e68963cebfa311.jpg" group-title="KIDS",KID: Nick Jr. too
+auto http://tv.cloudcdn.me:80/live.ts?channelId=253&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/47718e36a9a5c42f3d005fcd9f3d94be.png" group-title="KIDS",KID: Nickelodeon
+auto http://tv.cloudcdn.me:80/live.ts?channelId=254&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/725a1c58e36efa9a43bacf845b757d9c.png" group-title="KIDS",KID: Nicktoons
+auto http://tv.cloudcdn.me:80/live.ts?channelId=255&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/POGOHINDI.png" group-title="KIDS",KID: Pogo
+auto http://tv.cloudcdn.me:80/live.ts?channelId=256&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/933ce6167d33958dc29a02179a4b382b.jpg" group-title="KIDS",KID: Pop
+auto http://tv.cloudcdn.me:80/live.ts?channelId=257&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/6b19a9656762091abdff8955c5865953.png" group-title="KIDS",KID: Pop Max +1
+auto http://tv.cloudcdn.me:80/live.ts?channelId=38625&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/f2c16698ad5fdc4731899cd1838f8469.png" group-title="KIDS",KID: Sonic Nickelodeon
+auto http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/065352c.png" group-title="KIDS",KID: Sony YAY!
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78849&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/937244d005d01c4149622ec8d46e6fca.png" group-title="KIDS",KID: TeleToon
+auto http://tv.cloudcdn.me:80/live.ts?channelId=72428&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b5494083b00b7df904e0fdda6fbed046.jpg" group-title="KIDS",KID: Tiny Pop
+auto http://tv.cloudcdn.me:80/live.ts?channelId=259&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/959ce1ae57950d695d6e1d65bc5c90f5.png" group-title="KIDS",KID: Treehouse TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=102888&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/0ad757045034fecae6719f9a45e0e2b6.png" group-title="FIFA World Cup 2026",AT: Servus TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134107&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/da082a35d86981edc3c171e4a4756bf5.png" group-title="FIFA World Cup 2026",AU: SBS FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134106&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/channels/45ff6dd.png" group-title="FIFA World Cup 2026",AZ: CBC SPORT HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134108&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/channels/4eb091c.png" group-title="FIFA World Cup 2026",AZ: Ictimai TV HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134109&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/tsports.png" group-title="FIFA World Cup 2026",BD: T Sports HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134105&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/44637a54.png" group-title="FIFA World Cup 2026",CA: TSN 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134126&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/a0e9afbe.jpg" group-title="FIFA World Cup 2026",CA: TSN 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134127&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/31e9ed18.png" group-title="FIFA World Cup 2026",CA: TSN 3 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134128&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/073a41c5.png" group-title="FIFA World Cup 2026",CA: TSN 4 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134129&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/c758daed.png" group-title="FIFA World Cup 2026",CA: TSN 5 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134130&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e7f9cd2b80306c2a2078c41e06f7c7b9.png" group-title="FIFA World Cup 2026",DE: Das Erste FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134110&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",DE: Fussball TV 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134131&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",DE: Fussball TV 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134132&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/d1d9377e7f9604d15092ccce0ccccc3a.png" group-title="FIFA World Cup 2026",DE: ORF 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134115&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ea4560c7d058b7f87c8ea790c0d2fd6a.png" group-title="FIFA World Cup 2026",DE: ZDF FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134111&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2e471c9a55628012ff3b6f4fb8ab3ec3.png" group-title="FIFA World Cup 2026",FR: M6 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134100&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",Unite8 Sports 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134096&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",Unite8 Sports 1 FHD (BK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134124&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",Unite8 Sports 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134097&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",Unite8 Sports 2 FHD (BK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134125&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/976e164b2ad6e40c8a891add2c84eee9.png" group-title="FIFA World Cup 2026",LA: Telemundo 52 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134117&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2c9c5c5.png" group-title="FIFA World Cup 2026",PK: PTV Sports
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134098&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2c9c5c5.png" group-title="FIFA World Cup 2026",PK: PTV Sports (BK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134099&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/beinsportsmax1.png" group-title="FIFA World Cup 2026",QA: beIN Sports Max 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134094&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/beinsportsmax1.png" group-title="FIFA World Cup 2026",QA: beIN Sports Max 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134095&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",QA: beIN Sports Max 3 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134112&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",QA: beIN Sports Max 4 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134113&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",UK: BBC News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134114&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/50a6c5b817dad268c02054f96f013976.jpg" group-title="FIFA World Cup 2026",UK: STV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134103&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/ITV1.png" group-title="FIFA World Cup 2026",UK: itv 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134104&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",US: D Sports FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134116&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",US: Fox Sports 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134101&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026",US: Fox Sports 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=134102&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/de06576.png" group-title="SPORTS",SP: A Sports FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/awsn.png" group-title="SPORTS",SP: All Womens Sports Network FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125423&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/31821ce.png" group-title="SPORTS",SP: Astro Cricket FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/31821ce.png" group-title="SPORTS",SP: Astro Cricket FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33317&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/astrofootball.png" group-title="SPORTS",SP: Astro Football FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/astrograndstand.png" group-title="SPORTS",SP: Astro Grandstand FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125431&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/astropremierleague2.png" group-title="SPORTS",SP: Astro Premier League 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125430&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/astropremierleague.png" group-title="SPORTS",SP: Astro Premier League FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/cd30f56.png" group-title="SPORTS",SP: BEIN Sports 1 English FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=102481&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/beinsports2english.png" group-title="SPORTS",SP: BEIN Sports 2 English FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125427&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/beinsports3english.png" group-title="SPORTS",SP: BEIN Sports 3 English FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125428&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/76354ae.png" group-title="SPORTS",SP: DD Sports
+auto http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/cb170b7.png" group-title="SPORTS",SP: Dazn 1 DE FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125424&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bd89a0a.png" group-title="SPORTS",SP: Dazn 2 DE FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125425&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/espn.png" group-title="SPORTS",SP: ESPN FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=128704&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/6f51588c" group-title="SPORTS",SP: ESPN US 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=271&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/2abd67b6" group-title="SPORTS",SP: Eurosport 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=272&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/37bb7740" group-title="SPORTS",SP: Eurosport 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=273&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/bb98eda.png" group-title="SPORTS",SP: FS1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=102480&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/856321c9d4796d595d69b69d276520c9.png" group-title="SPORTS",SP: FS2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132180&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/fightbox.png" group-title="SPORTS",SP: Fight Box FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125426&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/919dbdf.png" group-title="SPORTS",SP: Flow Sports
+auto http://tv.cloudcdn.me:80/live.ts?channelId=105348&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/fdb00f7.png" group-title="SPORTS",SP: Fox Sports 501 Cricket
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="SPORTS",SP: Fox Sports 502
+auto http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/14f64b64" group-title="SPORTS",SP: Geo Super FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=274&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/784ad650798c209aa5dfcd68b65b307c.png" group-title="SPORTS",SP: Ginx eSports
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132182&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SP: Inter TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=61668&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png" group-title="SPORTS",SP: LFC TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=128705&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/76e10fc7.jpg" group-title="SPORTS",SP: Live Kabaddi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=276&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/720e2fe.png" group-title="SPORTS",SP: MAQ TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33157&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/mutv.png" group-title="SPORTS",SP: MUTV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125434&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/b5bc5c2f.jpg" group-title="SPORTS",SP: NBC Golf FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=341&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2c9c5c5.png" group-title="SPORTS",SP: PTV Sports FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2c9c5c5.png" group-title="SPORTS",SP: PTV Sports FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=279&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/premiersports1.png" group-title="SPORTS",SP: Premier Sports 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=91158&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/premiersports2.png" group-title="SPORTS",SP: Premier Sports 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=91159&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/08971a4.png" group-title="SPORTS",SP: Racing TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=37315&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/realmadridtv.png" group-title="SPORTS",SP: Real Madrid TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125433&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/rushsports.png" group-title="SPORTS",SP: Rush Sports Plus
+auto http://tv.cloudcdn.me:80/live.ts?channelId=128700&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/8c24e752f56cbf20e36f414088013773.png" group-title="SPORTS",SP: Sky Sports Action FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=280&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/skysportsarena.png" group-title="SPORTS",SP: Sky Sports Arena FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=36132&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/skysportscricket.png" group-title="SPORTS",SP: Sky Sports Cricket FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/skysportscricket.png" group-title="SPORTS",SP: Sky Sports Cricket FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=35530&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/dcf6149.png" group-title="SPORTS",SP: Sky Sports F1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=282&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/SkySportsFootballHD.png" group-title="SPORTS",SP: Sky Sports Football FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/3060a9ae" group-title="SPORTS",SP: Sky Sports Golf FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=283&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/1da91974" group-title="SPORTS",SP: Sky Sports Main Event FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=284&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/skysportsmix.png" group-title="SPORTS",SP: Sky Sports Mix FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=32489&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/57778ee2" group-title="SPORTS",SP: Sky Sports News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=285&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/6f94df9d" group-title="SPORTS",SP: Sky Sports Premier League FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="SPORTS",SP: Sky Sports Racing FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132131&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/skysportstennis.png" group-title="SPORTS",SP: Sky Sports Tennis FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132530&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4fa225b.png" group-title="SPORTS",SP: Sony Sports 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/e27626a.png" group-title="SPORTS",SP: Sony Sports 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/3a556ed.png" group-title="SPORTS",SP: Sony Sports 3 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/eb923d9.png" group-title="SPORTS",SP: Sony Sports 4 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9327ac5.png" group-title="SPORTS",SP: Sony Sports 5 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/sportsfancode.png" group-title="SPORTS",SP: Sports Fancode
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78845&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/sportsmax.png" group-title="SPORTS",SP: Sports Max FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=128701&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/13e1ff38" group-title="SPORTS",SP: Star Sports 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/13e1ff38" group-title="SPORTS",SP: Star Sports 1 FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=49566&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/215303aa" group-title="SPORTS",SP: Star Sports 1 Hindi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/215303aa" group-title="SPORTS",SP: Star Sports 1 Hindi FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=49569&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/starsports1tamil.png" group-title="SPORTS",SP: Star Sports 1 Tamil FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=275&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/starsports1telugu.png" group-title="SPORTS",SP: Star Sports 1 Telugu FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=288&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/cc77312d" group-title="SPORTS",SP: Star Sports 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/cc77312d" group-title="SPORTS",SP: Star Sports 2 FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=49568&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SP: Star Sports 2 Hindi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132883&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SP: Star Sports 2 Tamil FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132885&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SP: Star Sports 2 Telugu FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132886&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/starsports3.png" group-title="SPORTS",SP: Star Sports 3 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SP: Star Sports Khel HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132884&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/StarSportsSelect1HD.jpg" group-title="SPORTS",SP: Star Sports Select 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=299&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/StarSportsSelect2HD.png" group-title="SPORTS",SP: Star Sports Select 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/criclife1.png" group-title="SPORTS",SP: Starzplay CricLife 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125421&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/criclife2.png" group-title="SPORTS",SP: Starzplay CricLife 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=125422&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/tsports.png" group-title="SPORTS",SP: T Sports FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="SPORTS",SP: TNT Sports 1 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="SPORTS",SP: TNT Sports 2 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="SPORTS",SP: TNT Sports 3 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="SPORTS",SP: TNT Sports 4 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=270&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="SPORTS",SP: TNT Sports 5 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="SPORTS",SP: TNT Sports 6 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132529&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/44637a54.png" group-title="SPORTS",SP: TSN 1
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28961&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/a0e9afbe.jpg" group-title="SPORTS",SP: TSN 2
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28962&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/31e9ed18.png" group-title="SPORTS",SP: TSN 3
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28963&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/073a41c5.png" group-title="SPORTS",SP: TSN 4
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28964&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/c758daed.png" group-title="SPORTS",SP: TSN 5
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28965&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/tencricket.png" group-title="SPORTS",SP: Ten Cricket
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78868&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/TENSPORTS.png" group-title="SPORTS",SP: Ten Sports FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=301&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/tennischannel.png" group-title="SPORTS",SP: Tennis Channel FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132528&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/tennischannel.png" group-title="SPORTS",SP: Tennis Channel US FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=296&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/b8b4ccb6.png" group-title="SPORTS",SP: WWE Network FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132557&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/b8b4ccb6.png" group-title="SPORTS",SP: WWE Sports
+auto http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/WILLOWCRICKETHD.jpg" group-title="SPORTS",SP: Willow Cricket FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/WILLOWCRICKETHD.jpg" group-title="SPORTS",SP: Willow Cricket FHD.
+auto http://tv.cloudcdn.me:80/live.ts?channelId=40481&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/7d6fdb72.png" group-title="SPORTS",SP: Willow Xtra
+auto http://tv.cloudcdn.me:80/live.ts?channelId=287&uid=7133&deviceMac=00:1A:79:4A:02:91stha Tamil (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89866&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/adhisayamtv.png" group-title="TAMIL",TM: Adhisayam TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132366&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9b61a2a.png" group-title="TAMIL",TM: Adithya TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43404&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Angel TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89860&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Angel TV FHD UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132355&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Animal Planet HD Tamil FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89826&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/AthavanTV.jpg" group-title="TAMIL",TM: Athavan TV HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89837&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/BiggBossTamil8.png" group-title="TAMIL",TM: Bigg Boss Tamil 9 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132411&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: CN HD+ Tamil FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89875&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg" group-title="TAMIL",TM: Cartoon Network
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89828&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/ChithiramTv.png" group-title="TAMIL",TM: Chithiram TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43407&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/6734742.png" group-title="TAMIL",TM: Chutti TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/e74fa3f.png" group-title="TAMIL",TM: Colors Tamil FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/e74fa3f.png" group-title="TAMIL",TM: Colors Tamil UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89822&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/DDPodhigai.jpg" group-title="TAMIL",TM: DD Podhigai
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43409&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bfa81a2.png" group-title="TAMIL",TM: Dheeran TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43514&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/329b8c4.png" group-title="TAMIL",TM: Discovery Channel Tamil
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43516&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/329b8c4.png" group-title="TAMIL",TM: Discovery Channel Tamil FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132513&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/249c454173fa6205144acb92a8e5c25e.png" group-title="TAMIL",TM: Discovery Kids
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89865&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f69951d.png" group-title="TAMIL",TM: EET TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=105&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/1df2b6056362feedee9e25a19b8286bf.png" group-title="TAMIL",TM: Harvest USA
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89878&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/HistoryTV18.png" group-title="TAMIL",TM: History TV18 Tamil
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89842&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Holy God TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89853&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/HosannaTV.png" group-title="TAMIL",TM: Hosanna TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89854&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/IBCBhakthi.png" group-title="TAMIL",TM: IBC Bhakthi HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132205&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/IBCTamil.png" group-title="TAMIL",TM: IBC Tamil HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89821&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/Isaiaruvi.png" group-title="TAMIL",TM: Isaiaruvi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43522&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/33fddb7.png" group-title="TAMIL",TM: J Movies
+auto http://tv.cloudcdn.me:80/live.ts?channelId=85933&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Janam TV Tamil
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89848&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/46e2b7b.png" group-title="TAMIL",TM: Jaya Max
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43410&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/6cad13d.png" group-title="TAMIL",TM: Jaya TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/b3bea40.png" group-title="TAMIL",TM: Jaya plus
+auto http://tv.cloudcdn.me:80/live.ts?channelId=85932&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/jothitv.png" group-title="TAMIL",TM: Jothi TV (Spiritual) FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89883&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/643503f.png" group-title="TAMIL",TM: KTV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/643503f.png" group-title="TAMIL",TM: KTV UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89824&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/kalaignarseithigalnews.png" group-title="TAMIL",TM: Kalaignar Seithigal TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89880&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/Kalaignartv.png" group-title="TAMIL",TM: Kalaignar TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43520&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: M Nadu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132367&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: MK Six
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89985&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: MK TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89846&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/c5c6125.png" group-title="TAMIL",TM: Madha TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=85934&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Madhimugam TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89847&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/makkaltv.png" group-title="TAMIL",TM: Makkal TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89839&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Moon TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132362&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/MurasuTV.png" group-title="TAMIL",TM: Murasu TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89838&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/NambikkaiTV.png" group-title="TAMIL",TM: Nambikkai TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89845&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/ce275e7.png" group-title="TAMIL",TM: News 7 Tamil
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43413&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: News J
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132364&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: News Tamil 24x7
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132369&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/70bf3c5.png" group-title="TAMIL",TM: News18 Tamil Nadu FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43412&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Nick Tamil
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89850&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2ec6b4c.png" group-title="TAMIL",TM: Peppers TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=23125&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Pogo Tamil
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89849&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/03013c5.png" group-title="TAMIL",TM: Polimer News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43515&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/711eee3.png" group-title="TAMIL",TM: Polimer TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=85931&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/8794550.png" group-title="TAMIL",TM: Puthiya Thalaimurai TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43414&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/puthuyugamtv.png" group-title="TAMIL",TM: Puthuyugam TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89836&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: RadheKrishna TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132372&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/e26b8bb.png" group-title="TAMIL",TM: Raj Digital Plus
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43415&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d22a26f.png" group-title="TAMIL",TM: Raj Musix
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43416&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9b67b2c.png" group-title="TAMIL",TM: Raj News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=85935&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/fa76b3f.png" group-title="TAMIL",TM: Raj TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: SRS Bhakti TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132368&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: SVBC 1 (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89834&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: SVBC 2 (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132357&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: SVBC 3 (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132358&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: SVBC 4 (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132359&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/c4034b1.png" group-title="TAMIL",TM: Sai TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43519&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/SathiyamTV.png" group-title="TAMIL",TM: Sathiyam TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89841&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/7224188.png" group-title="TAMIL",TM: Seithigal TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43418&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/8faebc1.png" group-title="TAMIL",TM: Sirippoli TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43521&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Sivan Temple TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89857&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Sonic Tamil
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89864&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/starsports1tamil.png" group-title="TAMIL",TM: Star Sports 1 Tamil FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89820&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/32340db.png" group-title="TAMIL",TM: Star Vijay FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/32340db.png" group-title="TAMIL",TM: Star Vijay FHD (BK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9d667fe.png" group-title="TAMIL",TM: Star Vijay Super HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43518&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/af1466fbb.png" group-title="TAMIL",TM: Sun Life
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89833&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/176ce76.png" group-title="TAMIL",TM: Sun Music FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/58c7e00.png" group-title="TAMIL",TM: Sun News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78821&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d450e67.png" group-title="TAMIL",TM: Sun TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d450e67.png" group-title="TAMIL",TM: Sun TV FHD (BK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132404&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d450e67.png" group-title="TAMIL",TM: Sun TV UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89823&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Tamilan Television
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89867&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Tata Play Toons+ Tamil
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132371&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Thalaa TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89858&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/147b8c40b769ef43145dbc127becc940.png" group-title="TAMIL",TM: Thanthi TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89844&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Travel XP Tamil
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89862&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Tunes 6
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89843&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/VaanavilTV.png" group-title="TAMIL",TM: Vaanavil TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89871&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e514640cbcc4d24430dbee3a8b24d34c.png" group-title="TAMIL",TM: Vasanth TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89835&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TAMIL",TM: Velukkudi Discourses
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89879&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/b03288d.png" group-title="TAMIL",TM: Vendhar TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43422&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4b10e18.png" group-title="TAMIL",TM: Vikatan TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=123917&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/867a3aa.png" group-title="TAMIL",TM: Zee Tamil FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/867a3aa.png" group-title="TAMIL",TM: Zee Tamil
+auto http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/11ef89c.png" group-title="TAMIL",TM: Zee Thirai FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/abf09e9.png" group-title="TELUGU",TG: 10TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43447&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: 6TV Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90022&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: 99 TV Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90024&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/485a63f.png" group-title="TELUGU",TG: ABN Andhra Jyothi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43448&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/20cbc6e.png" group-title="TELUGU",TG: Aastha Telugu (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90023&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Aradana TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90019&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Bhakti TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90005&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Big TV Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132282&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/BiggBossTelugu8.png" group-title="TELUGU",TG: Bigg Boss Telugu 9 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132347&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: CN HD+ Telugu FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90011&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: CVR Health
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132283&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: CVR News English
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90000&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: CVR News Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89996&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: CVR OM (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90018&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Calvary TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90020&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f1c4543.png" group-title="TELUGU",TG: Cartoon Network Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43450&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: DD Saptagiri
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90028&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Discovery Kids Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89999&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/69fbad8.png" group-title="TELUGU",TG: Discovery Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43524&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Divyavani TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90030&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: ETV Abhiruchi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89994&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: ETV Andhra Pradesh
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90021&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/8fd8d7b.png" group-title="TELUGU",TG: ETV Cinema FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43449&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: ETV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90004&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: ETV Life
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89997&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: ETV Plus FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90014&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: ETV Telangana
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132286&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/b95175a.png" group-title="TELUGU",TG: Gemini Comedy
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43452&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/80eb48a.png" group-title="TELUGU",TG: Gemini Life
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78827&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2d79695.png" group-title="TELUGU",TG: Gemini Movies FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43453&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/ded65e2.png" group-title="TELUGU",TG: Gemini Music FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43454&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/8ae09ee.png" group-title="TELUGU",TG: Gemini TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43455&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/gospeltv.png" group-title="TELUGU",TG: Gospel TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132814&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: HMTV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90017&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Hindu Dharmam (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90012&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: History TV18 FHD Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90010&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d97c75f.png" group-title="TELUGU",TG: I News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43456&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Kushi TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90026&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/86d69bb.png" group-title="TELUGU",TG: Mahaa News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43459&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5f552fc.png" group-title="TELUGU",TG: Mana TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43460&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Mana TV Int. FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132280&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Metro TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132869&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/1cf8cec.png" group-title="TELUGU",TG: NTV Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43461&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Naaptol Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132290&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: PMC Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90007&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/6c9ce93.png" group-title="TELUGU",TG: Raj Musix Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43462&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/265f0fe.png" group-title="TELUGU",TG: Raj News Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43463&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: SVBC (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90009&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Sai TV Telugu (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132287&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Sakshi TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89995&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Shubhavaarta TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90032&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Sonic Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90027&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/b92412f.png" group-title="TELUGU",TG: Star Maa Gold
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43457&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a461593.png" group-title="TELUGU",TG: Star Maa Movies FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78831&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Star Maa Music
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90013&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/716b31d.png" group-title="TELUGU",TG: Star Maa TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43458&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Studio One
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78847&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Studio One Plus
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90025&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Studio Yuva Alpha
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90029&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Subhavartha TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90008&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Swara Sagar
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90031&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Swatantra News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90015&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/da8dd03.png" group-title="TELUGU",TG: T News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43464&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: TV5 News Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90002&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/ca9aa0c.png" group-title="TELUGU",TG: TV9 Telugu FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43465&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Tana Prapancha Sahitya Vedika
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132295&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Tata Play English in Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132291&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Tata Play Telugu Classics
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132292&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Tata Play Toons+ Telugu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132294&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Total Bhakti (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90016&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/0e0e65a.png" group-title="TELUGU",TG: V6 News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43466&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Vanitha TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90003&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/7262556.png" group-title="TELUGU",TG: Zee Cinemalu FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43467&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/31f6e57.png" group-title="TELUGU",TG: Zee Telugu FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43468&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG: Zee Telugu News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89998&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="TELUGU",TG:Vissa TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90001&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/0c4e70a.png" group-title="MALAYALAM",MAL: 24 News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43526&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f514a0f.png" group-title="MALAYALAM",MAL: Amrita TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=44157&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Anand TV HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89965&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9ed798a.png" group-title="MALAYALAM",MAL: Asianet Movies
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43470&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/3603604.png" group-title="MALAYALAM",MAL: Asianet News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43471&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2460f75.png" group-title="MALAYALAM",MAL: Asianet Plus
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43472&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9b0c268.png" group-title="MALAYALAM",MAL: Asianet TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Bigg Boss Malayalam Season 7
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132560&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Bigg Boss Malayalam Season 7 (BK)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132802&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: DD Malayalam
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89973&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Dicscovery Kids
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89969&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2534ffc.png" group-title="MALAYALAM",MAL: Flower TV (USA)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132256&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2534ffc.png" group-title="MALAYALAM",MAL: Flowers TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43473&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Garshom TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89958&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Goodness TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89976&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Harvest
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89968&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Harvest TV 24x7
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89986&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Hornbill TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89987&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: JAIHIND TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89960&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/99e8c50.png" group-title="MALAYALAM",MAL: Janam TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43474&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2e591cd.png" group-title="MALAYALAM",MAL: Jeevan TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43475&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: KCL TV HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89983&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: KITE Victers
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89989&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/217ad90.png" group-title="MALAYALAM",MAL: Kairali News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=48007&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/64e3430.png" group-title="MALAYALAM",MAL: Kairali TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43476&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/7c4859b.png" group-title="MALAYALAM",MAL: Kappa TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43477&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Kaumudy TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89975&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4fb9551.png" group-title="MALAYALAM",MAL: Kerala Vision
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43525&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Kochu TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89979&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Magnavision TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89990&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Malanadu TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89993&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/857feec.png" group-title="MALAYALAM",MAL: Manorama News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43478&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Marian TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89964&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/360baab.png" group-title="MALAYALAM",MAL: Mathrubhumi News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43479&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bfe7e6d.png" group-title="MALAYALAM",MAL: Mazhavil Manorama FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43480&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f8e56d6.png" group-title="MALAYALAM",MAL: Media One
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43481&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: News18 Kerala FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89956&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Nick Malayalam
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89980&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Power vision
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89966&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Pravasi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89974&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Propex TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89978&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Pulari TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89961&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Raj Musix Malayalam
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89962&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4e7910f.png" group-title="MALAYALAM",MAL: Raj News Malayalam
+auto http://tv.cloudcdn.me:80/live.ts?channelId=85936&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Real News Kerala
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89982&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/7f25250.png" group-title="MALAYALAM",MAL: Reporter TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43482&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a5b78dd.png" group-title="MALAYALAM",MAL: Safari TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43483&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/b07c646.png" group-title="MALAYALAM",MAL: Shalom TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43484&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Sonic Malayalam
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89981&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5742111.png" group-title="MALAYALAM",MAL: Surya Comedy
+auto http://tv.cloudcdn.me:80/live.ts?channelId=44158&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/15e2e18.png" group-title="MALAYALAM",MAL: Surya Movies FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/74f31ef.png" group-title="MALAYALAM",MAL: Surya Music
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43485&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/19fff17.png" group-title="MALAYALAM",MAL: Surya TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/3f6a8e6.png" group-title="MALAYALAM",MAL: WE TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43487&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/0a96aaf.png" group-title="MALAYALAM",MAL: Zee Keralam FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78825&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MALAYALAM",MAL: Zee News Keralam FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=89970&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: ABP Asmita FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90132&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Aadinath TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132394&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Aastha Gujarati FHD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90137&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: BS9 News HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132395&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Buletin India
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90141&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: CNBC Bajar
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90134&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/1eacec5.png" group-title="GUJARATI",GUJ: Colors Gujarati Cinema
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78857&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/ca88407.png" group-title="GUJARATI",GUJ: Colors Gujarati FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=19468&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/0f01cdb.png" group-title="GUJARATI",GUJ: DD Girnar
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43537&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Digishala
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90143&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/gjdesinews.png" group-title="GUJARATI",GUJ: GJ Desi News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132830&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Garvi Gujarat Gujarati
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132399&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Gujarat First 24x7
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90145&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a1ccee2.png" group-title="GUJARATI",GUJ: Gujarat Samachar TV (GS TV)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=19450&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Headline News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90140&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/379eddf.png" group-title="GUJARATI",GUJ: India News Gujarat FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=49860&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/janadeshnews.png" group-title="GUJARATI",GUJ: Janadesh News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132398&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Kalyan TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132243&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Kartavya TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90139&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Lakshya TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90135&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Mantavya News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90136&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/newscapitalgujarat.png" group-title="GUJARATI",GUJ: News Capital Gujarat
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90144&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d080a3d.png" group-title="GUJARATI",GUJ: News18 Gujarati FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28133&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Sadhna Gold
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132397&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Sadvidya TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132396&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/11e586f.png" group-title="GUJARATI",GUJ: Sandesh News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=19467&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Saurashtra Samrat News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132871&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/ecab534.png" group-title="GUJARATI",GUJ: Shiksha TV FHD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=33133&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/abae21a.png" group-title="GUJARATI",GUJ: TV9 Gujarati
+auto http://tv.cloudcdn.me:80/live.ts?channelId=19476&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/vrlive.png" group-title="GUJARATI",GUJ: VR Live FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132829&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/b89aa88.png" group-title="GUJARATI",GUJ: VTV News Gujarati
+auto http://tv.cloudcdn.me:80/live.ts?channelId=19451&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Valam TV HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132393&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 1
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90146&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 10
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90155&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 11
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90156&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 12
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90157&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 13
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90158&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 14
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90159&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 15
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90160&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 16
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90161&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 2
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90147&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 3
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90148&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 4
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90149&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 5
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90150&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 6
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90151&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 7
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90152&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 8
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90153&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Vande Gujarat 9
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90154&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="GUJARATI",GUJ: Zee 24 Kalak
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90133&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Maharashtra Today FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132850&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI", MKN News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90123&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI", Zee Chitramandir
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132273&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f3a9e77.png" group-title="MARATHI",9X Jhakaas
+auto http://tv.cloudcdn.me:80/live.ts?channelId=29701&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/95d1312.png" group-title="MARATHI",ABP Majha FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=25529&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/1d6d81d.png" group-title="MARATHI",Colors Marathi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28126&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",DD Sahyadri
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90122&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Dagdusheth Ganpati - Pune (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132277&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/166cc1f.png" group-title="MARATHI",Fakt Marathi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78832&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",In Goa 24x7
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90130&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Jai Maharashtra
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90127&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Lokshahi News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90129&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/lordbuddhatv.png" group-title="MARATHI",Lord Buddha TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132819&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Maiboli
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90124&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",NDTV Marathi HD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=46524&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/newsmarathi24x7.png" group-title="MARATHI",News Marathi 24x7
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132817&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",News State Maharashtra Goa
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132275&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a8cf7c0.png" group-title="MARATHI",News18 Marathi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28127&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Rangmanch Marathi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132278&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/rangmanchtv.png" group-title="MARATHI",Rangmanch TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132816&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Saam TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90125&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/166cc1f.png" group-title="MARATHI",Sangeet Marathi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78861&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Shemaroo Marathibana
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132271&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Sonic Marathi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90128&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bc22fb3.png" group-title="MARATHI",Sony Marathi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78841&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bc25fc4.png" group-title="MARATHI",Star Pravah FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28128&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Sugran
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132276&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Sun Marathi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132272&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/8e172e3.png" group-title="MARATHI",TV9 MARATHI
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28129&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",TV9 Maharashtra
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132274&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Tataplay Toons+ Marathi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132269&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/timesofmaharashtranews.png" group-title="MARATHI",Times Of Maharashtra News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132815&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/topnewsmarathi.png" group-title="MARATHI",Top News Marathi
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90131&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="MARATHI",Tulja Bhavani (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90126&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/88bc33a.png" group-title="MARATHI",Zee 24 Taas
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28130&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/251e0d3.png" group-title="MARATHI",Zee Marathi FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28132&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/251e0d3.png" group-title="MARATHI",Zee Marathi SD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132265&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f323cf4.png" group-title="MARATHI",Zee Talkies FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=28131&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f323cf4.png" group-title="MARATHI",Zee Talkies SD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132266&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9750164.png" group-title="MARATHI",Zee Yuya
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78816&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Aastha Tv Kannada (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90044&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/08a69ae.png" group-title="KANNADA",Asianet Suvarna News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43533&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Ayush TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90043&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/28446f1.png" group-title="KANNADA",BTV News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43527&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/bhakthisiri.png" group-title="KANNADA",Bhakthi Siri (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132458&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Chintu TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90041&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9c41bb5.png" group-title="KANNADA",Colors Kannada (USA)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132298&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/74d4b3b.png" group-title="KANNADA",Colors Kannada Cinema
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78858&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9c41bb5.png" group-title="KANNADA",Colors Kannada FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43528&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/f9b01bb.png" group-title="KANNADA",Colors Super FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78860&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",DD Chandana
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90035&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/janataatv.png" group-title="KANNADA",Janataa TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132825&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Naaptol Kannada
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132300&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/nakshatradigitaltv.png" group-title="KANNADA",Nakshatra Digital TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132303&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/nammabangalore.png" group-title="KANNADA",Namma Bangalore FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132826&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Namma TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90037&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",News First
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90047&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",News First Kannada
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132301&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/7ba4bfe.png" group-title="KANNADA",News18 Kannada FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43529&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Nick Kannada
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90042&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Power TV Kannada
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132302&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Praja TV Kannada
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90036&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Public Movies
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90048&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/fe30365.png" group-title="KANNADA",Public Music
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43530&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4cb21eb.png" group-title="KANNADA",Public TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43531&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/d401017.png" group-title="KANNADA",Raj Musix Kannada
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43532&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Raj News Kannada
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90034&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Republic Kannada FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132299&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",SVBC 3 Kannada FHD (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132356&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Samara News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90046&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Siri Kannada All Time
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90038&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Sonic Kannada
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90045&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/e7b17ec.png" group-title="KANNADA",Sri Sankara Kannada (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78854&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a5d3073.png" group-title="KANNADA",Star Suvarna FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78830&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Star Suvarna Plus
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90039&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a5d3073.png" group-title="KANNADA",Star Suvarna UK
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132297&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/0e5740e.png" group-title="KANNADA",TV5 Kannada
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78828&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/64d40a2.png" group-title="KANNADA",TV9 Kannada FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43534&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Udaya Comedy
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90040&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4ba2dcf.png" group-title="KANNADA",Udaya Movies
+auto http://tv.cloudcdn.me:80/live.ts?channelId=86591&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/8e2bdf4.png" group-title="KANNADA",Udaya Music
+auto http://tv.cloudcdn.me:80/live.ts?channelId=86593&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/ad1b4ff.png" group-title="KANNADA",Udaya TV FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43535&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/ad1b4ff.png" group-title="KANNADA",Udaya TV FHD (USA)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132296&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/acf338b.png" group-title="KANNADA",Zee Kannada FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=43536&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="KANNADA",Zee Kannada News FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90033&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9829e8b.png" group-title="KANNADA",Zee Picchar FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=86594&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Alankar
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132310&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/9b294d5.png" group-title="ODIA",Argus TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=46529&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Badakhabar
+auto http://tv.cloudcdn.me:80/live.ts?channelId=46528&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/53e73eb.png" group-title="ODIA",Colors Odia FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=46525&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/88a0ac7.png" group-title="ODIA",DD Odia
+auto http://tv.cloudcdn.me:80/live.ts?channelId=46526&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Jay Jagannath (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132309&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/kalingbharat.png" group-title="ODIA",Kaling Bharat
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132463&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Kaling Bharat FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132870&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/6526b0b.png" group-title="ODIA",Kalinga TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=46530&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/4f1e586.png" group-title="ODIA",Kanak News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=46527&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",MBC Odia
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90163&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Nandighosha FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90166&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2c3a8c0.png" group-title="ODIA",Naxatra News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=46532&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5f43787.png" group-title="ODIA",News18 Odia FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=46531&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",OTV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90165&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Prameya News 7
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90162&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Prarthana TV (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132311&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Sidharth Bhakti (Spiritual)
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90169&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Sidharth Gold
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90168&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Sidharth TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=90167&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Tarang Music
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132312&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ODIA",Tarang TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132313&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/bd3aeef.png" group-title="ODIA",Zee Sarthak
+auto http://tv.cloudcdn.me:80/live.ts?channelId=78815&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", Assam Talks
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132314&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", DD Assam
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132315&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", DY 365
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132316&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", Indradhanu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132317&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", Jonack TV
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132318&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", NB News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132326&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", NE Bharat 24 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132860&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", NK TV Plus
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132320&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", News Live
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132319&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", News18 Assam North East (BK) FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132329&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", News18 Assam North East FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132328&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", Prag News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132321&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="https://tv.cloudcdn.online/images/channels/prathamkhabar24x7.png" group-title="ASSAMESE", Pratham Khabar 24x7 FHD
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132322&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", Pratidin News
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132327&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", Ramdhenu
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132323&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", Rang
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132324&uid=7133&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-logo="" group-title="ASSAMESE", Rengoni
+auto http://tv.cloudcdn.me:80/live.ts?channelId=132325&uid=7133&deviceMac=00:1A:79:4A:02:91
