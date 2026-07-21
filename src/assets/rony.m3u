@@ -1,67 +1,67 @@
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/refs/heads/main/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Hindi Entertainment", SONY HD
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Hindi Entertainment", Sony HD
 https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-id="1000009248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi Entertainment", SAB HD
 https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi", SONY MARATHI
+#EXTINF:-1 tvg-id="1000009259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi", Sony Marathi
 https://playyonogames.in/sliv/stream.m3u8?id=1000009259|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009273" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Hindi Entertainment", SONY PAL
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Hindi Entertainment", Sony PAL
 https://playyonogames.in/sliv/stream.m3u8?id=1000009273|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Hindi Entertainment", SONY AATH
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Hindi Entertainment", Sony AATH
 https://playyonogames.in/sliv/stream.m3u8?id=1000009255|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000001971" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", SONY YAY
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Sony YAY
 https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009247" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi Movies", SONY MAX HD
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi Movies", Sony Max HD
 https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009249" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Hindi Movies", SONY MAX
+#EXTINF:-1 tvg-id="1000009249" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_Max.png" group-title="Hindi Movies", Sony Max
 https://playyonogames.in/sliv/stream.m3u8?id=1000009249|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Hindi Entertainment", SONY WAH
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Hindi Entertainment", Sony WAH
 https://playyonogames.in/sliv/stream.m3u8?id=1000009253|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000044878" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Hindi Movies", SONY MAX2
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max2.png" group-title="Hindi Movies", Sony Max2
 https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies", SONY PIX HD
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies", Sony PIX HD
 https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", SONY SIX HD
+#EXTINF:-1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony SIX HD
 https://playyonogames.in/sliv/stream.m3u8?id=1000009281|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", SONY TEN 1 HD
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
 https://playyonogames.in/sliv/stream.m3u8?id=1000009276|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", SONY TEN 2 HD
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
 https://playyonogames.in/sliv/stream.m3u8?id=1000009277|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009278" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports", SONY TEN 3 HD
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports", Sony TEN 3 HD
 https://playyonogames.in/sliv/stream.m3u8?id=1000009278|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="Sports", SONY TEN 4
+#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://origin-staticv2.Sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="Sports", Sony TEN 4
 https://playyonogames.in/sliv/stream.m3u8?id=1000119187|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports", SONY SIX
+#EXTINF:-1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports", Sony SIX
 https://playyonogames.in/sliv/stream.m3u8?id=1000009281|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009280" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports", SONY TEN 1
+#EXTINF:-1 tvg-id="1000009280" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports", Sony TEN 1
 https://playyonogames.in/sliv/stream.m3u8?id=1000009280|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports", SONY TEN 2
+#EXTINF:-1 tvg-id="1000009279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports", Sony TEN 2
 https://playyonogames.in/sliv/stream.m3u8?id=1000009279|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009283" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports", SONY TEN 3
+#EXTINF:-1 tvg-id="1000009283" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports", Sony TEN 3
 https://playyonogames.in/sliv/stream.m3u8?id=1000009283|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sports", SONY TEN 4 HD
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://origin-staticv2.Sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sports", Sony TEN 4 HD
 https://playyonogames.in/sliv/stream.m3u8?id=1000119186|referer=https://playyonogames.in/
 
-#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Infotainment", BBC EARTH
+#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://origin-staticv2.Sonyliv.com/masthead_logo/5571681160001.png" group-title="Infotainment", BBC EARTH
 https://playyonogames.in/sliv/stream.m3u8?id=1000009252|referer=https://playyonogames.in/
