@@ -277,7 +277,7 @@ http://103.175.73.12:8080/live/187/master.m3u8
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/188/master.m3u8
 
-#EXTINF:-1 tvg-id="189" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkee-A-7lx8NPqBJ7mK7hCYXuZsylaA33W9o1zlebMaG-9yXz21moL5CU&s=10",group-title="Marathi" Shemaroo Marathibana
+#EXTINF:-1 tvg-id="189" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkee-A-7lx8NPqBJ7mK7hCYXuZsylaA33W9o1zlebMaG-9yXz21moL5CU&s=10",group-title="Marathi", Shemaroo Marathibana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
