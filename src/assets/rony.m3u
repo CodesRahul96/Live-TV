@@ -1,89 +1,67 @@
-#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/raw/refs/heads/main/epg.xml.gz"
+#EXTM3U
 
-#EXTINF:-1 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Hindi Entertainment", Sony HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009246
+#EXTINF:-1 tvg-id="SONY SAB HD.in" tvg-name="Sony Sab HD" group-title="Hindi Entertainment" tvg-logo="https://i.postimg.cc/LhKxf97t/sonysabhd.webp",Sony Sab HD
+https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
 
-#EXTINF:-1 tvg-id="1000009248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi Entertainment", SAB HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009248
+#EXTINF:-1 tvg-id="SET HD.in" tvg-name="SET HD" group-title="Hindi Entertainment" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
+https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 
-#EXTINF:-1 tvg-id="1000009259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi", Sony Marathi
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009259
+#EXTINF:-1 tvg-id="Sony Pal.in" tvg-name="Sony Pal" group-title="Hindi Entertainment" tvg-logo="https://i.postimg.cc/hjYyDb13/sonypal.webp",Sony Pal
+https://cloudplay-sonyliv.pages.dev/pal.m3u8
 
-#EXTINF:-1 tvg-id="1000009273" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Hindi Entertainment", Sony PAL
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009273
+#EXTINF:-1 tvg-id="Sony Wah.in" tvg-name="Sony WAH" group-title="Hindi Movies" tvg-logo="https://i.postimg.cc/HxJG9LSR/sonywah.webp",Sony Wah
+https://cloudplay-sonyliv.pages.dev/wah.m3u8
 
-#EXTINF:-1 tvg-id="1000009255" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Hindi Entertainment", Sony AATH
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009255
+#EXTINF:-1 tvg-id="SONY MAX.in" tvg-name="Sony MAX" group-title="Hindi Movies" tvg-logo="https://i.postimg.cc/43JFB33w/sonymax.webp",Sony Max
+https://cloudplay-sonyliv.pages.dev/max.m3u8
 
-#EXTINF:-1 tvg-id="1000001971" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Sony YAY
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000001971
+#EXTINF:-1 tvg-id="SONY MAX HD.in" tvg-name="Sony Max HD" group-title="Hindi Movies" tvg-logo="https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",Sony Max HD
+https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
 
-#EXTINF:-1 tvg-id="1000009247" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi Movies", Sony Max HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009247
+#EXTINF:-1 tvg-id="SONY MAX 2.in" tvg-name="Sony MAX2" group-title="Hindi Movies" tvg-logo="https://i.postimg.cc/vm32jdgy/sonymax2.webp",Sony Max 2
+https://cloudplay-sonyliv.pages.dev/max2.m3u8
 
-#EXTINF:-1 tvg-id="1000009249" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_Max.png" group-title="Hindi Movies", Sony Max
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009249
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-logo="https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",Sony TEN 1 SD
+https://cloudplay-sonyliv.pages.dev/ten1.m3u8
 
-#EXTINF:-1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Hindi Entertainment", Sony WAH
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009253
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" tvg-name="Sony Sports Ten 1 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",Sony TEN 1 HD
+https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
 
-#EXTINF:-1 tvg-id="1000044878" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max2.png" group-title="Hindi Movies", Sony Max2
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000044878
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2.in" tvg-name="Sony Sports Ten 2" group-title="Sports" tvg-logo="https://i.postimg.cc/027s4b8q/sonysportsten2.webp",Sony TEN 2 SD
+https://cloudplay-sonyliv.pages.dev/ten2.m3u8
 
-#EXTINF:-1 tvg-id="1000009258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies", Sony PIX HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009258
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" tvg-name="Sony Sports Ten 2 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",Sony TEN 2 HD
+https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
 
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony SIX HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009281
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" tvg-name="Sony Sports Ten 3" group-title="Sports" tvg-logo="https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",Sony TEN 3 SD
+https://cloudplay-sonyliv.pages.dev/ten3.m3u8
 
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009276
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-name="Sony Sports Ten 3 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",Sony TEN 3 HD
+https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
 
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009277
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" tvg-name="Sony Sports Ten 4" group-title="Sports" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 SD
+https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 
-#EXTINF:-1 tvg-id="1000009278" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports", Sony TEN 3 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009278
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" tvg-name="Sony Sports Ten 4 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 HD
+https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
 
-#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://origin-staticv2.Sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="Sports", Sony TEN 4
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000119187
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5.in" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-logo="https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",Sony TEN 5 SD
+https://cloudplay-sonyliv.pages.dev/ten5.m3u8
 
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports", Sony SIX
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009281
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="Sony Sports Ten 5 HD" group-title="Sports" tvg-logo="https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",Sony TEN 5 HD
+https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
 
-#EXTINF:-1 tvg-id="1000009280" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports", Sony TEN 1
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009280
+#EXTINF:-1 tvg-id="SONY YAY!.in" tvg-name="Sony Yay" group-title="Kids" tvg-logo="https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",Sony Yay
+https://cloudplay-sonyliv.pages.dev/yay.m3u8
 
-#EXTINF:-1 tvg-id="1000009279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports", Sony TEN 2
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009279
+#EXTINF:-1 tvg-id="SONY BBC Earth HD.in" tvg-name="Sony BBC Earth HD" group-title="Infotainment" tvg-logo="https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",Sony BBC Earth HD
+https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8
 
-#EXTINF:-1 tvg-id="1000009283" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports", Sony TEN 3
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009283
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English Movies" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="Hindi Movies",Sony PIX HD
+https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
 
-#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://origin-staticv2.Sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="Sports", Sony TEN 4 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000119186
+#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Hindi Entertainment",Sony Marathii
+https://cloudplay-sonyliv.pages.dev/marathi.m3u8
 
-#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://origin-staticv2.Sonyliv.com/masthead_logo/5571681160001.png" group-title="Infotainment", BBC EARTH
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009252
+#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Hindi Entertainment",Sony Aath
+https://cloudplay-sonyliv.pages.dev/aath.m3u8
