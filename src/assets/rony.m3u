@@ -57,7 +57,7 @@ https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-id="SONY BBC Earth HD.in" tvg-name="Sony BBC Earth HD" group-title="Infotainment" tvg-logo="https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",Sony BBC Earth HD
 https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8
 
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English Movies" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="Hindi Movies",Sony PIX HD
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="English Movies",Sony PIX HD
 https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
 
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Hindi Entertainment",Sony Marathii
