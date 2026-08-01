@@ -271,14 +271,14 @@ https://amg26011-amg26011c1-amgplt0173.playout.now3.amagi.tv/playlist/amg26011-a
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/187/master.m3u8
 
-#EXTINF:-1 tvg-id="188" tvg-logo="",group-title="Marathi", Fakt Marathi
+#EXTINF:-1 tvg-id="188" tvg-logo="" group-title="Marathi", Fakt Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/188/master.m3u8
 
-#EXTINF:-1 tvg-id="189" tvg-logo="",group-title="Marathi", Shemaroo Marathibana
+#EXTINF:-1 tvg-id="189" tvg-logo="",group-title="Marathi" Shemaroo Marathibana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
@@ -286,63 +286,63 @@ http://103.175.73.12:8080/live/188/master.m3u8
 http://103.175.73.12:8080/live/189/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Goldmines Movies" tvg-name="Goldmines Movies" group-title="Hindi Movies" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",Goldmines Movies
+#EXTINF:-1 tvg-id="Goldmines Movies", tvg-name="Goldmines Movies" group-title="Hindi Movies", tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 tvg-id="Goldmines" tvg-name="Goldmines" group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",Goldmines
+#EXTINF:-1 tvg-id="Goldmines", tvg-name="Goldmines", group-title="Hindi Movies", tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 
-#EXTINF:-1 tvg-id="46" tvg-logo="",Goldmines 2
+#EXTINF:-1 tvg-id="46" tvg-logo="",group-title="Hindi Movies", Goldmines 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/46/46_0.m3u8
 
-#EXTINF:-1 tvg-id="47" tvg-logo="",Manoranjan Movies
+#EXTINF:-1 tvg-id="47" tvg-logo="", roup-title="Hindi Movies", Manoranjan Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/47/47_0.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-logo="",Maha Movie
+#EXTINF:-1 tvg-id="48" tvg-logo="",roup-title="Hindi Movies", Maha Movie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/48/48_0.m3u8
 
-#EXTINF:-1 tvg-id="49" tvg-logo="",Shubh Cinema
+#EXTINF:-1 tvg-id="49" tvg-logo="",roup-title="Hindi Movies", Shubh Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/49/49_0.m3u8
 
-#EXTINF:-1 tvg-id="51" tvg-logo="",Goldmines Movies
+#EXTINF:-1 tvg-id="51" tvg-logo="",roup-title="Hindi Movies", Goldmines Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/51/51_0.m3u8
 
-#EXTINF:-1 tvg-id="52" tvg-logo="",Goldmines Bollywood
+#EXTINF:-1 tvg-id="52" tvg-logo="",roup-title="Hindi Movies", Goldmines Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/52/52_0.m3u8
 
-#EXTINF:-1 tvg-id="53" tvg-logo="",Goldmines
+#EXTINF:-1 tvg-id="53" tvg-logo="",roup-title="Hindi Movies", Goldmines
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/53/53_0.m3u8
 
-#EXTINF:-1 tvg-id="54" tvg-logo="",All Time Movies
+#EXTINF:-1 tvg-id="54" tvg-logo="",roup-title="Hindi Movies", All Time Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
