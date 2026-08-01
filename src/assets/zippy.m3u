@@ -1,0 +1,216 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Zee TV HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/zeetvhd.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=65c3633157574361b191059e46e72968&key=78450b11381340c297d96c13183d3744",Zee TV HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=65c3633157574361b191059e46e72968&key=78450b11381340c297d96c13183d3744
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="2" tvg-name="Zee Cinema HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/zeecinemahd.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=f56beaac9f124616872c741c9ce4fa4e&key=5d40a903238f4ad98abbed1877d4e3d1",Zee Cinema HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=f56beaac9f124616872c741c9ce4fa4e&key=5d40a903238f4ad98abbed1877d4e3d1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="3" tvg-name="& Pictures HD" tvg-logo="https://raw.githubusercontent.com/himanshu-temp/Logos/main/Customized_logos/andpictureshd.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=de8045e9f0fb4d03845dcc4a8bd7712a&key=6807bd09bda34ada83152908192af6d6",& Pictures HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=de8045e9f0fb4d03845dcc4a8bd7712a&key=6807bd09bda34ada83152908192af6d6
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+
+#EXTINF:-1 tvg-id="36" tvg-name="& TV HD" tvg-logo="https://i.postimg.cc/6q7c8GQj/&_Pictures_HD.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=67d18634ccb04875875c60fb8d9caaba&key=99a66471c09e4b8a8dc39a0de6803f75",& TV HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=67d18634ccb04875875c60fb8d9caaba&key=99a66471c09e4b8a8dc39a0de6803f75
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="4" tvg-name="Zee TV SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yHNSuG1V.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=ed068cf84f0640ccbc7c0e395c0a272e&key=bb722190f2bb446391020411a7d0828b",Zee TV SD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=ed068cf84f0640ccbc7c0e395c0a272e&key=bb722190f2bb446391020411a7d0828b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="5" tvg-name="And TV SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=26df86eeebb04d7fbc45c948f76e81fd&key=5f3a23f1a73c4c96ababce5fffe7b06b",And TV SD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=26df86eeebb04d7fbc45c948f76e81fd&key=5f3a23f1a73c4c96ababce5fffe7b06b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="6" tvg-name="And Pictures SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=8dea532cabfe4f71ba20f62310e7949f&key=7a214a974e4f4d1d9bb66364d5f0cb92",And Pictures SD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=8dea532cabfe4f71ba20f62310e7949f&key=7a214a974e4f4d1d9bb66364d5f0cb92
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="7" tvg-name="Zee Cinema SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qss9gFuH.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=43513b13f4b542e39c9265921dfc1726&key=b0b2678bcd274c37b888a6c987d502ed",Zee Cinema SD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=43513b13f4b542e39c9265921dfc1726&key=b0b2678bcd274c37b888a6c987d502ed
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="8" tvg-name="Zee Anmol" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QjKdER9Z.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=4023613457774cbeb71a62c339970e63&key=1c3e9fce5f014542be9cd1f749181204",Zee Anmol
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=4023613457774cbeb71a62c339970e63&key=1c3e9fce5f014542be9cd1f749181204
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="9" tvg-name="Zee Anoml Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=812411cba8bc42c79eb2b19cd78ad3f3&key=468a0b8d3d5d42d8a5c41bb875390a74",Zee Anoml Cinema
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=812411cba8bc42c79eb2b19cd78ad3f3&key=468a0b8d3d5d42d8a5c41bb875390a74
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="10" tvg-name="Discovery Kids" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=601f58d4b7094d2baf78c85d1d9cb6c9&key=609e0cc03198455fa36fd2cc3e7f940d",Discovery Kids
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=601f58d4b7094d2baf78c85d1d9cb6c9&key=609e0cc03198455fa36fd2cc3e7f940d
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="11" tvg-name="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=9d7a1917ee3244d198193cdd1ff1feae&key=3c3e8d0259f748f1830f713a769760e7",Zee Action
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=9d7a1917ee3244d198193cdd1ff1feae&key=3c3e8d0259f748f1830f713a769760e7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
+
+#EXTINF:-1 tvg-id="12" tvg-name="Discovey SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/UyI5ljKM.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=b70a8cf9450c4d6484b4ac4d3c6761c0&key=0908be844260409cbac180bf0181da40",Discovey SD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=b70a8cf9450c4d6484b4ac4d3c6761c0&key=0908be844260409cbac180bf0181da40
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="13" tvg-name="TLC" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FOvFsIgt.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=e48e7373d6be47ecab83a20849f6823e&key=513ce07a2ee24ffdbe667eff5a9d46a8",TLC
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=e48e7373d6be47ecab83a20849f6823e&key=513ce07a2ee24ffdbe667eff5a9d46a8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="14" tvg-name="English & Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=9872e439f21f4a299cab249c6554daa3&key=0cdfcfe0d0f1fbe100554ce3ef4c4665",English & Flix SD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=9872e439f21f4a299cab249c6554daa3&key=0cdfcfe0d0f1fbe100554ce3ef4c4665
+https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="15" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=e1ec6098b5014ac7aae0b37f72d5e85e&key=c04950f25d8e4107a96e828e7911e53b",Zee Bihar Jharkhand
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=e1ec6098b5014ac7aae0b37f72d5e85e&key=c04950f25d8e4107a96e828e7911e53b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="16" tvg-name="Zee Bollywood" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=e61523260c614746b25b9a5523fe9a39&key=72ddbf37f76f49acbb8e140e7279e7a1",Zee Bollywood
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=e61523260c614746b25b9a5523fe9a39&key=72ddbf37f76f49acbb8e140e7279e7a1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="17" tvg-name="Zee Business" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vExrDK9r.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=bef87892e58c446d893b16a848703b70&key=51959fcbc8fe4091b570ba254bf749ae",Zee Business
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=bef87892e58c446d893b16a848703b70&key=51959fcbc8fe4091b570ba254bf749ae
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="18" tvg-name="Zee Hindustan" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/TknReKLD.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=10616d7c4bee41f1825bd805c6295172&key=dc85f2112f63477fb39fc149493c49be",Zee Hindustan
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=10616d7c4bee41f1825bd805c6295172&key=dc85f2112f63477fb39fc149493c49be
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="19" tvg-name="Discovery Investigation" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=2828ea6f6a984505b0454da0c03f68b9&key=5d3b7195086544c2807aa8c1544e7379",Discovery Investigation
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=2828ea6f6a984505b0454da0c03f68b9&key=5d3b7195086544c2807aa8c1544e7379
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="20" tvg-name="Discovery Science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=5458f45efedb4d6f8aa6ac76c85b621b&key=dbf8a0a306a64525ba3012fd225370c0",Discovery Science
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=5458f45efedb4d6f8aa6ac76c85b621b&key=dbf8a0a306a64525ba3012fd225370c0
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="21" tvg-name="Discovery Turbo" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=c011525969e44b99a86059dbb3cdf4e8&key=6700a5d93203417b8585f7de7dd1a09b",Discovery Turbo
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=c011525969e44b99a86059dbb3cdf4e8&key=6700a5d93203417b8585f7de7dd1a09b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="22" tvg-name="Zee Talkies" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VGfIqjrc.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=f081f32756374c3d8265e1a1e029614e&key=356a3a6d8ce34d49a84ad464b20b1a3e",Zee Talkies
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=f081f32756374c3d8265e1a1e029614e&key=356a3a6d8ce34d49a84ad464b20b1a3e
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="23" tvg-name="MTV Beats" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/MJZdklJi.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=2a457a6a58184234ba9bfa6916ce8013&key=ef3dd80894774430a33ecbc9108e91d7",MTV Beats
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=2a457a6a58184234ba9bfa6916ce8013&key=ef3dd80894774430a33ecbc9108e91d7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="24" tvg-name="Shorts Tv Active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=b994480f788d41ddbc805862ac469416&key=78a6a0fc1758483595da7113e58e4467",Shorts Tv Active
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=b994480f788d41ddbc805862ac469416&key=78a6a0fc1758483595da7113e58e4467
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="25" tvg-name="Korean Drama Active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=ed197e7253c04946903f03bad9afac91&key=99ebb8683ea74b70a9fda1cbdc2cc1b4",Korean Drama Active
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=ed197e7253c04946903f03bad9afac91&key=99ebb8683ea74b70a9fda1cbdc2cc1b4
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="26" tvg-name="Zing" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=f0fb14eebe474a6ab74c8301d55a7224&key=f9f8b2e30704458b8db844a285ce32be",Zing
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=f0fb14eebe474a6ab74c8301d55a7224&key=f9f8b2e30704458b8db844a285ce32be
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="27" tvg-name="NDTV India" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/iqfloc.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=d78c01625c3f4ed98912609799298544&key=b91bb882f9624872ada6125006fe5c73",NDTV India
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=d78c01625c3f4ed98912609799298544&key=b91bb882f9624872ada6125006fe5c73
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="28" tvg-name="Zee Sarthak" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=ecad0b097b574078a4a1bde24bfdb2e5&key=568bb13d04db4b738864f6c849474cd5",Zee Sarthak
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=ecad0b097b574078a4a1bde24bfdb2e5&key=568bb13d04db4b738864f6c849474cd5
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.mpd
+
+#EXTINF:-1 tvg-id="29" tvg-name="Zoom" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=86edec9e3b7d4042a4d4a1ca14f847ee&key=9def4315f0004019a3705bcb3cf30ca3",Zoom
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=86edec9e3b7d4042a4d4a1ca14f847ee&key=9def4315f0004019a3705bcb3cf30ca3
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="30" tvg-name="Zee Kannada SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1PrOGXAh.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=50e714b65ead453cbfab9b20bed5c79d&key=bc08e108b9ee4f65b99cb9dad9532f3f",Zee Kannada SD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=50e714b65ead453cbfab9b20bed5c79d&key=bc08e108b9ee4f65b99cb9dad9532f3f
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="31" tvg-name="Zee Telugu SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=1ce5cd75a6ad44a38a7d1b8dbaf9c330&key=657fc8e7d533456cb0644fe03458a4b2",Zee Telugu SD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=1ce5cd75a6ad44a38a7d1b8dbaf9c330&key=657fc8e7d533456cb0644fe03458a4b2
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="32" tvg-name="Zee Tamil SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=0d4e3e7dac2d58b93bf819a72fe8d510&key=667a33f4d5bb3587f2d5209886839eac",Zee Tamil SD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=0d4e3e7dac2d58b93bf819a72fe8d510&key=667a33f4d5bb3587f2d5209886839eac
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+
+#EXTINF:-1 tvg-id="33" tvg-name="Zee Bangala SD" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=1df83e058b864da896c9288eef63b113&key=fc32f26239054b56aab48225305598fe",Zee Bangala SD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=1df83e058b864da896c9288eef63b113&key=fc32f26239054b56aab48225305598fe
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="34" tvg-name="Zee Bangala Cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gLSSl4nG.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=fbbfd9ce4bbe4d818b16df7dfe89f05b&key=1e96d0f88ef740e982d6f6105721c8bc",Zee Bangala Cinema
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=fbbfd9ce4bbe4d818b16df7dfe89f05b&key=1e96d0f88ef740e982d6f6105721c8bc
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="35" tvg-name="Zee Marathi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4bimlHJj.png" group-title="Zee" license_type="clearkey" license_key="https://sony-token.vercel.app/api/results.php?keyid=2a8d6c938ea647248f7a10eedc39f097&key=7d81feb84ed84bd88fdc5ca9de3c16da",Zee Marathi
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sony-token.vercel.app/api/results.php?keyid=2a8d6c938ea647248f7a10eedc39f097&key=7d81feb84ed84bd88fdc5ca9de3c16da
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
