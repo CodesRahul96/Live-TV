@@ -310,3 +310,108 @@ http://103.175.73.12:8080/live/271/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/274/master.m3u8
+
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_ETV_BAL_BHARAT" tvg-name="ETV Bal Bharat" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png" group-title="Kids",ETV Bal Bharat
+http://playshare.co:8080/live/1Aoen7elp5/IgMJ60tmAa/355286.ts
+
+#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD" tvg-name="Disney Channel HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney Channel HD
+http://playshare.co:8080/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
+
+#EXTINF:-1 tvg-id="jio-3467" tvg-name="Green Gold TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv-india.png" group-title="Kids",Green Gold TV
+https://greengold.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="562" tvg-name="Movies Now HD" tvg-logo="https://tatalogo.pages.dev/562.png" group-title="Movies" license_type="clearkey" license_key="40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="599" tvg-name="MNX HD" tvg-logo="https://tatalogo.pages.dev/599.png" group-title="Movies" license_type="org.w3.clearkey" license_key="40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="210" tvg-name="MN+ HD" tvg-logo="https://tatalogo.pages.dev/210.png" group-title="Movies" license_type="clearkey" license_key="40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e",MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="174" tvg-name="Romedy Now" tvg-logo="https://tatalogo.pages.dev/174.png" group-title="Movies" license_type="clearkey" license_key="40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+
+#EXTINF:-1 tvg-id="923" tvg-name="Travelxp 4K HDR" tvg-logo="https://tatalogo.pages.dev/923.png" group-title="Infotainment",Travelxp 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+
+#EXTINF:-1 tvg-id="SUN TV HD AU" tvg-name="SUN TV HD AU" tvg-logo="https://sund-images.sunnxt.com/194403/1600x1200_SunTVHD_194403_4fcf48c1-ad41-4f91-a493-886ce54889c1.png" group-title="SunNXT" license_type="clearkey" license_key="3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a",SUN TV HD AU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_index.mpd
+
+#EXTINF:-1 tvg-id="521" tvg-name="Sun TV HDR10" tvg-logo="https://sund-images.sunnxt.com/195491/1600x1200_SunTVHDDolbyVision_195491_de34f097-9a85-462e-9141-33ddc2eef68d.png" group-title="SunNXT",Sun TV HDR10
+https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
+
+#EXTINF:-1 tvg-id="474" tvg-name="Sun Life" tvg-logo="https://i.ibb.co/MkK86W0P/life.png" group-title="SunNXT" license_type="clearkey" license_key="81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992",Sun Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="284" tvg-name="Adithya TV" tvg-logo="https://i.ibb.co/gFFC2vn9/aditya.png" group-title="SunNXT" license_type="clearkey" license_key="d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c",Adithya TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
+https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="443" tvg-name="Sun News" tvg-logo="https://sund-images.sunnxt.com/194404/1600x1200_SunNews_194404_0105c754-b56f-4706-84cd-b4d079575f48.png" group-title="SunNXT" license_type="clearkey" license_key="4df8f920386e4346ba6b7d7ae935d668:c5fcaa8df5663365d938a50987f71b84",Sun News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4df8f920386e4346ba6b7d7ae935d668:c5fcaa8df5663365d938a50987f71b84
+https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="302" tvg-name="Chutti TV" tvg-logo="https://i.ibb.co/6Sf6pWJ/chutti.png" group-title="SunNXT" license_type="clearkey" license_key="05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b",Chutti TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
+https://livestream.sunnxt.com/e3eccb3f250a4ca8826e42914b2322a6/ChuttiTV_IN_index.mpd
+
+#EXTINF:-1 tvg-id="230" tvg-name="Sun Surya" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SunSuryaMovies_Thumbnail_86795cef-46dd-49ac-8c62-4988840eba11.png" group-title="SunNXT" license_type="clearkey" license_key="eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f",Sun Surya
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
+https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
+
+
+#EXTINF:-1 tvg-id="229" tvg-name="Sun SURYA Movies" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/SunSuryaMovies_Thumbnail_86795cef-46dd-49ac-8c62-4988840eba11.png" group-title="SunNXT" license_type="clearkey" license_key="6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1",Sun SURYA Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
+https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="483" tvg-name="Sun SURYA Music" tvg-logo="https://img.media.jio.com/tvpimages/79/13/304169_1777562037872_l_medium.jpg" group-title="SunNXT" license_type="clearkey" license_key="25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58",Sun SURYA Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
+https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="481" tvg-name="Sun SURYA Comedy" tvg-logo="https://img.media.jio.com/tvpimages/41/45/304164_1777561223352_l_medium.jpg" group-title="SunNXT" license_type="clearkey" license_key="11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f",Sun SURYA Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
+https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="Youtube Kids TV" tvg-name="Youtube Kids TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHyoutubekids.png" group-title="Kids",Youtube Kids TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
+
+#EXTINF:-1 tvg-id="Mr.bean" tvg-name="Mr Bean Animated" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB900003KR_20250107T031153SQUARE.png" group-title="Kids",Mr Bean Animated
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mr.bean" tvg-name="Mr Bean Live Action" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000008O5_20250107T031325SQUARE.png" group-title="Kids",Mr Bean Live Action
+https://jmp2.uk/stvp-GB4000008O5
+
+#EXTINF:-1 tvg-id="Tom&Jerry" tvg-name="Tom & Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BODY2YWI1OTAtY2FhZS00MGI1LTk0YjUtYmE3MDk0OGFkMWUyXkEyXkFqcGc@._V1_.jpg" group-title="Kids",Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnePiece.pluto" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="Premium 24/7",One Piece
+https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
+
+#EXTINF:-1 tvg-id="Naruto.pluto" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="Premium 24/7",Naruto
+https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
+
+#EXTINF:-1 tvg-id="Crunchyroll" tvg-name="Crunchyroll" tvg-logo="https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_crunchyroll.webp" group-title="Extras",Crunchyroll
+https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1/gsn_crunchyroll_1/lg_us/latest/main/hls/playlist.m3u8
