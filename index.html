@@ -2,11 +2,72 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>live-tv</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    
+    <!-- Primary Meta Tags -->
+    <title>LiveTV — Watch Free Live TV, News, Sports & Movies</title>
+    <meta name="title" content="LiveTV — Watch Free Live TV, News, Sports & Movies" />
+    <meta name="description" content="Stream live TV channels worldwide for free with instant loading, adaptive HLS player, system theme dark/light mode, favorites, category filters, and keyboard shortcuts." />
+    <meta name="keywords" content="live tv, free streaming, live iptv, hls player, online news, sports streaming, entertainment tv, web player" />
+    <meta name="author" content="LiveTV" />
+    <meta name="robots" content="index, follow" />
+    
+    <!-- Theme & Color Scheme -->
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f8fafc" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#090d16" />
+    
+    <!-- Prevent FOUC (Flash of Unstyled Content) Theme Script -->
+    <script>
+      (function() {
+        try {
+          var storedTheme = localStorage.getItem('live_tv_theme');
+          var isDark = false;
+          if (storedTheme === 'dark') {
+            isDark = true;
+          } else if (storedTheme === 'light') {
+            isDark = false;
+          } else {
+            isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          }
+          if (isDark) {
+            document.documentElement.classList.add('dark');
+            document.documentElement.classList.remove('light');
+          } else {
+            document.documentElement.classList.add('light');
+            document.documentElement.classList.remove('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+    
+    <!-- Favicon & Icons -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="LiveTV" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="LiveTV" />
+    <meta property="og:title" content="LiveTV — Stream Live TV Channels Seamlessly" />
+    <meta property="og:description" content="Stream live TV channels worldwide for free with modern adaptive video player, favorites, search, and theater mode." />
+    <meta property="og:image" content="/favicon.svg" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content="LiveTV — Stream Live TV Channels Seamlessly" />
+    <meta property="twitter:description" content="Stream live TV channels worldwide for free with modern adaptive video player, favorites, search, and theater mode." />
+    <meta property="twitter:image" content="/favicon.svg" />
+
+    <!-- Google Fonts Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
   </head>
-  <body>
+  <body class="bg-slate-50 dark:bg-[#090d16] text-slate-900 dark:text-slate-100 transition-colors duration-200 antialiased selection:bg-sky-500 selection:text-white">
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>

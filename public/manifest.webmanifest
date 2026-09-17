@@ -1,0 +1,19 @@
+{
+  "name": "LiveTV - Stream Live Television Channels",
+  "short_name": "LiveTV",
+  "description": "Watch free live TV channels, breaking news, sports, entertainment, and movies streaming worldwide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#0ea5e9",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["entertainment", "multimedia", "news"]
+}
